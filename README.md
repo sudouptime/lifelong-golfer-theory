@@ -367,9 +367,9 @@ Less management allows more attention to be devoted to execution.
 
 ### Role Specialization
 
-Assign each club a clearly defined responsibility.
+Assign each club a clearly defined area of responsibility.
 
-Rather than asking one club to perform too many roles, this theory emphasizes deeply understanding one responsibility at a time.
+Rather than asking one club to perform an unlimited number of tasks, this theory clearly defines the area each club is responsible for and emphasizes developing a deep understanding of that responsibility.
 
 ### Repeatability
 
