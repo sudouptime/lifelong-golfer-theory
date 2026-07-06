@@ -6,21 +6,21 @@ A theory for enjoying golf over a lifetime.
 
 ## Languages
 
-- [English](README.md)
-- [日本語](docs/ja/README.md)
-- [한국어](docs/ko/README.md)
-- [简体中文](docs/zh-hans/README.md)
-- [繁體中文](docs/zh-hant/README.md)
-- [Deutsch](docs/de/README.md)
-- [Français](docs/fr/README.md)
-- [Español](docs/es/README.md)
-- [Italiano](docs/it/README.md)
-- [Nederlands](docs/nl/README.md)
-- [Svenska](docs/sv/README.md)
-- [Português](docs/pt/README.md)
-- [Dansk](docs/da/README.md)
-- [Norsk](docs/no/README.md)
-- [Suomi](docs/fi/README.md)
+* [English](README.md)
+* [日本語](docs/ja/README.md)
+* [한국어](docs/ko/README.md)
+* [简体中文](docs/zh-hans/README.md)
+* [繁體中文](docs/zh-hant/README.md)
+* [Deutsch](docs/de/README.md)
+* [Français](docs/fr/README.md)
+* [Español](docs/es/README.md)
+* [Italiano](docs/it/README.md)
+* [Nederlands](docs/nl/README.md)
+* [Svenska](docs/sv/README.md)
+* [Português](docs/pt/README.md)
+* [Dansk](docs/da/README.md)
+* [Norsk](docs/no/README.md)
+* [Suomi](docs/fi/README.md)
 
 ---
 
@@ -36,10 +36,10 @@ It is a system-design framework for reducing unnecessary complexity, improving r
 
 This theory is built on four core principles:
 
-- Management Complexity Optimization
-- Role Specialization
-- Repeatability
-- Sustainability
+* Management Complexity Optimization
+* Role Specialization
+* Repeatability
+* Sustainability
 
 The purpose of this theory is not to pursue short-term maximum performance.
 
@@ -101,12 +101,12 @@ They are the starting point for long-term validation.
 
 As more rounds are played and new observations are collected, both the theory and its implementation may continue to evolve.
 
-- Golf Experience: 1 year
-- Rounds Played: 17
-- Best Score (White Tee): 93
-- Best Score (Blue Tee): 109
-- Average of Last 5 Rounds (White Tee): 106
-- Average of Last 5 Rounds (Blue Tee): 114
+* Golf Experience: 1 year
+* Rounds Played: 17
+* Best Score (White Tee): 93
+* Best Score (Blue Tee): 109
+* Average of Last 5 Rounds (White Tee): 106
+* Average of Last 5 Rounds (Blue Tee): 114
 
 Depending on the event and playing partners, I typically play from either the White or Blue tees.
 
@@ -118,9 +118,9 @@ When I began playing golf, I attended one lesson each week.
 
 The objective was clear.
 
-- Teach my body an entirely new movement.
-- Build new neural pathways.
-- Reinforce those pathways through repetition.
+* Teach my body an entirely new movement.
+* Build new neural pathways.
+* Reinforce those pathways through repetition.
 
 To accelerate the learning process, I hit approximately 500 balls per day, including lesson days, using both indoor golf simulators and driving ranges.
 
@@ -132,12 +132,12 @@ After learning the fundamentals, I stopped taking lessons and continued developi
 
 Since then, I have relied on:
 
-- YouTube
-- Books
-- Indoor Golf Simulators
-- Driving Ranges
-- Short Courses
-- Full-Length Courses
+* YouTube
+* Books
+* Indoor Golf Simulators
+* Driving Ranges
+* Short Courses
+* Full-Length Courses
 
 to continue testing and refining an approach that is repeatable and less physically demanding for my body.
 
@@ -203,10 +203,10 @@ The essence of this theory is not a specific club setup.
 
 Its foundation consists of four core principles:
 
-- Management Complexity Optimization
-- Role Specialization
-- Repeatability
-- Sustainability
+* Management Complexity Optimization
+* Role Specialization
+* Repeatability
+* Sustainability
 
 For that reason, this theory does not recommend a single club configuration for every golfer.
 
@@ -232,16 +232,17 @@ The longest club is not selected by maximum potential distance alone.
 
 It is selected based on the overall balance of distance, repeatability, physical stress, and compatibility with the rest of the system.
 
-The current implementation consists of six clubs, excluding the putter.
+The current implementation consists of seven clubs, excluding the putter.
 
-| Club | Role | Carry Distance |
-|------|------|---------------:|
-| 3W (15°) | Maximum Distance | 200–240 yd |
-| 7W (21°) | Mid Distance | 160–190 yd |
-| 13W (34°) | Primary Club | 1–150 yd |
-| AW (46°) | Recovery Club | 1–80 yd |
-| SW (58°) | Finishing Club | 1–40 yd |
-| 15W LH (39°) | Specialty Club | 1–130 yd |
+| Club         | Role                          | Carry Distance |
+| ------------ | ----------------------------- | -------------: |
+| 3W (15°)     | Maximum Distance              |     200–240 yd |
+| 7W (21°)     | Mid Distance                  |     160–190 yd |
+| 13W (34°)    | Primary Club                  |       1–150 yd |
+| AW (46°)     | Recovery Club                 |        1–80 yd |
+| SW (58°)     | Finishing Club                |        1–40 yd |
+| 5W LH (18°)  | Long-Distance Specialty Club  |     140–220 yd |
+| 15W LH (39°) | Short-Distance Specialty Club |       1–130 yd |
 
 ### 3W (15°)
 
@@ -311,17 +312,69 @@ The SW is not a maximum-distance club.
 
 It is responsible for maximum height and maximum stopping power.
 
+### Left-Handed Clubs
+
+The current implementation includes left-handed clubs.
+
+These clubs are not intended to replace the standard right-handed setup.
+
+Instead, they exist to handle situations where a conventional right-handed shot would require unnecessary complexity, excessive physical stress, or a significantly lower probability of success.
+
+Within this theory, left-handed clubs are treated as specialty tools.
+
+Their purpose is not to increase shot variety.
+
+Their purpose is to simplify recovery by assigning dedicated solutions to situations that occur repeatedly.
+
+A possible criticism of this approach is that introducing left-handed clubs appears to increase management complexity.
+
+That criticism is valid to some extent.
+
+A left-handed swing is itself another movement pattern that must be maintained.
+
+However, in the current implementation, that additional cost is intentionally limited.
+
+Only two left-handed clubs are included, and both are woods.
+
+No left-handed wedge or putter is added.
+
+The reason is that the current implementation does not require a complete left-handed system.
+
+It only requires two recovery tools: one for longer escape shots and one for shorter controlled recovery shots.
+
+Because both clubs are woods, they share many movement characteristics with the rest of the system.
+
+Rather than introducing an entirely different family of clubs, this theory extends the existing wood-based movement pattern to the opposite side.
+
+The important question is not simply how many clubs are included.
+
+The important question is how many additional movement patterns must be maintained.
+
+### 5W LH (18°)
+
+The long-distance specialty club.
+
+It is responsible for carries between 140 and 220 yards.
+
+This is a left-handed club used for longer recovery situations that cannot be handled effectively by the standard right-handed setup.
+
+It is used when trees, obstacles, slope, stance restrictions, or course layout make a right-handed shot impractical.
+
+Within this theory, the 5W LH is not included to expand shot variety.
+
+It is included to provide a repeatable left-handed option for longer escape shots.
+
 ### 15W LH (39°)
 
-The specialty club.
+The short-distance specialty club.
 
 It is responsible for carries between 1 and 130 yards.
 
-This is a left-handed club used for unusual situations that cannot be handled effectively by the standard right-handed setup.
+This is a left-handed club used for shorter recovery situations that cannot be handled effectively by the standard right-handed setup.
 
-At present, this configuration provides the highest repeatability while placing the least physical stress on my body.
+It serves the same philosophy as the 5W LH but focuses on shorter shots that require greater control.
 
-For the foreseeable future, this implementation will remain fixed while long-term testing continues.
+At present, these left-handed clubs provide dedicated recovery options while preserving the overall structure of the system.
 
 ## Why This Theory Exists
 
@@ -399,11 +452,11 @@ Golf is a continuous sequence of decisions.
 
 Every shot requires choices such as:
 
-- Club selection
-- Swing type
-- Ball position
-- Target line
-- Shot strategy
+* Club selection
+* Swing type
+* Ball position
+* Target line
+* Shot strategy
 
 Each decision consumes attention.
 
@@ -431,8 +484,6 @@ Simplicity itself is not the objective.
 
 Optimization is.
 
----
-
 ## Why Reduce Movement Patterns?
 
 When I first began playing golf, one statement stayed with me:
@@ -457,11 +508,11 @@ Putter.
 
 On top of that, every lie and situation introduced additional variables.
 
-- A teed-up ball
-- A ball on the ground
-- Rough
-- Bunkers
-- Uneven lies
+* A teed-up ball
+* A ball on the ground
+* Rough
+* Bunkers
+* Uneven lies
 
 Even on a flat practice mat, learning to strike every club consistently seemed to require an enormous amount of repetition.
 
@@ -533,8 +584,6 @@ Fewer options can create deeper understanding.
 
 This theory deliberately chooses the latter.
 
----
-
 ## Why This Theory Does Not Use Irons
 
 In the current implementation, this theory does not use irons.
@@ -553,10 +602,10 @@ However, after considering long-term sustainability, practice requirements, repe
 
 The key criteria were:
 
-- Long-term sustainability
-- Required practice volume
-- Repeatability
-- Maintenance cost
+* Long-term sustainability
+* Required practice volume
+* Repeatability
+* Maintenance cost
 
 Many experienced golfers eventually say:
 
@@ -588,11 +637,11 @@ During testing, fairway woods felt more suitable to this theory than hybrids in 
 
 The main reasons were:
 
-- A wider sole
-- Smoother turf interaction
-- Easier launch
-- More height with less effort
-- Less impact stress on the wrists
+* A wider sole
+* Smoother turf interaction
+* Easier launch
+* More height with less effort
+* Less impact stress on the wrists
 
 Fairway woods also made it easier to produce height and distance with less physical effort.
 
@@ -603,8 +652,6 @@ For many golfers, hybrids are excellent clubs.
 However, under the principles of this system, fairway woods fulfilled the same responsibilities with fewer compromises.
 
 For that reason, hybrids are not included in the current implementation.
-
----
 
 ## Why This Theory Limits Wedge Distances
 
@@ -622,8 +669,8 @@ The emphasis is consistency.
 
 Within the current implementation:
 
-- SW (58°) is responsible for carries between 1 and 40 yards.
-- AW (46°) is responsible for carries between 1 and 80 yards.
+* SW (58°) is responsible for carries between 1 and 40 yards.
+* AW (46°) is responsible for carries between 1 and 80 yards.
 
 The basic role of the wedges is clear.
 
@@ -641,9 +688,9 @@ Each club is assigned a clear role.
 
 Within the current implementation, responsibilities are divided as follows:
 
-- Rolling approaches → 13W / AW
-- Shots requiring both height and forward movement → AW
-- Maximum height and maximum stopping power → SW
+* Rolling approaches → 13W / AW
+* Shots requiring both height and forward movement → AW
+* Maximum height and maximum stopping power → SW
 
 This role structure reduces overlap between clubs and reinforces role specialization throughout the system.
 
@@ -663,9 +710,9 @@ A fairway wood, by contrast, is built around hitting the ball from the ground.
 
 Using a driver introduces additional variables such as:
 
-- Tee height
-- Upward angle of attack
-- Driver-specific swing pattern
+* Tee height
+* Upward angle of attack
+* Driver-specific swing pattern
 
 I can produce high maximum clubhead speed with a driver.
 
@@ -693,12 +740,12 @@ This prevents the system from introducing a separate premise for the first shot.
 
 Removing tees also removes additional management tasks:
 
-- Buying tees
-- Carrying tees
-- Placing tees
-- Picking up tees
-- Disposing of broken tees
-- Replenishing tee inventory
+* Buying tees
+* Carrying tees
+* Placing tees
+* Picking up tees
+* Disposing of broken tees
+* Replenishing tee inventory
 
 Of course, hitting from the ground means accepting the influence of lie conditions.
 
@@ -713,8 +760,6 @@ The first shot and all subsequent shots are handled as part of the same ground-b
 This is not a decision to give up distance.
 
 It is a decision to reduce variables and increase repeatability.
-
----
 
 ## The Role of the Driver
 
@@ -734,8 +779,8 @@ The driver is treated not as a scoring club, but as a club for pursuing maximum 
 
 In other words:
 
-- Driver = pursuit of maximum distance
-- 3W and below = scoring configuration
+* Driver = pursuit of maximum distance
+* 3W and below = scoring configuration
 
 The maximum-distance club in the current implementation is the 3W.
 
@@ -763,19 +808,19 @@ As unnecessary tension decreased, gloves were no longer essential.
 
 Removing gloves also removes additional management tasks:
 
-- Buying gloves
-- Carrying gloves
-- Putting them on and taking them off
-- Washing them
-- Drying them
-- Replacing them
+* Buying gloves
+* Carrying gloves
+* Putting them on and taking them off
+* Washing them
+* Drying them
+* Replacing them
 
 It also reduces glove-specific issues such as:
 
-- Sweat-related hardening
-- Dirt
-- Slipping inside the glove
-- Glove tan lines
+* Sweat-related hardening
+* Dirt
+* Slipping inside the glove
+* Glove tan lines
 
 Playing barehanded is one part of Management Complexity Optimization within this theory.
 
@@ -791,9 +836,9 @@ The role of a chipper is already covered by other clubs in the current system.
 
 Within the current implementation, responsibilities are divided as follows:
 
-- Rolling approaches → 13W / AW
-- Shots requiring both height and forward movement → AW
-- Maximum height and maximum stopping power → SW
+* Rolling approaches → 13W / AW
+* Shots requiring both height and forward movement → AW
+* Maximum height and maximum stopping power → SW
 
 Before adding a new club, this theory first asks whether the existing system can solve the problem.
 
@@ -803,8 +848,8 @@ At the same time, it increases management complexity.
 
 For that reason, before adding a new tool, this theory asks:
 
-- Can the current system solve this problem?
-- Can the required skill be developed with an existing club?
+* Can the current system solve this problem?
+* Can the required skill be developed with an existing club?
 
 Only when the answer is no should a new club be considered.
 
@@ -814,28 +859,26 @@ This theory does not reject chippers.
 
 It simply concludes that their role is already contained within the current system.
 
----
-
 ## KPI
 
 ### Short-Term Goals
 
-- Break 90 from the White tees.
-- Consistently break 100 from the Blue tees.
+* Break 90 from the White tees.
+* Consistently break 100 from the Blue tees.
 
 ---
 
 ### Mid-Term Goals
 
-- Consistently score in the 90s from the Blue tees.
-- Continue playing golf without major injury.
+* Consistently score in the 90s from the Blue tees.
+* Continue playing golf without major injury.
 
 ---
 
 ### Long-Term Goals
 
-- Achieve par-level golf.
-- Establish a golf system that can be maintained over a lifetime.
+* Achieve par-level golf.
+* Establish a golf system that can be maintained over a lifetime.
 
 ---
 
