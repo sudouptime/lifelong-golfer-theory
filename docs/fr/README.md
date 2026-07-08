@@ -1,6 +1,6 @@
 # Théorie du golfeur à vie #001
 
-Une théorie pour profiter du golf toute sa vie.
+Eine Systemdesign-Theorie für lebenslanges Golfspielen.
 
 ---
 
