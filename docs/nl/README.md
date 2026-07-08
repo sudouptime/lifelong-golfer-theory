@@ -1,6 +1,6 @@
 # Theorie van de Levenslange Golfer #001
 
-Een theorie om een leven lang van golf te genieten.
+Een systeemontwerptheorie voor een leven lang golf.
 
 ---
 
