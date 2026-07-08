@@ -1,6 +1,6 @@
 # Lifelong Golfer Theory #001
 
-A theory for enjoying golf over a lifetime.
+A golf system design theory for lifelong play.
 
 ---
 
