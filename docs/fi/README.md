@@ -1,6 +1,6 @@
 # Elinikäisen Golfarin Teoria #001
 
-Teoria golfista nauttimiseen koko elämän ajan.
+Golfjärjestelmän suunnitteluteoria elinikäistä golfia varten.
 
 ---
 
