@@ -1,6 +1,6 @@
 # Teoría del Golfista de por Vida #001
 
-Una teoría para disfrutar del golf durante toda la vida.
+Una teoría de diseño de sistemas de golf para jugar durante toda la vida.
 
 ---
 
