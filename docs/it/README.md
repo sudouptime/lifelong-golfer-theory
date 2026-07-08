@@ -1,6 +1,6 @@
 # Teoria del Golfista per Tutta la Vita #001
 
-Una teoria per godersi il golf per tutta la vita.
+Una teoria di progettazione di sistemi di golf per giocare tutta la vita.
 
 ---
 
