@@ -1,6 +1,6 @@
 # Teorin om den Livslånga Golfaren #001
 
-En teori för att njuta av golf hela livet.
+En systemdesignteori för ett livslångt golfspel.
 
 ---
 
