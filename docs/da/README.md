@@ -1,10 +1,10 @@
-# Livslång golfteori
+# Teorien om den livslange golfspiller
 
-En systemdesignteori för ett livslångt golfspel.
+En systemdesignteori for golf gennem hele livet.
 
 ---
 
-## Språk
+## Sprog
 
 - [English](../../README.md)
 - [日本語](../ja/README.md)
@@ -24,493 +24,493 @@ En systemdesignteori för ett livslångt golfspel.
 
 ---
 
-## Översikt
+## Oversigt
 
-Livslång golfteori (Lifelong Golfer Theory) är en teori för att utforma ett golfsystem som kan upprätthållas under hela livet.
+Teorien om den livslange golfspiller (Lifelong Golfer Theory) er en teori om at designe et golfsystem, som kan opretholdes gennem hele livet.
 
-Det är inte en svingteori.
+Det er ikke en svingteori.
 
-Det är inte heller en universell rekommendation för hur en golfbag ska sättas samman.
+Det er heller ikke en universel anbefaling af en bestemt sammensætning af golfkøller.
 
-Det är en systemdesignteori för golf vars mål är att minska onödig komplexitet, förbättra repeterbarheten och göra det möjligt att spela golf under lång tid.
+Det er en systemdesignteori for golf, hvis formål er at reducere unødig kompleksitet, forbedre reproducerbarheden og gøre det muligt at spille golf hele livet.
 
-Teorin bygger på fyra grundprinciper:
+Denne teori bygger på fire grundlæggende principper:
 
-- Optimering av hanteringskomplexitet
-- Rollspecialisering
-- Repeterbarhet
-- Hållbarhet
+- Optimering af styringskompleksitet
+- Rollespecialisering
+- Reproducerbarhed
+- Bæredygtighed
 
-Målet med denna teori är inte att maximera den kortsiktiga prestationen.
+Formålet med denne teori er ikke at maksimere den kortsigtede præstation.
 
-Syftet är att minska onödig fysisk belastning, förenkla beslutsfattandet och bygga ett golfsystem som kan fungera under flera decennier.
+Formålet er at reducere unødig fysisk belastning, forenkle beslutningstagningen og opbygge et golfsystem, som kan opretholdes i årtier.
 
-Den nuvarande implementeringen bygger främst på fairwaywoods och wedgar.
+Den nuværende implementering er centreret omkring fairwaywoods og wedges.
 
-Genom att minska antalet klubbor, rörelsemönster och beslut under en rond strävar systemet efter att förbättra repeterbarheten samtidigt som glädjen i golfen bevaras på lång sikt.
+Ved at reducere antallet af køller, bevægelsesmønstre og beslutninger under runden søger systemet at forbedre reproducerbarheden, samtidig med at glæden ved golf bevares på lang sigt.
 
 ---
 
 ## Terminologi
 
-Följande begrepp används i detta dokument.
+Følgende begreber anvendes i dette dokument.
 
-### Optimering av hanteringskomplexitet
+### Optimering af styringskompleksitet
 
-Att minska antalet faktorer som kontinuerligt måste hanteras under träning och spel.
+At reducere antallet af elementer, som løbende skal håndteres under træning og spil.
 
-### Rollspecialisering
+### Rollespecialisering
 
-Att ge varje klubba en tydlig och avgränsad uppgift.
+At tildele hver kølle en tydelig og velafgrænset rolle.
 
-### Repeterbarhet
+### Reproducerbarhed
 
-Att prioritera prestationer som kan upprepas konsekvent framför tillfälliga topprestationer.
+At prioritere præstationer, som kan gentages konsekvent, frem for midlertidige toppræstationer.
 
-### Hållbarhet
+### Bæredygtighed
 
-Att bygga ett golfsystem som kan upprätthållas under hela livet – fysiskt, mentalt och praktiskt.
-
----
-
-## Målgrupp
-
-Denna teori riktar sig till golfare på alla nivåer som vill bygga ett hållbart golfsystem för långsiktigt spel.
-
-Den föreslår inte en och samma klubbsammansättning för alla.
-
-Konfigurationen som presenteras här är endast en möjlig implementering baserad på teorins principer.
-
-Den optimala implementeringen beror på slaglängd, fysisk förmåga, ålder, skadehistorik, träningsmiljö och individuella förutsättningar.
-
-Implementeringen är personlig.
-
-Principerna är universella.
+At opbygge et golfsystem, som fysisk, mentalt og praktisk kan opretholdes gennem hele livet.
 
 ---
 
-## Nuvarande resultat
+## Målgruppe
 
-Projektet befinner sig för närvarande i en tidig valideringsfas.
+Denne teori henvender sig til golfspillere på alle niveauer, som ønsker at opbygge et bæredygtigt golfsystem på lang sigt.
 
-Resultaten nedan bygger på den nuvarande implementeringen av Livslång golfteori.
+Den anbefaler ikke den samme sammensætning af køller til alle.
 
-De presenteras inte som ett bevis för teorin.
+Konfigurationen i dette dokument er blot én implementering baseret på teoriens principper.
 
-De utgör startpunkten för en långsiktig validering.
+Den optimale implementering afhænger af slaglængde, fysisk formåen, alder, skadeshistorik, træningsmiljø og individuelle forhold.
 
-Allteftersom fler rundor spelas och nya observationer görs kan både teorin och dess implementering fortsätta att utvecklas.
+Implementeringen er personlig.
 
-- Erfarenhet av golf: 1 år
-- Spelade rundor: 17
-- Bästa resultat (vita tees): 93
-- Bästa resultat (blå tees): 109
-- Genomsnitt de senaste 5 rundorna (vita tees): 106
-- Genomsnitt de senaste 5 rundorna (blå tees): 114
-
-Beroende på tävling och medspelare spelar jag normalt från vita eller blå tees.
+Principperne er universelle.
 
 ---
 
-## Inlärningsmiljö
+## Nuværende resultater
 
-När jag började spela golf tog jag en lektion i veckan.
+Projektet befinder sig i øjeblikket i en tidlig valideringsfase.
 
-Målen var tydliga.
+Resultaterne nedenfor er baseret på den nuværende implementering af Teorien om den livslange golfspiller.
 
-- Lära kroppen en helt ny rörelse.
-- Skapa nya neurala kopplingar.
-- Stärka dessa kopplingar genom upprepning.
+De præsenteres ikke som et bevis på teorien.
 
-För att påskynda inlärningen slog jag omkring 500 bollar om dagen – även de dagar då jag hade lektion – både på inomhussimulatorer och driving range.
+De udgør blot udgangspunktet for en langsigtet validering.
 
-Jag höll fast vid den rutinen i ungefär två månader.
+Efterhånden som flere runder spilles, og nye observationer indsamles, kan både teorien og dens implementering fortsætte med at udvikle sig.
 
-Under den perioden drabbades jag dock av flera skador.
+- Golferfaring: 1 år
+- Spillede runder: 17
+- Bedste score (hvide tees): 93
+- Bedste score (blå tees): 109
+- Gennemsnit af de seneste 5 runder (hvide tees): 106
+- Gennemsnit af de seneste 5 runder (blå tees): 114
 
-Med det jag hade lärt mig under dessa två första månader som grund fortsatte jag därefter att utveckla teorin på egen hand.
+Afhængigt af turneringen og mine medspillere spiller jeg normalt fra de hvide eller blå tees.
 
-Sedan dess har jag använt:
+---
+
+## Læringsmiljø
+
+Da jeg begyndte at spille golf, tog jeg én lektion om ugen.
+
+Målet var klart.
+
+- At lære min krop en helt ny bevægelse.
+- At opbygge nye neurale forbindelser.
+- At styrke disse forbindelser gennem gentagelse.
+
+For at fremskynde indlæringen slog jeg omkring 500 bolde om dagen – også på de dage, hvor jeg havde undervisning – både på indendørs golfsimulatorer og på driving range.
+
+Jeg fastholdt denne rutine i omkring to måneder.
+
+I løbet af denne periode pådrog jeg mig dog flere skader.
+
+Med udgangspunkt i det, jeg havde lært i disse første to måneder, fortsatte jeg derefter mine undersøgelser på egen hånd.
+
+Siden da har jeg benyttet:
 
 - YouTube
-- Böcker
-- Inomhussimulatorer för golf
-- Driving range
-- Korthålsbanor
-- 18-hålsbanor
+- Bøger
+- Indendørs golfsimulatorer
+- Driving ranges
+- Korthulsbaner
+- 18-hullers golfbaner
 
-för att kontinuerligt testa och förbättra en metod som både är repeterbar och skonsammare för kroppen.
+for løbende at teste og forbedre en tilgang, der både er reproducerbar og mindre belastende for kroppen.
 
-På den tiden visste jag inte vilken väg som var den rätta.
+På det tidspunkt vidste jeg ikke, hvilken vej der var den rigtige.
 
-Min lösning var enkel.
+Min løsning var enkel.
 
-Att slå fler bollar.
+At slå flere bolde.
 
-Till slut ledde just den strategin till skador.
+Til sidst førte netop denne tilgang til skader.
 
-Idag ser jag helt annorlunda på saken.
+I dag ser jeg helt anderledes på det.
 
-Jämfört med den perioden har både träningsfrekvensen och träningsintensiteten stabiliserats på en betydligt mer hållbar nivå.
+Sammenlignet med dengang er både træningsfrekvensen og træningsintensiteten faldet til et langt mere bæredygtigt niveau.
 
-Denna teori syftar inte till att förbättras enbart genom att öka träningsmängden.
+Denne teori handler ikke om at blive bedre alene ved at træne mere.
 
-Den prioriterar repeterbarhet, hållbarhet och långsiktig utveckling.
+Den prioriterer reproducerbarhed, bæredygtighed og langsigtet udvikling.
 
 ---
 
 ## Introduktion
 
-Jag började spela golf för ungefär ett år sedan.
+Jeg begyndte at spille golf for omkring et år siden.
 
-Precis som många nybörjare fascinerades jag först av slaglängd.
+Ligesom mange begyndere blev jeg først fascineret af slaglængde.
 
-Jag trodde att förmågan att bemästra svårare klubbor i sig var ett bevis på utveckling.
+Jeg troede, at det i sig selv var et bevis på udvikling at kunne mestre vanskeligere køller.
 
-Jag byggde ihop ett komplett set med muscle-back-järn, från järn 1 till pitching wedge, och försökte bygga hela mitt spel kring avståndsskillnader upp till 240 yards.
+Jeg samlede et komplet sæt muscle-back-jern – fra 1-jern til pitching wedge – og forsøgte at opbygge hele mit spil omkring afstandsforskelle på op til 240 yards.
 
-Jag slog också utslag på omkring 320 yards med drivern.
+Jeg slog også drives på omkring 320 yards.
 
-Den jakten på maximal längd hade dock ett pris.
+Denne jagt på maksimal længde havde dog en pris.
 
-En skada i revbensbrosket tvingade mig att göra ett uppehåll från golfen i två månader.
+En skade i ribbensbrusken tvang mig til at holde to måneders pause fra golf.
 
-Efter min återkomst fortsatte jag att träna intensivt med järnklubbor, vilket till slut ledde till smärta i axeln och kronisk smärta i handleden.
+Efter min tilbagevenden fortsatte jeg med intensiv træning med jernkøller, hvilket til sidst førte til smerter i skulderen og kroniske smerter i håndleddet.
 
-Dessa erfarenheter förändrade helt mitt sätt att se på golf.
+Disse oplevelser ændrede fuldstændigt mit syn på golf.
 
-Fram till dess hade jag alltid ställt mig samma fråga:
+Indtil da stillede jeg mig altid det samme spørgsmål:
 
-> "Hur kan jag slå bollen längre?"
+> "Hvordan kan jeg slå bolden længere?"
 
-Med tiden förändrades frågan till:
+Senere blev spørgsmålet i stedet:
 
-> "Hur kan jag fortsätta spela golf i tjugo år utan att förstöra kroppen?"
+> "Hvordan kan jeg fortsætte med at spille golf de næste tyve år uden at ødelægge min krop?"
 
-Mitt fokus flyttades från maximal längd till optimal längd.
+Mit fokus flyttede sig fra maksimal længde til optimal længde.
 
-I stället för att försöka bli en långtslående golfare valde jag att bli en golfare för livet.
+I stedet for at forsøge at blive en langtslående golfspiller valgte jeg at blive en golfspiller for livet.
 
-I sökandet efter ett mer hållbart tillvägagångssätt gick jag gradvis ifrån en järncentrerad uppsättning och byggde i stället ett system som huvudsakligen bygger på fairwaywoods och wedgar.
+I jagten på en mere bæredygtig tilgang bevægede jeg mig gradvist væk fra en jerncentreret opsætning og udviklede i stedet et system baseret på fairwaywoods og wedges.
 
-Det är ur denna process som teorin har vuxit fram.
+Det er gennem denne proces, at teorien blev til.
 
-Dess långsiktiga mål är att undersöka om golf på parnivå är möjlig samtidigt som kroppen skyddas på lång sikt.
-
----
-
-## Teori och implementering
-
-Kärnan i denna teori är inte en viss klubbsammansättning.
-
-Den bygger på fyra grundprinciper:
-
-- Optimering av hanteringskomplexitet
-- Rollspecialisering
-- Repeterbarhet
-- Hållbarhet
-
-Därför rekommenderar teorin inte samma uppsättning klubbor till alla golfare.
-
-Konfigurationen i detta dokument är endast den nuvarande implementeringen.
-
-Den optimala implementeringen beror på slaglängd, fysisk förmåga, ålder, skadehistorik, träningsmiljö och individuella förutsättningar.
-
-Det viktiga är inte klubborna i sig.
-
-Det viktiga är att minska den komplexitet som måste hanteras, ge varje klubba en tydlig roll och bygga ett hållbart golfsystem för långsiktigt spel.
+Det langsigtede mål er at undersøge, om det er muligt at spille golf på parniveau samtidig med, at kroppen beskyttes.
 
 ---
 
-## Nuvarande implementering
+## Teori og implementering
 
-I denna teori styrs avståndet främst genom svingens längd och greppets position.
+Kernen i denne teori er ikke en bestemt sammensætning af køller.
 
-I stället för att lägga till fler klubbor för att skapa mindre avståndsskillnader får varje klubba en tydligt definierad roll.
+Den bygger på fire grundlæggende principper:
 
-I den nuvarande implementeringen ansvarar 3W för maximal slaglängd.
+- Optimering af styringskompleksitet
+- Rollespecialisering
+- Reproducerbarhed
+- Bæredygtighed
 
-Den längsta klubban väljs inte enbart utifrån längd.
+Derfor anbefaler denne teori ikke den samme opsætning af køller til alle golfspillere.
 
-Valet bygger på en helhetsbedömning av slaglängd, repeterbarhet, fysisk belastning och hur väl klubban passar in i hela systemet.
+Konfigurationen i dette dokument er blot den nuværende implementering.
 
-Den nuvarande implementeringen består av sju klubbor, exklusive puttern.
+Den optimale implementering afhænger af slaglængde, fysisk formåen, alder, skadeshistorik, træningsmiljø og individuelle forhold.
 
-| Klubba | Roll | Carry-distans |
-|--------|------|--------------:|
-| 3W (15°) | Maximal längd | 200–240 yd |
-| 7W (21°) | Medellång distans | 160–190 yd |
-| 13W (34°) | Huvudklubba | 1–150 yd |
-| AW (46°) | Recovery-klubba | 1–80 yd |
-| SW (58°) | Finish-klubba | 1–40 yd |
-| 5W LH (18°) | Specialiserad recovery-klubba | 140–220 yd |
-| 15W LH (39°) | Specialiserad recovery-klubba | 1–130 yd |
+Det vigtigste er ikke køllerne i sig selv.
+
+Det vigtigste er at reducere styringskompleksiteten, give hver kølle en tydelig rolle og opbygge et bæredygtigt golfsystem på lang sigt.
+
+---
+
+## Nuværende implementering
+
+I denne teori styres afstanden primært gennem svingets længde og hændernes placering på grebet.
+
+I stedet for at tilføje flere køller for at skabe mindre afstandsforskelle får hver kølle en klart defineret rolle.
+
+I den nuværende implementering er 3W den kølle, der står for maksimal slaglængde.
+
+Den længste kølle vælges ikke udelukkende ud fra længde.
+
+Valget bygger på en samlet vurdering af slaglængde, reproducerbarhed, fysisk belastning og dens plads i det samlede system.
+
+Den nuværende implementering består af syv køller, eksklusive putteren.
+
+| Kølle | Rolle | Carry-distance |
+|-------|-------|---------------:|
+| 3W (15°) | Maksimal længde | 200–240 yd |
+| 7W (21°) | Mellemdistance | 160–190 yd |
+| 13W (34°) | Hovedkølle | 1–150 yd |
+| AW (46°) | Recovery-kølle | 1–80 yd |
+| SW (58°) | Finish-kølle | 1–40 yd |
+| 5W LH (18°) | Specialiseret recovery-kølle | 140–220 yd |
+| 15W LH (39°) | Specialiseret recovery-kølle | 1–130 yd |
 
 ### 3W (15°)
 
-Klubban för maximal slaglängd i den nuvarande implementeringen.
+Køllen til maksimal slaglængde i den nuværende implementering.
 
-Den täcker carry-distanser mellan 200 och 240 yards.
+Den dækker carry-distancer fra 200 til 240 yards.
 
-3W ger tillräcklig slaglängd för att fylla rollen som längsta klubba samtidigt som hela systemets repeterbarhet bevaras.
+3W leverer tilstrækkelig længde til at udfylde rollen som den længstslående kølle, samtidig med at hele systemets reproducerbarhed bevares.
 
-I denna teori väljs den längsta klubban inte enbart utifrån slaglängd.
+I denne teori vælges den længste kølle ikke alene ud fra slaglængde.
 
-Valet bygger på slaglängd, repeterbarhet, fysisk belastning och hur väl klubban passar in i hela systemet.
+Valget bygger på slaglængde, reproducerbarhed, fysisk belastning og dens samspil med resten af systemet.
 
 ### 7W (21°)
 
-Klubban för medellånga avstånd.
+Køllen til mellemdistancer.
 
-Den täcker carry-distanser mellan 160 och 190 yards.
+Den dækker carry-distancer fra 160 til 190 yards.
 
-Dess uppgift är att fungera som länken mellan klubban för långa slag och klubborna för närspelet.
+Dens opgave er at forbinde køllen til lange slag med køllerne til det korte spil.
 
 ### 13W (34°)
 
-Huvudklubban i den nuvarande implementeringen.
+Hovedkøllen i den nuværende implementering.
 
-Den täcker carry-distanser mellan 1 och 150 yards.
+Den dækker carry-distancer fra 1 til 150 yards.
 
-Den används för bump-and-run-slag, vanliga inspel och distanskontroll.
+Den anvendes til bump-and-run-slag, almindelige indspil og afstandskontrol.
 
-Det är den mest använda klubban i hela systemet.
+Det er den mest anvendte kølle i hele systemet.
 
-Vid inspel är 13W förstahandsvalet när ett bump-and-run-slag är lämpligt.
+Ved indspil er 13W standardvalget, når et bump-and-run-slag er den rette løsning.
 
-När det finns tillräckligt med utrymme för bollen att rulla anses ett bump-and-run-slag vara mer repeterbart än ett högt wedgeslag.
+Når der er tilstrækkelig plads til, at bolden kan rulle, betragtes et bump-and-run som mere reproducerbart end et højt wedgeslag.
 
-De tester som hittills genomförts visar att bump-and-run-slag med 13W påverkas mindre av bollens läge (lie) och ger jämnare resultat än höga inspel med AW eller SW.
+De nuværende test viser, at bump-and-run-slag med 13W påvirkes mindre af boldens leje (lie) og giver mere stabile resultater end høje indspil med AW eller SW.
 
-I denna teori är 13W mycket mer än bara en fairwaywood.
+I denne teori er 13W langt mere end blot en fairwaywood.
 
-Den utgör centrum i hela systemet.
+Den udgør centrum i hele systemet.
 
 ### AW (46°)
 
-Recovery-klubban.
+Recovery-køllen.
 
-Den täcker carry-distanser mellan 1 och 80 yards.
+Den dækker carry-distancer fra 1 til 80 yards.
 
-Den används när extra höjd behövs, när ett hinder måste passeras eller när 13W inte är lämplig för situationen.
+Den anvendes, når der er behov for ekstra højde, når en forhindring skal passeres, eller når 13W ikke er egnet til situationen.
 
-Vid inspel används den när bollens läge kräver det eller när både höjd och framåtrörelse behövs.
+Ved indspil bruges den, når boldens leje kræver det, eller når der både er behov for højde og fremdrift.
 
-Eftersom den lyfter bollen lättare än 13W och samtidigt ger längre slag än SW fyller den en mellanroll i närspelet.
+Da den løfter bolden lettere end 13W og samtidig giver længere slag end SW, udfylder den en mellemrolle i det korte spil.
 
 ### SW (58°)
 
-Finish-klubban.
+Finish-køllen.
 
-Den täcker carry-distanser mellan 1 och 40 yards.
+Den dækker carry-distancer fra 1 til 40 yards.
 
-Den används när maximal höjd, maximal stoppförmåga eller högsta precision på kort avstånd krävs.
+Den anvendes, når maksimal højde, maksimal stopkraft eller højeste præcision på korte afstande er nødvendig.
 
-Vid inspel används den när bollen behöver slås högt och stanna snabbt, när flaggan står nära eller när maximal stoppförmåga krävs från bunker eller djupt ruff.
+Ved indspil anvendes den, når bolden skal slås højt og stoppe hurtigt, når flaget står tæt på, eller når maksimal stopkraft er nødvendig fra bunker eller dyb rough.
 
-I denna teori är SW inte avsedd att skapa extra slaglängd.
+I denne teori er SW ikke beregnet til at skabe ekstra længde.
 
-Det är inte en distansklubba.
+Det er ikke en distancekølle.
 
-Dess uppgift är att ge maximal höjd och maximal stoppförmåga.
+Dens opgave er at levere maksimal højde og maksimal stopkraft.
 
-### Vänsterhänta klubbor
+### Venstrehåndskøller
 
-Den nuvarande implementeringen innehåller vänsterhänta klubbor.
+Den nuværende implementering omfatter venstrehåndskøller.
 
-De är inte avsedda att ersätta den vanliga högerspelarkonfigurationen.
+De er ikke beregnet til at erstatte den normale højrehåndsopsætning.
 
-De finns för situationer där ett högerslag skulle innebära onödig komplexitet, ökad fysisk belastning eller en betydligt lägre sannolikhet att lyckas.
+De eksisterer for at løse situationer, hvor et højrehåndsslag ville medføre unødig kompleksitet, større fysisk belastning eller en væsentligt lavere sandsynlighed for succes.
 
-I denna teori betraktas vänsterhänta klubbor som specialiserade verktyg.
+I denne teori betragtes venstrehåndskøller som specialiserede værktøjer.
 
-Mer specifikt är de verktyg som enbart används för recovery.
+Mere præcist er de værktøjer, der udelukkende er beregnet til recovery.
 
-Syftet är inte att öka antalet olika slag.
+Formålet er ikke at øge antallet af forskellige slag.
 
-Syftet är att förenkla recoverysituationer genom att ge återkommande problem en särskild lösning.
+Formålet er at gøre recovery-situationer enklere ved at give tilbagevendende problemer en dedikeret løsning.
 
-En vanlig invändning mot detta synsätt är:
+En ofte fremført indvending mod denne tilgang er:
 
-> "Ökar inte vänsterhänta klubbor hanteringskomplexiteten?"
+> "Øger tilføjelsen af venstrehåndskøller ikke styringskompleksiteten?"
 
-Den invändningen är delvis berättigad.
+Den indvending er delvist berettiget.
 
-Ett extra vänsterhänt rörelsemönster måste trots allt underhållas.
+Der skal trods alt vedligeholdes et ekstra venstrehåndet bevægelsesmønster.
 
-I den nuvarande implementeringen har denna extra kostnad dock medvetet minimerats.
+I den nuværende implementering er denne ekstra omkostning dog bevidst reduceret til et minimum.
 
-Det finns endast två vänsterhänta klubbor.
+Der anvendes kun to venstrehåndskøller.
 
-Och båda är fairwaywoods.
+Og begge er fairwaywoods.
 
-Det finns ingen vänsterhänt wedge.
+Der findes ingen venstrehånds-wedge.
 
-Det finns ingen vänsterhänt putter.
+Der findes ingen venstrehånds-putter.
 
-Den nuvarande implementeringen kräver inte ett komplett vänsterhänt system.
+Den nuværende implementering kræver ikke et komplet venstrehåndssystem.
 
-Den kräver endast två specialiserade recovery-klubbor – en för långa recoveryslag och en för korta recoveryslag.
+Den kræver blot to specialiserede recovery-køller – én til lange recovery-slag og én til korte recovery-slag.
 
-Eftersom båda är fairwaywoods utökar de endast samma rörelsemönster som redan används med fairwaywoods, fast åt vänster.
+Da begge er fairwaywoods, udvider de blot det samme bevægelsesmønster, som allerede anvendes med fairwaywoods, til venstre side.
 
-Ingen helt ny familj av klubbor introduceras.
+Der introduceres ikke en helt ny familie af køller.
 
-Det viktiga är inte hur många klubbor som läggs till.
+Det afgørende er ikke, hvor mange køller der tilføjes.
 
-Det viktiga är hur många ytterligare rörelsemönster som måste underhållas.
+Det afgørende er, hvor mange ekstra bevægelsesmønstre der skal vedligeholdes.
 
 ### 5W LH (18°)
 
-Den specialiserade recovery-klubban för långa avstånd.
+Den specialiserede recovery-kølle til lange distancer.
 
-Den täcker carry-distanser mellan 140 och 220 yards.
+Den dækker carry-distancer fra 140 til 220 yards.
 
-Denna vänsterhänta klubba används i recoverysituationer på långa avstånd där ett högerslag är opraktiskt.
+Denne venstrehåndskølle anvendes i recovery-situationer over lange afstande, hvor et højrehåndsslag er upraktisk.
 
-Den används när träd, hinder, sluttningar, begränsad stans eller banans utformning gör ett högerslag orealistiskt.
+Den bruges, når træer, forhindringer, skråninger, begrænset stand eller banens udformning gør et højrehåndsslag urealistisk.
 
-I denna teori har 5W LH inte lagts till för att öka antalet slagalternativ.
+I denne teori blev 5W LH ikke tilføjet for at øge antallet af slagmuligheder.
 
-Den har lagts till för att ge en repeterbar vänsterhänt lösning för recovery på långa avstånd.
+Den blev tilføjet for at levere en reproducerbar venstrehåndsløsning til lange recovery-situationer.
 
 ### 15W LH (39°)
 
-Den specialiserade recovery-klubban för korta avstånd.
+Den specialiserede recovery-kølle til korte distancer.
 
-Den täcker carry-distanser mellan 1 och 130 yards.
+Den dækker carry-distancer fra 1 til 130 yards.
 
-Denna vänsterhänta klubba används i recoverysituationer på korta avstånd där ett högerslag är svårt att genomföra.
+Denne venstrehåndskølle anvendes i recovery-situationer på korte afstande, som er vanskelige at løse med et højrehåndsslag.
 
-Den bygger på samma filosofi som 5W LH men är avsedd för kortare slag som kräver större kontroll.
+Den bygger på samme filosofi som 5W LH, men er beregnet til kortere slag, hvor større kontrol er nødvendig.
 
-För närvarande ger dessa två vänsterhänta klubbor specialiserade recoverylösningar utan att förändra systemets övergripande struktur.
+På nuværende tidspunkt giver disse to venstrehåndskøller specialiserede recovery-løsninger uden at ændre systemets overordnede struktur.
 
-Denna konfiguration kommer tills vidare att behållas medan den långsiktiga valideringen fortsätter.
-
----
-
-## Varför den här teorin uppstod
-
-Den här teorin började med en enkel fråga.
-
-> "Går det att uppnå samma resultat på ett enklare och mer hållbart sätt?"
-
-Att tillämpa den frågan på golf blev utgångspunkten för denna teori.
-
-Den här teorin utgår inte från att den traditionella klubbsammansättningen är självklar.
-
-Den börjar med att ompröva varje enskild klubbas roll.
-
-Är ett spel som bygger på järnklubbor verkligen den optimala lösningen?
-
-Kan fairwaywoods ta över de uppgifter som traditionellt har utförts av järnklubbor?
-
-Går det att ta bort drivern från kärnan i poängsystemet?
-
-Finns det ett sätt att uppnå högre repeterbarhet?
-
-Med tiden utvecklades dessa frågor till en systematisk valideringsprocess.
-
-Den här teorin är resultatet av den processen.
-
-Den föddes inte ur en enda idé.
-
-Den växte fram genom att ständigt ompröva de traditionella klubbornas roller och söka efter sätt att uppnå samma – eller bättre – resultat med färre variabler och mindre fysisk belastning.
+Indtil videre bevares denne konfiguration, mens den langsigtede validering fortsætter.
 
 ---
 
-## Grundprinciper
+## Hvorfor denne teori opstod
 
-Livslång golfteori bygger på fyra grundprinciper.
+Denne teori begyndte med et enkelt spørgsmål.
 
-Allt som presenteras i detta dokument kan ytterst härledas till dessa fyra principer.
+> "Kan det samme resultat opnås på en enklere og mere bæredygtig måde?"
 
-### Optimering av hanteringskomplexitet
+At anvende dette spørgsmål på golf blev udgangspunktet for denne teori.
 
-Minska antalet faktorer som måste hanteras kontinuerligt.
+Denne teori tager ikke udgangspunkt i, at den traditionelle sammensætning af køller nødvendigvis er den rigtige.
 
-Ju färre saker som behöver hanteras, desto mer uppmärksamhet kan ägnas åt själva utförandet.
+Den begynder med at genoverveje hver enkelt kølles rolle.
 
-### Rollspecialisering
+Er et spil, der er bygget op omkring jernkøller, virkelig den optimale løsning?
 
-Ge varje klubba ett tydligt definierat ansvar.
+Kan fairwaywoods overtage de opgaver, som traditionelt udføres af jernkøller?
 
-I stället för att låta en enda klubba fylla ett obegränsat antal funktioner definierar denna teori varje klubbas roll tydligt och uppmuntrar en djup förståelse för just den rollen.
+Kan driveren fjernes fra kernen af pointsystemet?
 
-### Repeterbarhet
+Findes der en måde at opnå højere reproducerbarhed på?
 
-Prioritera prestationer som kan upprepas konsekvent framför tillfälliga topprestationer.
+Med tiden udviklede disse spørgsmål sig til en systematisk valideringsproces.
 
-Målet är inte det perfekta slaget.
+Denne teori er resultatet af den proces.
 
-Målet är ett slag som kan upprepas.
+Den opstod ikke ud fra én enkelt idé.
 
-### Hållbarhet
-
-Varje beslut ska bidra till möjligheten att fortsätta spela golf under lång tid.
-
-En prestation som uppnås genom onödig fysisk belastning betraktas inte som hållbar.
+Den voksede frem gennem en løbende revurdering af de traditionelle køllers roller og en søgen efter måder at opnå de samme – eller endda bedre – resultater med færre variabler og mindre fysisk belastning.
 
 ---
 
-## Optimering av hanteringskomplexitet
+## Grundprincipper
 
-Att minska antalet klubbor är inte det egentliga målet med denna teori.
+Teorien om den livslange golfspiller bygger på fire grundprincipper.
 
-Det är endast en konsekvens.
+Alt, hvad der præsenteres i dette dokument, kan i sidste ende føres tilbage til disse fire principper.
 
-Det verkliga målet är att minska antalet faktorer som måste hanteras.
+### Optimering af styringskompleksitet
 
-Golf är en ständig följd av beslut.
+Reducer antallet af elementer, som løbende skal håndteres.
 
-Inför varje slag måste man bland annat bestämma:
+Jo færre ting der skal håndteres, desto mere opmærksomhed kan rettes mod selve udførelsen.
 
-- vilken klubba som ska användas;
-- vilken typ av sving som ska utföras;
-- bollens position;
-- spellinjen;
-- slagstrategin.
+### Rollespecialisering
 
-Varje beslut kräver uppmärksamhet.
+Giv hver kølle et klart defineret ansvar.
 
-Ju fler variabler som måste hanteras, desto större blir den mentala belastningen under rundan.
+I stedet for at lade én enkelt kølle udføre et ubegrænset antal opgaver definerer denne teori hver kølles rolle tydeligt og fremmer en dyb forståelse af netop denne rolle.
 
-Denna teori försöker eliminera beslut som inte direkt bidrar till ett bättre resultat.
+### Reproducerbarhed
 
-Färre klubbor.
+Prioritér præstationer, der kan gentages konsekvent, frem for midlertidige toppræstationer.
 
-Färre rörelsemönster.
+Målet er ikke det perfekte slag.
 
-Inga peggar.
+Målet er et slag, som kan gentages.
 
-Inga handskar.
+### Bæredygtighed
 
-Tydliga roller.
+Enhver beslutning bør bidrage til muligheden for at fortsætte med at spille golf på lang sigt.
 
-Alla dessa beslut bygger på samma grundläggande filosofi.
-
-Minska onödig hantering.
-
-Öka repeterbarheten.
-
-Målet är inte enkelhet.
-
-Målet är optimering.
+En præstation, der kun opnås gennem unødig fysisk belastning, betragtes ikke som bæredygtig.
 
 ---
 
-## Varför minska antalet rörelsemönster?
+## Optimering af styringskompleksitet
 
-När jag började spela golf,
+At reducere antallet af køller er ikke det egentlige mål med denne teori.
 
-> "Golf är svårt eftersom det finns så mycket att lära sig."
+Det er blot en konsekvens.
 
-Den meningen fastnade hos mig.
+Det virkelige mål er at reducere antallet af elementer, som skal håndteres.
 
-På den tiden accepterade jag den utan att ifrågasätta den.
+Golf er en kontinuerlig række af beslutninger.
 
-Jag upplevde att varje klubba krävde ett eget rörelsemönster.
+Før hvert slag skal der blandt andet træffes beslutning om:
+
+- valg af kølle;
+- valg af svingtype;
+- boldens placering;
+- sigtelinjen;
+- slagstrategien.
+
+Hver eneste beslutning kræver opmærksomhed.
+
+Jo flere variabler der skal håndteres, desto større bliver den mentale belastning under runden.
+
+Denne teori søger at eliminere beslutninger, som ikke direkte bidrager til et bedre resultat.
+
+Færre køller.
+
+Færre bevægelsesmønstre.
+
+Ingen tees.
+
+Ingen handsker.
+
+Klare roller.
+
+Alle disse beslutninger udspringer af den samme grundlæggende filosofi.
+
+Reducer unødig styring.
+
+Forøg reproducerbarheden.
+
+Målet er ikke enkelhed.
+
+Målet er optimering.
+
+---
+
+## Hvorfor reducere antallet af bevægelsesmønstre?
+
+Da jeg begyndte at spille golf,
+
+> "Golf er svært, fordi der er så meget, man skal lære."
+
+Den sætning gjorde et stort indtryk på mig.
+
+På det tidspunkt accepterede jeg den uden at stille spørgsmål.
+
+Jeg havde indtryk af, at hver kølle krævede sit eget bevægelsesmønster.
 
 Driver.
 
@@ -518,427 +518,427 @@ Fairwaywood.
 
 Hybrid.
 
-Järn.
+Jern.
 
 Wedge.
 
 Putter.
 
-Dessutom tillkom ständigt nya variabler beroende på bollens läge och spelsituationen.
+Derudover opstod der hele tiden nye variabler afhængigt af boldens leje og situationen.
 
-- En boll på en peg.
-- En boll på marken.
-- Ruff.
+- En bold på en tee.
+- En bold på jorden.
+- Rough.
 - Bunker.
-- Lutande lägen.
+- Skrånende lejer.
 
-Även på en helt plan träningsmatta kändes det som om varje klubba krävde otaliga upprepningar innan jag kunde slå den konsekvent.
+Selv på en helt plan træningsmåtte føltes det, som om hver eneste kølle krævede utallige gentagelser, før jeg kunne slå den konsekvent.
 
-Under mina första månader kunde jag varken slå hybrider eller fairwaywoods på ett tillförlitligt sätt.
+I mine første måneder kunne jeg hverken slå hybrider eller fairwaywoods pålideligt.
 
-Eftersom jag planerade att spela min första 18-hålsrunda inom tre månader efter att jag börjat ta lektioner verkade en järncentrerad uppsättning då vara den mest repeterbara lösningen.
+Da jeg planlagde at spille min første 18-hullers runde inden for tre måneder efter, at jeg var begyndt at tage lektioner, virkede en opsætning centreret omkring jernkøller dengang som den mest reproducerbare løsning.
 
-Med tiden förändrades dock mitt sätt att tänka.
+Med tiden ændrede den opfattelse sig.
 
-När jag började se golf som något jag ville kunna spela resten av livet började jag ifrågasätta om det verkligen var den bästa lösningen att lära sig använda allt fler klubbor.
+Da jeg begyndte at se golf som noget, jeg ønskede at spille resten af livet, begyndte jeg at tvivle på, om det virkelig var den bedste løsning at lære stadig flere køller at kende.
 
-Till slut förändrades själva frågan.
+Til sidst ændrede selve spørgsmålet sig.
 
-Jag frågade mig inte längre:
+Jeg spurgte ikke længere:
 
-> "Vilken klubba ska jag lära mig härnäst?"
+> "Hvilken kølle skal jeg lære at bruge som den næste?"
 
-I stället började jag fråga mig:
+I stedet begyndte jeg at spørge:
 
-> "Hur många rörelsemönster behöver jag egentligen?"
+> "Hvor mange bevægelsesmønstre har jeg egentlig brug for?"
 
-Att lära sig ett nytt rörelsemönster tar tid.
+Det tager lang tid at lære et nyt bevægelsesmønster.
 
-Ännu viktigare är att det kräver kontinuerlig träning för att kunna upprätthållas.
+Endnu vigtigere er det, at det kræver kontinuerlig træning at vedligeholde.
 
-Ju fler rörelsemönster som finns, desto högre blir den långsiktiga underhållskostnaden.
+Jo flere bevægelsesmønstre der findes, desto højere bliver vedligeholdelsesomkostningerne på lang sigt.
 
-I den här teorin betraktas underhållskostnaden som lika viktig som inlärningskostnaden.
+I denne teori betragtes vedligeholdelsesomkostninger som lige så vigtige som indlæringsomkostninger.
 
-I grunden handlar golf om att få bollen framåt och skapa ett resultat.
+I sin kerne handler golf om at få bolden fremad og skabe et resultat.
 
-Om det är sant kan en djupare förståelse för ett mindre antal rörelsemönster vara en mer hållbar lösning på lång sikt.
+Hvis det er tilfældet, kan en dybere forståelse af et mindre antal bevægelsesmønstre være en langt mere bæredygtig løsning.
 
-Den här teorin försöker inte lösa problem genom att lägga till fler verktyg.
+Denne teori forsøger ikke at løse problemer ved at tilføje flere værktøjer.
 
-Den försöker lösa problem genom att förstå ett mindre antal verktyg på ett djupare plan.
+Den forsøger at løse problemer ved at forstå et mindre antal værktøjer langt bedre.
 
-Den nuvarande implementeringen, som bygger på fairwaywoods, är ett resultat av just detta synsätt.
-
----
-
-## Varför prioritera recovery?
-
-En av de vanligaste frågorna om den här teorin är:
-
-> "Vad händer om dina fairwaywoods slutar fungera?"
-
-Det är en fullt rimlig fråga.
-
-En traditionell klubbsammansättning erbjuder vanligtvis flera alternativ.
-
-Om drivern inte fungerar använder man en fairwaywood.
-
-Om fairwaywooden inte fungerar använder man en hybrid.
-
-Om hybriden inte fungerar använder man ett järn.
-
-Den här teorin minskar medvetet dessa alternativ.
-
-Anledningen är enkel.
-
-Den prioriterar skicklighet framför redundans.
-
-I stället för att byta klubba när ett problem uppstår strävar den efter att lösa problemet med den klubba som ursprungligen fått ansvaret för uppgiften.
-
-Fler alternativ ger en känsla av trygghet.
-
-Färre alternativ leder till en djupare förståelse för varje enskild klubba.
-
-Den här teorin väljer medvetet det senare.
+Den nuværende implementering, der er centreret omkring fairwaywoods, udspringer netop af denne tankegang.
 
 ---
 
-## Varför använder den här teorin inte järnklubbor?
+## Hvorfor prioritere recovery?
 
-Den nuvarande implementeringen använder inga järnklubbor.
+Et af de spørgsmål, jeg oftest får om denne teori, er:
 
-Det beror inte på att järnklubbor är dåliga.
+> "Hvad sker der, hvis dine fairwaywoods holder op med at fungere?"
 
-Tvärtom.
+Det er et fuldt ud rimeligt spørgsmål.
 
-Järnklubbor är utmärkta klubbor.
+En traditionel sammensætning af køller tilbyder normalt flere alternativer.
 
-Den verkliga frågan är en annan.
+Hvis driveren ikke fungerer, bruger man en fairwaywood.
 
-> "Är järnklubbor verkligen det optimala valet för det här systemet på lång sikt?"
+Hvis fairwaywooden ikke fungerer, bruger man en hybrid.
 
-Till en början tyckte jag att en uppsättning byggd kring järnklubbor var den mest logiska lösningen.
+Hvis hybriden ikke fungerer, bruger man et jern.
 
-Men efter att ha vägt in långsiktig hållbarhet, den träningsmängd som krävs, repeterbarhet och underhållskostnader drog jag slutsatsen att järnklubbor inte var det bästa valet för den nuvarande implementeringen av den här teorin.
+Denne teori reducerer bevidst disse alternativer.
 
-Beslutet grundar sig på fyra kriterier:
+Årsagen er enkel.
 
-- Långsiktig hållbarhet
-- Nödvändig träningsmängd
-- Repeterbarhet
-- Underhållskostnad
+Den prioriterer mestring frem for redundans.
 
-Många erfarna golfare säger förr eller senare:
+I stedet for at skifte kølle, når et problem opstår, søger den at løse problemet med den kølle, som oprindeligt har fået ansvaret for opgaven.
 
-> "Jag slår inte mina järnklubbor som jag gjorde förr."
+Flere valgmuligheder giver en følelse af tryghed.
 
-Orsakerna kan vara många.
+Færre valgmuligheder fører til en langt dybere forståelse af hver enkelt kølle.
 
-Ålder.
-
-Skador.
-
-Minskad träning.
-
-Eller helt enkelt andra kroppsliga förändringar.
-
-Oavsett orsaken hör man den här typen av kommentarer om och om igen inom golfvärlden.
-
-Utifrån mina egna erfarenheter bestämde jag mig för att inte vänta tills den dagen kom.
-
-I stället låter den här teorin fairwaywoods ta över de roller som traditionellt har hafts av järnklubbor.
-
-Den här teorin förkastar inte järnklubbor.
-
-Den omdefinierar bara deras roll.
+Denne teori vælger bevidst den sidste tilgang.
 
 ---
 
-## Varför använder den här teorin inte hybrider?
+## Hvorfor bruger denne teori ikke jernkøller?
 
-Den nuvarande implementeringen använder inga hybrider.
+Den nuværende implementering anvender ingen jernkøller.
 
-Anledningen är inte slaglängd.
+Det betyder ikke, at jernkøller er dårlige køller.
 
-Anledningen är långsiktig hållbarhet.
+Tværtimod.
 
-Efter omfattande tester kom jag fram till att fairwaywoods med liknande loft passade den här teorin bättre än hybrider.
+Jernkøller er fremragende køller.
 
-De viktigaste skälen är:
+Det egentlige spørgsmål er et andet.
 
-- En bredare sula.
-- Mjukare kontakt med gräset.
-- Enklare att få upp bollen i luften.
-- Mer höjd med mindre ansträngning.
+> "Er jernkøller virkelig det optimale valg for dette system på lang sigt?"
 
-Fairwaywoods gör det dessutom lättare att skapa både höjd och slaglängd med mindre fysisk belastning.
+I begyndelsen mente jeg, at en opsætning centreret omkring jernkøller var den mest logiske løsning.
 
-Den här teorin påstår inte att hybrider är dåliga klubbor.
+Efter at have taget højde for langsigtet bæredygtighed, den nødvendige træningsmængde, reproducerbarhed og vedligeholdelsesomkostninger nåede jeg dog frem til, at jernkøller ikke var det bedste valg for den nuværende implementering af denne teori.
 
-För många golfare är de utmärkta verktyg.
+Denne beslutning bygger på fire kriterier:
 
-Men inom principerna för det här systemet visade sig fairwaywoods vara bättre lämpade för den här teorin.
+- Langsigtet bæredygtighed
+- Nødvendig træningsmængde
+- Reproducerbarhed
+- Vedligeholdelsesomkostninger
 
-Därför används inga hybrider i den nuvarande implementeringen.
+Mange erfarne golfspillere siger før eller siden:
+
+> "Jeg slår ikke mine jernkøller, som jeg gjorde før."
+
+Årsagerne kan være mange.
+
+Alder.
+
+Skader.
+
+Mindre træning.
+
+Eller ganske enkelt andre fysiske forandringer.
+
+Uanset årsagen hører man denne type udsagn igen og igen i golfverdenen.
+
+På baggrund af mine egne erfaringer besluttede jeg ikke at vente, til den dag kom.
+
+I stedet overtager fairwaywoods i denne teori de roller, som traditionelt blev udført af jernkøller.
+
+Denne teori afviser ikke jernkøller.
+
+Den omdefinerer blot deres rolle.
 
 ---
 
-## Varför begränsar den här teorin wedgearnas slaglängd?
+## Hvorfor bruger denne teori ikke hybrider?
 
-I den här teorin är wedgearnas uppgift inte att skapa maximal slaglängd.
+Den nuværende implementering anvender ingen hybrider.
 
-Deras uppgift är precision.
+Årsagen er ikke slaglængde.
 
-Målet är att skapa förutsägbara bollbanor och landningspunkter samtidigt som onödig fysisk belastning minimeras.
+Årsagen er langsigtet bæredygtighed.
 
-I stället för att skapa mer slaglängd genom aggressiv teknik prioriterar teorin stabil kontakt mellan sulan och marken samt ett mycket repeterbart bollträff.
+Efter omfattende test kom jeg frem til, at fairwaywoods med tilsvarende loft passede bedre til principperne i denne teori end hybrider.
 
-Prioriteten är inte kraft.
+De vigtigste årsager er:
 
-Prioriteten är konsekvens.
+- En bredere sål.
+- Mere glidende kontakt med græsset.
+- Lettere at få bolden op i luften.
+- Mere højde med mindre kraft.
 
-I den nuvarande implementeringen gäller följande:
+Fairwaywoods gør det desuden lettere at skabe både højde og slaglængde med mindre fysisk belastning.
 
-- SW (58°) täcker carry-distanser mellan 1 och 40 yards.
-- AW (46°) täcker carry-distanser mellan 1 och 80 yards.
+Denne teori hævder ikke, at hybrider er dårlige køller.
 
-Wedgearnas uppgift är tydligt definierad.
+For mange golfspillere er de fremragende redskaber.
 
-Lyfta bollen.
+Men inden for principperne i dette system viste fairwaywoods sig at være bedre egnede til denne teori.
 
-Kontrollera landningspunkten.
+Derfor anvendes der ingen hybrider i den nuværende implementering.
 
-Stoppa bollen.
+---
 
-När ett bump-and-run-slag är mer lämpligt, eller när ett längre inspel är det bättre alternativet, övergår den uppgiften till 13W.
+## Hvorfor begrænser denne teori wedges' slaglængde?
 
-Den här teorin förväntar sig inte att wedgar ska utföra alla typer av slag.
+I denne teori er wedges' opgave ikke at skabe maksimal slaglængde.
 
-Varje klubba får en tydligt definierad roll.
+Deres opgave er præcision.
 
-I den nuvarande implementeringen är ansvarsområdena fördelade enligt följande:
+Målet er at skabe forudsigelige boldbaner og landingspunkter, samtidig med at unødig fysisk belastning minimeres.
+
+I stedet for at skabe mere slaglængde gennem aggressiv teknik prioriterer denne teori en stabil kontakt mellem sålen og jorden samt et meget reproducerbart træf.
+
+Prioriteten er ikke kraft.
+
+Prioriteten er konsistens.
+
+I den nuværende implementering gælder følgende:
+
+- SW (58°) dækker carry-distancer fra 1 til 40 yards.
+- AW (46°) dækker carry-distancer fra 1 til 80 yards.
+
+Wedges' opgaver er klart definerede.
+
+Løfte bolden.
+
+Kontrollere landingspunktet.
+
+Få bolden til at stoppe.
+
+Når et bump-and-run-slag er mere hensigtsmæssigt, eller når et længere indspil er den bedste løsning, overgår denne opgave til 13W.
+
+Denne teori forventer ikke, at wedges skal udføre alle typer slag.
+
+Hver kølle får en tydeligt defineret rolle.
+
+I den nuværende implementering er ansvarsområderne fordelt således:
 
 - Bump-and-run → 13W / AW
-- Slag som kräver både höjd och framåtrörelse → AW
-- Maximal höjd och maximal stoppförmåga → SW
+- Slag, der kræver både højde og fremdrift → AW
+- Maksimal højde og maksimal stopkraft → SW
 
-Denna rollfördelning minskar överlappningen mellan klubborna och stärker rollspecialiseringen i hela systemet.
-
----
-
-## Varför använder den här teorin ingen driver?
-
-I den nuvarande implementeringen används drivern inte som den centrala klubban i poängsystemet.
-
-Anledningen är inte slaglängd.
-
-Anledningarna är repeterbarhet, hållbarhet och ett enklare system.
-
-En driver är konstruerad för att slå en boll som ligger på en peg.
-
-En fairwaywood är däremot konstruerad för att slå bollen direkt från marken.
-
-Att använda en driver introducerar flera nya variabler:
-
-- Pegens höjd.
-- En uppåtgående attackvinkel.
-- Ett rörelsemönster som är specifikt för drivern.
-
-Naturligtvis kan en driver skapa större slaglängd än den 3W som används i den nuvarande implementeringen.
-
-Den här teorin prioriterar dock hållbar prestation framför maximal prestation.
-
-I stället för att lösa problem när de redan har uppstått försöker den minska de variabler som skapar problemen från början.
-
-Därför är det 3W – och inte drivern – som ansvarar för maximal slaglängd i den nuvarande implementeringen.
-
-Prioriteten är inte maximal slaglängd.
-
-Prioriteten är att skapa tillräcklig slaglängd som kan upprepas konsekvent.
+Denne rollefordeling reducerer overlap mellem køllerne og styrker rollespecialiseringen i hele systemet.
 
 ---
 
-## Varför använder den här teorin inga peggar?
+## Hvorfor bruger denne teori ikke en driver?
 
-Den här teorin behandlar inte det första slaget på ett hål som ett undantag.
+I den nuværende implementering anvendes driveren ikke som den centrale kølle i pointsystemet.
 
-Därför används inga peggar i den nuvarande implementeringen.
+Årsagen er ikke slaglængde.
 
-Klubban för maximal slaglängd är 3W, och alla slag spelas direkt från marken.
+Årsagerne er reproducerbarhed, bæredygtighed og forenkling af systemet.
 
-På så sätt undviks att skapa särskilda förutsättningar enbart för det första slaget.
+En driver er konstrueret til at slå en bold, der ligger på en tee.
 
-Att inte använda peggar eliminerar dessutom flera moment som annars måste hanteras:
+En fairwaywood er derimod konstrueret til at slå en bold direkte fra jorden.
 
-- Köpa peggar.
-- Bära med sig peggar.
-- Sätta ned peggar.
-- Plocka upp peggar.
-- Slänga trasiga peggar.
-- Fylla på nya peggar.
+Brugen af en driver introducerer flere nye variabler:
 
-Att spela direkt från marken innebär naturligtvis att man accepterar bollens läge (lie).
+- Teehøjden.
+- En opadgående angrebsvinkel.
+- Et svingmønster, der er specifikt for driveren.
 
-Det är ett medvetet val.
+Naturligvis kan en driver skabe større slaglængde end den 3W, der anvendes i den nuværende implementering.
 
-Efter det första slaget måste ändå varje efterföljande slag anpassas till bollens läge.
+Denne teori prioriterer dog en bæredygtig præstation frem for maksimal præstation.
 
-Den här teorin vägrar helt enkelt att göra det första slaget till ett undantag.
+I stedet for at løse problemer, efter de er opstået, forsøger den at reducere de variabler, der skaber problemerne.
 
-Det första slaget och alla efterföljande slag tillhör samma system där bollen spelas från marken.
+Derfor er det 3W – og ikke driveren – der udfylder rollen som køllen til maksimal slaglængde i den nuværende implementering.
 
-Det handlar inte om att ge upp slaglängd.
+Prioriteten er ikke maksimal slaglængde.
 
-Det handlar om att minska antalet variabler och förbättra repeterbarheten.
+Prioriteten er at skabe en tilstrækkelig slaglængde, som kan gentages konsekvent.
 
 ---
 
-## Driverns roll
+## Hvorfor bruger denne teori ikke tees?
 
-Den här teorin förkastar inte drivern i sig.
+Denne teori behandler ikke det første slag på et hul som en undtagelse.
 
-Drivern är en utmärkt klubba när målet är maximal slaglängd.
+Derfor anvendes der ingen tees i den nuværende implementering.
 
-Jag använde själv drivern när jag strävade efter maximal slaglängd.
+Køllen til maksimal slaglængde er 3W, og alle slag spilles direkte fra jorden.
 
-Naturligtvis kan en driver skapa större slaglängd än den 3W som används i den nuvarande implementeringen.
+På den måde undgås det at skabe særlige betingelser udelukkende for det første slag.
 
-Den här teorin prioriterar dock hållbar prestation framför maximal prestation.
+Ikke at anvende tees eliminerer desuden flere opgaver, som ellers skal håndteres:
 
-Därför utgör drivern inte längre kärnan i poängsystemet i den nuvarande implementeringen.
+- Købe tees.
+- Medbringe tees.
+- Sætte tees i jorden.
+- Samle tees op.
+- Kassere ødelagte tees.
+- Fylde nye tees på.
 
-Drivern betraktas inte som en klubba för att skapa resultat.
+Naturligvis betyder spil direkte fra jorden, at man accepterer boldens leje (lie).
 
-Den betraktas som en klubba för att uppnå maximal slaglängd.
+Det er et bevidst valg.
 
-Med andra ord:
+Efter det første slag skal alle efterfølgende slag alligevel tilpasses boldens leje.
 
-- Driver = Strävan efter maximal slaglängd
-- 3W och kortare klubbor = Poängsystemet
+Denne teori nægter blot at gøre det første slag til en undtagelse.
 
-I den nuvarande implementeringen är det 3W som ansvarar för den maximala slaglängden.
+Det første slag og alle efterfølgende slag hører til det samme system, hvor bolden spilles direkte fra jorden.
 
-Drivern har inte övergivits.
+Det handler ikke om at opgive slaglængde.
 
-Dess roll har helt enkelt förändrats.
-
----
-
-## Varför använder den här teorin inga handskar?
-
-I den nuvarande implementeringen används inga golfhandskar.
-
-När jag började spela golf bar jag handskar på båda händerna.
-
-Trots det fick jag blåsor och hudirritationer.
-
-På den tiden trodde jag att handskar var nödvändiga för att skydda händerna.
-
-Allteftersom mitt grepp och min sving blev stabilare förändrades den uppfattningen.
-
-En repeterbar sving kräver inte att klubban hålls med överdriven kraft.
-
-När den onödiga spänningen försvann blev även handskarna överflödiga.
-
-Att inte använda handskar eliminerar dessutom flera moment som annars måste hanteras:
-
-- Köpa handskar.
-- Ta med handskar.
-- Ta på och av handskarna.
-- Tvätta handskarna.
-- Torka handskarna.
-- Byta ut handskarna.
-
-Det minskar också problem som:
-
-- Förhårdnader orsakade av svett.
-- Smuts.
-- Att handen glider inuti handsken.
-- Solbrännemärken efter handskar.
-
-Att inte använda handskar är också en del av optimeringen av hanteringskomplexitet i den här teorin.
+Det handler om at reducere variabler og forbedre reproducerbarheden.
 
 ---
 
-## Varför använder den här teorin ingen chipper?
+## Driverens rolle
 
-I den nuvarande implementeringen används ingen chipper.
+Denne teori afviser ikke driveren i sig selv.
 
-Anledningen är enkel.
+Driveren er en fremragende kølle, når målet er maksimal slaglængde.
 
-Dess uppgift utförs redan av andra klubbor i det nuvarande systemet.
+Jeg har også selv anvendt driveren, da jeg stræbte efter maksimal slaglængde.
 
-I den nuvarande implementeringen är ansvarsområdena fördelade enligt följande:
+Naturligvis kan en driver skabe større slaglængde end den 3W, der anvendes i den nuværende implementering.
+
+Denne teori prioriterer dog bæredygtig præstation frem for maksimal præstation.
+
+Derfor er driveren ikke længere en del af kernen i pointsystemet i den nuværende implementering.
+
+Driveren betragtes ikke som en kølle til at skabe score.
+
+Den betragtes som en kølle til at opnå maksimal slaglængde.
+
+Med andre ord:
+
+- Driver = Jagten på maksimal slaglængde
+- 3W og kortere køller = Pointsystemet
+
+I den nuværende implementering er det 3W, der har ansvaret for den maksimale slaglængde.
+
+Driveren er ikke blevet opgivet.
+
+Kun dens rolle er blevet ændret.
+
+---
+
+## Hvorfor bruger denne teori ikke handsker?
+
+I den nuværende implementering anvendes der ingen golfhandsker.
+
+Da jeg begyndte at spille golf, brugte jeg handsker på begge hænder.
+
+Alligevel fik jeg vabler og hudirritation.
+
+På det tidspunkt mente jeg, at handsker var nødvendige for at beskytte hænderne.
+
+Efterhånden som mit greb og mit sving blev mere stabile, ændrede denne opfattelse sig.
+
+Et reproducerbart sving kræver ikke, at man holder unødigt hårdt om køllen.
+
+Da den unødige spænding forsvandt, blev handskerne også overflødige.
+
+Ikke at bruge handsker eliminerer desuden flere opgaver, som ellers skal håndteres:
+
+- Købe handsker.
+- Medbringe handsker.
+- Tage handskerne af og på.
+- Vaske handskerne.
+- Tørre handskerne.
+- Udskifte handskerne.
+
+Derudover reducerer det også problemer som:
+
+- Hærdning forårsaget af sved.
+- Snavs.
+- At hånden glider inde i handsken.
+- Solbrune mærker efter handsker.
+
+At undlade at bruge handsker er også en del af optimeringen af styringskompleksitet i denne teori.
+
+---
+
+## Hvorfor bruger denne teori ikke en chipper?
+
+I den nuværende implementering anvendes der ingen chipper.
+
+Årsagen er enkel.
+
+Dens rolle udføres allerede af andre køller i det nuværende system.
+
+I den nuværende implementering er ansvarsområderne fordelt således:
 
 - Bump-and-run → 13W / AW
-- Slag som kräver både höjd och framåtrörelse → AW
-- Maximal höjd och maximal stoppförmåga → SW
+- Slag, der kræver både højde og fremdrift → AW
+- Maksimal højde og maksimal stopkraft → SW
 
-Innan en ny klubba läggs till frågar sig den här teorin först om det nuvarande systemet redan kan lösa problemet.
+Før en ny kølle tilføjes, spørger denne teori først, om det nuværende system allerede kan løse problemet.
 
-Att lägga till en ny klubba ökar antalet tillgängliga alternativ.
+At tilføje en ny kølle øger antallet af tilgængelige muligheder.
 
-Men samtidigt ökar också hanteringskomplexiteten.
+Men samtidig øger det også styringskompleksiteten.
 
-Därför ställer teorin två frågor innan ett nytt verktyg införs:
+Derfor stiller denne teori to spørgsmål, før et nyt værktøj introduceres:
 
-- Kan det nuvarande systemet redan lösa problemet?
-- Kan den nödvändiga färdigheten utvecklas med de befintliga klubborna?
+- Kan det nuværende system allerede løse dette problem?
+- Kan den nødvendige færdighed udvikles ved hjælp af de eksisterende køller?
 
-Först när svaret på båda frågorna är nej övervägs en ny klubba.
+Først når svaret på begge spørgsmål er nej, overvejes en ny kølle.
 
-I den nuvarande implementeringen behövs ingen chipper.
+I den nuværende implementering er en chipper ikke nødvendig.
 
-Den här teorin förkastar inte chipprar.
+Denne teori afviser ikke chippere.
 
-Den drar helt enkelt slutsatsen att deras roll redan är helt täckt inom det nuvarande systemet.
+Den konkluderer blot, at deres rolle allerede er fuldt dækket af det nuværende system.
 
 ---
 
 ## KPI
 
-### Kortsiktiga mål
+### Kortsigtede mål
 
-- Gå under 90 slag från de vita tee-markeringarna.
-- Regelbundet spela under 100 slag från de blå tee-markeringarna.
-
----
-
-### Medellångsiktiga mål
-
-- Regelbundet spela rundor på 90-nivå från de blå tee-markeringarna.
-- Fortsätta spela golf utan att drabbas av allvarliga skador.
+- Spille en runde under 90 slag fra de hvide tees.
+- Regelmæssigt spille under 100 slag fra de blå tees.
 
 ---
 
-### Långsiktiga mål
+### Mellemlange mål
 
-- Uppnå golf på parnivå.
-- Färdigställa ett golfsystem som kan upprätthållas under hela livet.
+- Regelmæssigt spille runder i 90'erne fra de blå tees.
+- Fortsætte med at spille golf uden alvorlige skader.
 
 ---
 
-## Avslutning
+### Langsigtede mål
 
-Den här teorin är ännu inte färdig.
+- Opnå golf på par-niveau.
+- Færdiggøre et golfsystem, som kan opretholdes hele livet.
 
-Valideringen fortsätter.
+---
 
-Allt eftersom nya observationer samlas in kan både teorin och dess implementering fortsätta att utvecklas.
+## Afslutning
 
-Den här teorin är inte bara ett tankeexperiment.
+Denne teori er endnu ikke færdig.
 
-Jag kommer att fortsätta omsätta den i praktiken, publicera resultaten och validera den över tid.
+Valideringsprocessen fortsætter.
 
-Fungerar den här teorin verkligen?
+Efterhånden som nye observationer indsamles, kan både teorien og dens implementering fortsætte med at udvikle sig.
 
-Är det möjligt att spela golf på parnivå samtidigt som kroppen skyddas på lång sikt?
+Denne teori er ikke blot et tankeeksperiment.
 
-Svaret kommer gradvis att växa fram genom framtida rundor och fortsatt validering.
+Jeg vil fortsætte med at omsætte den til praksis, offentliggøre resultaterne og validere den på lang sigt.
 
-Jag hoppas kunna fortsätta spela golf under många år framöver.
+Virker denne teori virkelig?
 
-Och jag hoppas att den här teorin också kan hjälpa andra som delar samma mål.
+Er det muligt at spille golf på par-niveau og samtidig beskytte kroppen på lang sigt?
 
-Det här projektet är mitt försök att hitta svaret.
+Svaret vil gradvist vise sig gennem fremtidige runder og den fortsatte validering.
+
+Jeg håber at kunne fortsætte med at spille golf i mange år fremover.
+
+Og jeg håber også, at denne teori kan hjælpe andre, som deler det samme mål.
+
+Dette projekt er mit forsøg på at finde svaret.
