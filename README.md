@@ -26,32 +26,32 @@ A golf system design theory for lifelong play.
 
 ## Overview
 
-Lifelong Golfer Theory is a framework for building a golf system that can be sustained over a lifetime.
+Lifelong Golfer Theory is a framework for designing a golf system that can be sustained throughout a lifetime.
 
-It is not a swing method.
+It is not a swing theory.
 
-It is not a universal club recommendation.
+It is not a universal recommendation for club selection.
 
-It is a system-design framework for reducing unnecessary complexity, improving repeatability, and preserving the ability to enjoy golf over the long term.
+It is a golf system design theory that aims to reduce unnecessary complexity, improve repeatability, and preserve the ability to enjoy golf over the long term.
 
-This theory is built on four core principles:
+This theory is built upon four core principles:
 
 - Management Complexity Optimization
 - Role Specialization
 - Repeatability
 - Sustainability
 
-The purpose of this theory is not to pursue short-term maximum performance.
+The objective of this theory is not to maximize short-term performance.
 
-Its purpose is to reduce unnecessary physical stress, simplify decision-making, and build a golf system that remains practical for decades.
+Its purpose is to reduce unnecessary physical strain, simplify decision-making, and build a golf system that remains practical for decades.
 
-The current implementation is centered around woods and wedges.
+The current implementation is centered around fairway woods and wedges.
 
-By reducing the number of clubs, movement patterns, and in-round decisions, the system aims to improve repeatability while preserving long-term enjoyment of the game.
+By reducing the number of clubs, movement patterns, and on-course decisions, the system seeks to improve repeatability while preserving the enjoyment of golf over a lifetime.
 
 ---
 
-## Core Terminology
+## Terminology
 
 The following terms are used throughout this document.
 
@@ -61,87 +61,87 @@ Reducing the number of elements that require continuous management during practi
 
 ### Role Specialization
 
-Assigning each club a clear and limited responsibility.
+Assigning each club a clear and well-defined responsibility.
 
 ### Repeatability
 
-Prioritizing stable and repeatable performance over occasional peak performance.
+Prioritizing performance that can be reproduced consistently over temporary peak performance.
 
 ### Sustainability
 
-Building a golf system that can be maintained physically, mentally, and practically over a lifetime.
+Building a golf system that can be maintained physically, mentally, and practically throughout a lifetime.
 
 ---
 
 ## Target Audience
 
-This theory is intended for golfers of all skill levels who want to build a sustainable long-term golf system.
+This theory is intended for golfers of all skill levels who wish to build a sustainable golf system for the long term.
 
 It does not propose a universal club setup for everyone.
 
-The setup presented here is one implementation based on the principles of this theory.
+The setup presented here is only one implementation based on the principles of this theory.
 
-The optimal implementation will vary depending on distance, physical ability, age, injury history, practice environment, and personal circumstances.
+The optimal implementation depends on driving distance, physical ability, age, injury history, practice environment, and individual circumstances.
 
 The implementation is personal.
 
-The principles are general.
+The principles are universal.
 
 ---
 
 ## Current Results
 
-This project is currently in its early testing phase.
+This project is currently in its early validation phase.
 
 The following results are based on the current implementation of Lifelong Golfer Theory.
 
 They are not presented as proof of the theory.
 
-They are the starting point for long-term validation.
+They represent the starting point of a long-term validation process.
 
-As more rounds are played and new observations are collected, both the theory and its implementation may continue to evolve.
+As additional rounds are played and new observations are collected, both the theory and its implementation may continue to evolve.
 
-- Golf Experience: 1 year
-- Rounds Played: 17
-- Best Score (White Tee): 93
-- Best Score (Blue Tee): 109
-- Average of Last 5 Rounds (White Tee): 106
-- Average of Last 5 Rounds (Blue Tee): 114
+- Golf experience: 1 year
+- Total rounds played: 17
+- Best score (White tees): 93
+- Best score (Blue tees): 109
+- Average of last 5 rounds (White tees): 106
+- Average of last 5 rounds (Blue tees): 114
 
-Depending on the event and playing partners, I typically play from either the White or Blue tees.
+Depending on the event and my playing partners, I normally play from either the white or blue tees.
 
 ---
 
 ## Learning Environment
 
-When I began playing golf, I attended one lesson each week.
+When I first started playing golf, I took one lesson each week.
 
-The objective was clear.
+The objectives were clear.
 
 - Teach my body an entirely new movement.
 - Build new neural pathways.
-- Reinforce those pathways through repetition.
+- Strengthen those pathways through repetition.
 
-To accelerate the learning process, I hit approximately 500 balls per day, including lesson days, using both indoor golf simulators and driving ranges.
+To accelerate the learning process, I hit approximately 500 balls every day—including lesson days—using both indoor golf simulators and outdoor driving ranges.
 
-I maintained this routine for roughly two months.
+I maintained this routine for about two months.
 
-During that period, however, I suffered several injuries.
+During that period, however, I suffered multiple injuries.
 
-After learning the fundamentals, I stopped taking lessons and continued developing independently.
+Using what I had learned during those first two months as a foundation, I continued my research and development independently.
 
-Since then, I have relied on:
+Since then, I have used:
 
 - YouTube
 - Books
-- Indoor Golf Simulators
-- Driving Ranges
-- Short Courses
-- Full-Length Courses
+- Indoor golf simulators
+- Driving ranges
+- Short courses
+- Full-length golf courses
 
-to continue testing and refining an approach that is repeatable and less physically demanding for my body.
+to continuously test and refine an approach that is both repeatable and less demanding on my body.
 
-At the time, I did not know what the correct path looked like.
+At the time, I had no idea what the correct path was.
 
 My solution was simply to hit more balls.
 
@@ -149,9 +149,9 @@ Eventually, that approach led to injury.
 
 Today, my perspective is fundamentally different.
 
-Both the frequency and intensity of my practice have been significantly reduced.
+Compared to that period, both the frequency and intensity of my practice have settled into a much more sustainable level.
 
-This theory does not aim to improve through practice volume alone.
+This theory is not about improving solely by increasing practice volume.
 
 It prioritizes repeatability, sustainability, and long-term development.
 
@@ -159,47 +159,47 @@ It prioritizes repeatability, sustainability, and long-term development.
 
 ## Introduction
 
-I started playing golf approximately one year ago.
+I started playing golf about one year ago.
 
-Like many beginners, I was strongly attracted to distance.
+Like many beginners, I was fascinated by distance.
 
-I believed that being able to use difficult clubs was itself a sign of improvement.
+I believed that being able to hit more demanding clubs was, by itself, evidence of improvement.
 
-I assembled a complete muscle-back iron set from the 1-iron through the pitching wedge and attempted to design my entire game around distance gaps extending to 240 yards.
+I assembled a complete set of muscle-back irons—from a 1-iron through a pitching wedge—and attempted to build my entire game around distance gaps extending to 240 yards.
 
-I also experienced drives of approximately 320 yards with a driver.
+I also recorded drives of approximately 320 yards.
 
-However, that pursuit came at a cost.
+That pursuit, however, came at a cost.
 
 A rib cartilage injury forced me away from golf for two months.
 
-After returning, I continued practicing irons extensively and eventually developed shoulder pain and chronic wrist pain.
+After returning, I continued intensive iron practice and eventually developed shoulder pain and chronic wrist pain.
 
-Those experiences completely changed the way I viewed the game.
+Those experiences completely changed the way I viewed golf.
 
-Until then, I had been asking:
+Before then, I had been asking myself:
 
 > "How can I hit the ball farther?"
 
-After that, I began asking:
+Eventually, that question became:
 
-> "How can I continue playing golf for the next twenty years without breaking my body?"
+> "How can I continue playing golf for the next twenty years without damaging my body?"
 
-My focus shifted from maximizing distance to optimizing distance.
+My focus shifted from maximum distance to optimal distance.
 
-Instead of pursuing the identity of a long hitter, I chose to become a lifelong golfer.
+Rather than pursuing the identity of a long hitter, I chose to become a lifelong golfer.
 
-As I searched for a sustainable solution, I gradually moved away from an iron-centered setup and toward a system built around woods and wedges.
+As I searched for a more sustainable approach, I gradually moved away from an iron-centered setup and toward a system built around fairway woods and wedges.
 
 This theory is the result of that process.
 
-Its long-term objective is to determine whether par-level golf can be reached while protecting the body over the long term.
+Its long-term objective is to determine whether par-level golf can be achieved while protecting the body over the long term.
 
 ---
 
 ## Theory vs. Implementation
 
-The essence of this theory is not a specific club setup.
+The essence of this theory is not a particular club setup.
 
 Its foundation consists of four core principles:
 
@@ -208,29 +208,29 @@ Its foundation consists of four core principles:
 - Repeatability
 - Sustainability
 
-For that reason, this theory does not recommend a single club configuration for every golfer.
+For that reason, this theory does not recommend a single club setup for every golfer.
 
-The setup presented in this document is only the current implementation.
+The configuration presented in this document is simply the current implementation.
 
-The optimal implementation will vary depending on distance, physical ability, age, injury history, practice environment, and personal circumstances.
+The optimal implementation depends on driving distance, physical ability, age, injury history, practice environment, and individual circumstances.
 
-The clubs themselves are not the point.
+The clubs themselves are not what matter.
 
-What matters is reducing management complexity, assigning clear responsibilities, and building a golf system that can remain sustainable over the long term.
+What matters is reducing management complexity, assigning clear responsibilities, and building a golf system that remains sustainable over the long term.
 
 ---
 
 ## Current Implementation
 
-Within this theory, distance control is achieved primarily through swing length and grip position.
+In this theory, distance control is achieved primarily through swing length and grip position.
 
-Rather than increasing the number of clubs to create finer distance gaps, each club is assigned a clear role.
+Rather than increasing the number of clubs to create smaller distance gaps, each club is assigned a clearly defined role.
 
-In the current implementation, the 3W is the maximum-distance club.
+In the current implementation, the 3W serves as the maximum-distance club.
 
-The longest club is not selected by maximum potential distance alone.
+The longest club is not selected based solely on maximum distance.
 
-It is selected based on the overall balance of distance, repeatability, physical stress, and compatibility with the rest of the system.
+It is selected based on the overall balance of distance, repeatability, physical demand, and compatibility with the rest of the system.
 
 The current implementation consists of seven clubs, excluding the putter.
 
@@ -240,47 +240,47 @@ The current implementation consists of seven clubs, excluding the putter.
 | 7W (21°) | Mid Distance | 160–190 yd |
 | 13W (34°) | Primary Club | 1–150 yd |
 | AW (46°) | Recovery Club | 1–80 yd |
-| SW (58°) | Finishing Club | 1–40 yd |
-| 5W LH (18°) | Recovery Specialty | 140–220 yd |
-| 15W LH (39°) | Recovery Specialty | 1–130 yd |
+| SW (58°) | Finish Club | 1–40 yd |
+| 5W LH (18°) | Specialized Recovery Club | 140–220 yd |
+| 15W LH (39°) | Specialized Recovery Club | 1–130 yd |
 
 ### 3W (15°)
 
 The maximum-distance club in the current implementation.
 
-It is responsible for carries between 200 and 240 yards.
+It is responsible for carry distances between 200 and 240 yards.
 
-The 3W provides sufficient distance for the maximum-distance role while preserving the repeatability of the overall system.
+The 3W provides sufficient distance for the role of the maximum-distance club while preserving repeatability throughout the entire system.
 
-Within this theory, the longest club is not selected by distance alone.
+In this theory, the longest club is not selected based on distance alone.
 
-It is selected based on distance, repeatability, physical stress, and compatibility with the entire system.
+It is selected based on distance, repeatability, physical demand, and compatibility with the entire system.
 
 ### 7W (21°)
 
 The mid-distance club.
 
-It is responsible for carries between 160 and 190 yards.
+It is responsible for carry distances between 160 and 190 yards.
 
-Its role is to bridge the gap between the long-distance club and the short-game clubs.
+Its role is to bridge the gap between the long-distance club and the clubs used for the short game.
 
 ### 13W (34°)
 
 The primary club in the current implementation.
 
-It is responsible for carries between 1 and 150 yards.
+It is responsible for carry distances between 1 and 150 yards.
 
-It is used for rolling shots, standard approaches, and distance control.
+It is used for bump-and-run shots, standard approach shots, and distance control.
 
 It is the most frequently used club in the system.
 
-For approach shots, when a rolling shot is appropriate, the 13W is the default choice.
+For approach shots, the 13W is the default choice whenever a bump-and-run is appropriate.
 
-When enough rollout space is available, a rolling shot is considered more repeatable than a higher wedge shot.
+When there is sufficient room for the ball to roll, a bump-and-run is considered more repeatable than a high wedge shot.
 
-In the current testing process, compared with higher approaches using the AW or SW, rolling shots with the 13W have been less affected by lie conditions and have produced more stable results.
+In the current testing, bump-and-run shots with the 13W have proven less sensitive to the lie and more consistent than high approach shots played with the AW or SW.
 
-Within this theory, the 13W is not merely a fairway wood.
+In this theory, the 13W is more than simply a fairway wood.
 
 It is the central club of the entire system.
 
@@ -288,175 +288,177 @@ It is the central club of the entire system.
 
 The recovery club.
 
-It is responsible for carries between 1 and 80 yards.
+It is responsible for carry distances between 1 and 80 yards.
 
-It is used when height is required, when an obstacle must be carried, or when the 13W is not suitable for the situation.
+It is used whenever additional height is required, when an obstacle must be carried, or when the 13W is not suitable for the situation.
 
-For approach shots, it is used when lie conditions call for it or when both moderate height and forward progression are needed.
+For approach shots, it is used when the lie demands it or when both moderate height and forward carry are required.
 
-Because it launches the ball more easily than the 13W and moves the ball forward more easily than the SW, it serves as the intermediate short-distance club.
+Because it launches the ball more easily than the 13W while carrying it farther than the SW, it serves as the intermediate club for short-distance play.
 
 ### SW (58°)
 
-The finishing club.
+The finish club.
 
-It is responsible for carries between 1 and 40 yards.
+It is responsible for carry distances between 1 and 40 yards.
 
-It is used when maximum height, stopping power, or precise short-distance control is required.
+It is used whenever maximum height, maximum stopping power, or precise short-distance control is required.
 
-For approach shots, it is used when the ball needs to be launched high and stopped quickly, when the pin is close, or when escape and stopping power must be prioritized, such as from bunkers or deep rough.
+For approach shots, it is used when the ball must be launched high and stopped quickly, when the pin is positioned close to the landing area, or when maximum stopping power is required from bunkers or deep rough.
 
-Within this theory, the SW is not asked to produce unnecessary distance.
+In this theory, the SW is not expected to produce unnecessary distance.
 
-The SW is not a maximum-distance club.
+It is not a distance club.
 
-It is responsible for maximum height and maximum stopping power.
+Its responsibility is maximum height and maximum stopping power.
 
 ### Left-Handed Clubs
 
 The current implementation includes left-handed clubs.
 
-These clubs are not intended to replace the standard right-handed setup.
+They are not intended to replace the standard right-handed setup.
 
-Instead, they exist to handle situations where a conventional right-handed shot would require unnecessary complexity, excessive physical stress, or a significantly lower probability of success.
+They exist to address situations where a conventional right-handed shot would introduce unnecessary complexity, excessive physical demand, or a significantly lower probability of success.
 
-Within this theory, left-handed clubs are treated as specialty tools.
+Within this theory, left-handed clubs are treated as specialized tools.
 
 More specifically, they are dedicated recovery tools.
 
 Their purpose is not to increase shot variety.
 
-Their purpose is to simplify recovery by assigning dedicated solutions to situations that occur repeatedly.
+Their purpose is to simplify recovery by providing dedicated solutions for situations that occur repeatedly.
 
-A possible criticism of this approach is that introducing left-handed clubs appears to increase management complexity.
+A common criticism of this approach is that adding left-handed clubs appears to increase management complexity.
 
-That criticism is valid to some extent.
+To some extent, that criticism is valid.
 
-A left-handed swing is itself another movement pattern that must be maintained.
+A left-handed swing is an additional movement pattern that must be maintained.
 
-However, in the current implementation, that additional cost is intentionally limited.
+In the current implementation, however, that additional cost is intentionally minimized.
 
-Only two left-handed clubs are included, and both are woods.
+Only two left-handed clubs are included, and both are fairway woods.
 
-No left-handed wedge or putter is added.
+There is no left-handed wedge.
 
-The reason is that the current implementation does not require a complete left-handed system.
+There is no left-handed putter.
 
-It only requires two recovery tools: one for longer escape shots and one for shorter controlled recovery shots.
+The current implementation does not require a complete left-handed system.
 
-Because both clubs are woods, they share many movement characteristics with the rest of the wood-based system.
+It requires only two dedicated recovery tools: one for long-distance recovery and one for controlled short-distance recovery.
 
-Rather than introducing an entirely different family of clubs, this theory extends the existing wood-based movement pattern to the opposite side.
+Because both clubs are fairway woods, they share the same movement characteristics as the rest of the wood-based system.
 
-The important question is not simply how many clubs are included.
+Rather than introducing an entirely new family of clubs, this theory simply extends the existing fairway wood movement pattern to the opposite side.
+
+The important question is not how many clubs are added.
 
 The important question is how many additional movement patterns must be maintained.
 
 ### 5W LH (18°)
 
-The long-distance recovery specialty club.
+The specialized long-distance recovery club.
 
-It is responsible for carries between 140 and 220 yards.
+It is responsible for carry distances between 140 and 220 yards.
 
-This is a left-handed club used for longer recovery situations that cannot be handled effectively by the standard right-handed setup.
+This is a left-handed club used for long-distance recovery situations that cannot be handled effectively with the standard right-handed setup.
 
-It is used when trees, obstacles, slope, stance restrictions, or course layout make a right-handed shot impractical.
+It is used when trees, hazards, slopes, stance restrictions, or course layout make a right-handed shot impractical.
 
-Within this theory, the 5W LH is not included to expand shot variety.
+Within this theory, the 5W LH is not included to increase shot variety.
 
-It is included to provide a repeatable left-handed option for longer escape shots.
+It is included to provide a repeatable left-handed solution for long-distance recovery.
 
 ### 15W LH (39°)
 
-The short-distance recovery specialty club.
+The specialized short-distance recovery club.
 
-It is responsible for carries between 1 and 130 yards.
+It is responsible for carry distances between 1 and 130 yards.
 
-This is a left-handed club used for shorter recovery situations that cannot be handled effectively by the standard right-handed setup.
+This is a left-handed club used for short-distance recovery situations that cannot be handled effectively with the standard right-handed setup.
 
-It serves the same philosophy as the 5W LH but focuses on shorter shots that require greater control.
+It follows the same philosophy as the 5W LH but focuses on shorter shots requiring greater control.
 
-At present, these left-handed clubs provide dedicated recovery options while preserving the overall structure of the system.
+At present, these two left-handed clubs provide dedicated recovery options while preserving the overall structure of the system.
 
-For the foreseeable future, this implementation will remain fixed while long-term testing continues.
+For the foreseeable future, this implementation will remain unchanged while long-term validation continues.
 
 ---
 
 ## Why This Theory Exists
 
-The starting point of this theory is a simple question:
+This theory began with a simple question:
 
 > "Can the same result be achieved in a simpler and more sustainable way?"
 
-That way of thinking naturally carried over into golf.
+Applying that question to golf became the starting point of this theory.
 
-This theory does not begin by treating a conventional club setup as fixed.
+This theory does not begin by accepting the traditional club setup as a given.
 
-Instead, it reexamines the role of each club.
+Instead, it begins by reexamining the role of every club.
 
-Can an entire game be built around irons?
+Is an iron-centered game really the optimal approach?
 
-Can fairway woods take over the roles traditionally assigned to irons?
+Can fairway woods take over the roles that have traditionally belonged to irons?
 
 Can the driver be removed from the core scoring system?
 
-Can fewer clubs produce greater repeatability?
+Is there a better way to achieve greater repeatability?
 
-Over time, those questions evolved into systematic testing.
+Over time, these questions evolved into systematic experimentation.
 
 This theory is the result of that process.
 
 It did not emerge from a single idea.
 
-It emerged from continuously reexamining conventional club roles and searching for ways to achieve equal—or better—results with fewer variables and less physical stress.
+It emerged from continuously rethinking the traditional roles of clubs and searching for ways to achieve the same—or better—results with fewer variables and less physical strain.
 
 ---
 
 ## Core Principles
 
-Lifelong Golfer Theory is built on four principles.
+Lifelong Golfer Theory is built upon four core principles.
 
-Everything presented throughout this document ultimately traces back to them.
+Everything presented in this document ultimately traces back to them.
 
 ### Management Complexity Optimization
 
 Reduce the number of elements that require continuous management.
 
-Less management allows more attention to be devoted to execution.
+The fewer things that must be managed, the more attention can be devoted to execution itself.
 
 ### Role Specialization
 
-Assign each club a clearly defined area of responsibility.
+Assign each club a clearly defined responsibility.
 
-Rather than asking one club to perform an unlimited number of tasks, this theory clearly defines the area each club is responsible for and emphasizes developing a deep understanding of that responsibility.
+Rather than expecting a single club to perform an unlimited number of tasks, this theory clearly defines the responsibility of each club and emphasizes developing a deep understanding of that role.
 
 ### Repeatability
 
-Reliable performance is valued more highly than occasional peak performance.
+Prioritize performance that can be reproduced consistently over temporary peak performance.
 
 The objective is not a perfect shot.
 
-The objective is a shot that can be reproduced consistently.
+The objective is a shot that can be repeated.
 
 ### Sustainability
 
-Every decision should support the ability to continue playing golf over the long term.
+Every decision should contribute to the ability to continue playing golf over the long term.
 
-Performance achieved through unnecessary physical stress is not considered sustainable.
+Performance achieved through unnecessary physical strain is not considered sustainable.
 
 ---
 
 ## Management Complexity Optimization
 
-Reducing the number of clubs is not the goal of this theory.
+Reducing the number of clubs is not the objective of this theory.
 
-It is only one outcome.
+It is merely a consequence.
 
-The real goal is to reduce the number of things that must be managed.
+The true objective is to reduce the number of things that must be managed.
 
 Golf is a continuous sequence of decisions.
 
-Every shot requires choices such as:
+Before every shot, decisions must be made regarding:
 
 - Club selection
 - Swing type
@@ -464,29 +466,29 @@ Every shot requires choices such as:
 - Target line
 - Shot strategy
 
-Each decision consumes attention.
+Every decision consumes attention.
 
-As the number of variables increases, so does the mental effort required to play.
+The more variables that exist, the greater the mental load required to play.
 
-This theory attempts to reduce decisions that do not directly improve scoring performance.
+This theory seeks to eliminate decisions that do not directly contribute to better scoring.
 
-Reduce clubs.
+Reduce the number of clubs.
 
-Reduce movement patterns.
+Reduce the number of movement patterns.
 
-Remove tees.
+Eliminate tees.
 
-Remove gloves.
+Eliminate gloves.
 
 Assign clear responsibilities.
 
-Each of these choices follows the same philosophy.
+All of these decisions originate from the same philosophy.
 
 Reduce unnecessary management.
 
 Increase repeatability.
 
-Simplicity itself is not the objective.
+Simplicity is not the objective.
 
 Optimization is.
 
@@ -494,13 +496,13 @@ Optimization is.
 
 ## Why Reduce Movement Patterns?
 
-When I first began playing golf, one statement stayed with me:
+When I first started playing golf, one particular statement stayed with me:
 
-> "There is a lot to learn."
+> "Golf is difficult because there is so much to learn."
 
-At the time, I accepted that statement as it was.
+At the time, I accepted that idea without question.
 
-Every club appeared to require a different movement.
+Every club seemed to require a different movement.
 
 Driver.
 
@@ -514,23 +516,23 @@ Wedge.
 
 Putter.
 
-On top of that, every lie and situation introduced additional variables.
+On top of that, every lie and every situation introduced additional variables.
 
-- A teed-up ball
+- A ball on a tee
 - A ball on the ground
 - Rough
-- Bunkers
-- Uneven lies
+- Bunker
+- Sloping lies
 
-Even on a flat practice mat, learning to strike every club consistently seemed to require an enormous amount of repetition.
+Even on a perfectly flat practice mat, it seemed as though each club required an enormous amount of repetition before it could be hit consistently.
 
 During my first few months, I could not hit either hybrids or fairway woods consistently.
 
-Because I planned to play my first full round within three months of starting lessons, building the game around irons appeared to be the most repeatable solution at the time.
+Since I planned to play my first full round within three months of starting lessons, an iron-centered setup seemed to be the most repeatable solution at the time.
 
-Later, that assumption changed.
+Eventually, however, that perspective changed.
 
-When I began thinking of golf as something I wanted to continue over the long term, I realized that simply increasing the number of clubs I could hit was not necessarily the optimal solution.
+Once I began thinking about golf as something I wanted to enjoy for the rest of my life, I realized that simply learning to use more clubs was not necessarily the best solution.
 
 Eventually, the question itself changed.
 
@@ -544,51 +546,51 @@ I began asking,
 
 Every additional movement pattern requires time to learn.
 
-More importantly, it requires practice to maintain.
+More importantly, it also requires continuous practice to maintain.
 
-The greater the number of movement patterns, the greater the long-term maintenance cost.
+The more movement patterns there are, the greater the long-term maintenance cost becomes.
 
-This theory considers maintenance cost just as important as learning cost.
+This theory considers maintenance cost to be just as important as learning cost.
 
-Golf is ultimately about advancing the ball and producing a score.
+At its core, golf is about moving the ball forward and producing a score.
 
-If that is true, deeply understanding fewer movement patterns may be more sustainable over the long term.
+If that is true, then developing a deeper understanding of fewer movement patterns may be the more sustainable long-term approach.
 
 This theory does not attempt to solve problems by adding more tools.
 
-It attempts to solve problems by understanding fewer tools more deeply.
+It attempts to solve problems by developing a deeper understanding of fewer tools.
 
 The current wood-centered implementation is the result of that philosophy.
 
 ---
 
-## Why Prioritize the Ability to Recover?
+## Why Prioritize Recovery?
 
-A common question about this theory is:
+One of the most common questions about this theory is:
 
-> "What happens if your woods stop working?"
+> "What happens if your fairway woods stop working?"
 
-It is a reasonable concern.
+It is a perfectly reasonable question.
 
-A conventional setup often provides multiple alternatives.
+A conventional club setup usually provides multiple alternatives.
 
-If the driver is struggling, use a fairway wood.
+If the driver is not working, use a fairway wood.
 
-If the fairway wood is struggling, use a hybrid.
+If the fairway wood is not working, use a hybrid.
 
-If the hybrid is struggling, use an iron.
+If the hybrid is not working, use an iron.
 
 This theory intentionally reduces those alternatives.
 
-The reason is clear.
+The reason is simple.
 
 It prioritizes mastery over redundancy.
 
-Instead of solving problems by changing clubs, it encourages solving problems with the club already assigned to that responsibility.
+Rather than solving problems by switching clubs, it encourages solving them with the club that has already been assigned that responsibility.
 
-More options can create comfort.
+Having more options can provide a sense of security.
 
-Fewer options can create deeper understanding.
+Having fewer options can lead to a deeper understanding.
 
 This theory deliberately chooses the latter.
 
@@ -596,21 +598,23 @@ This theory deliberately chooses the latter.
 
 ## Why This Theory Does Not Use Irons
 
-In the current implementation, this theory does not use irons.
+The current implementation does not include irons.
 
 This is not because irons are poor clubs.
 
-On the contrary, irons are exceptional tools.
+Quite the opposite.
 
-The question is different.
+Irons are excellent tools.
 
-> Are irons the best long-term solution for this particular system?
+The real question is different.
 
-At first, an iron-centered setup seemed reasonable.
+> "Are irons the optimal long-term choice for this system?"
 
-However, after considering long-term sustainability, practice requirements, repeatability, and maintenance cost, I concluded that irons were not suitable for the current implementation of this theory.
+At first, an iron-centered setup seemed perfectly reasonable.
 
-The key criteria were:
+However, after considering long-term sustainability, required practice volume, repeatability, and maintenance cost, I concluded that irons were not the right fit for the current implementation of this theory.
+
+That conclusion was based on four criteria:
 
 - Long-term sustainability
 - Required practice volume
@@ -619,72 +623,77 @@ The key criteria were:
 
 Many experienced golfers eventually say:
 
-> "I can't hit my irons like I used to."
+> "I can't hit my irons the way I used to."
 
-The reasons may include age, injury, reduced practice time, or other physical changes.
+The reasons may be age.
 
-But that observation appears repeatedly throughout the golfing community.
+They may be injury.
 
-Based on my own experience, I decided not to wait until that point.
+They may be reduced practice time.
 
-Instead, this theory reallocates the traditional responsibilities of irons to fairway woods and wedges.
+Or they may simply be other physical changes.
+
+Regardless of the reason, this is something that is repeatedly heard throughout the golfing community.
+
+Based on my own experience, I decided not to wait until that day arrived.
+
+Instead, this theory reallocates the traditional responsibilities of irons to fairway woods.
 
 This theory does not reject irons.
 
-It simply assigns their responsibilities differently.
+It simply redefines their role.
 
 ---
 
 ## Why This Theory Does Not Use Hybrids
 
-In the current implementation, this theory does not use hybrids.
+The current implementation does not include hybrids.
 
 The reason is not distance.
 
 The reason is long-term sustainability.
 
-During testing, fairway woods felt more suitable to this theory than hybrids in comparable loft ranges.
+Through repeated testing, I found that fairway woods were better suited to this theory than hybrids with similar lofts.
 
-The main reasons were:
+The primary reasons were:
 
 - A wider sole
 - Smoother turf interaction
 - Easier launch
-- More height with less effort
-- Less impact stress on the wrists
+- Greater height with less effort
 
-Fairway woods also made it easier to produce height and distance with less physical effort.
+Fairway woods also made it easier to produce both height and distance with less physical demand.
 
 This theory does not claim that hybrids are ineffective.
 
 For many golfers, hybrids are excellent clubs.
 
-However, under the principles of this system, fairway woods fulfilled the same responsibilities with fewer compromises.
+However, within the principles of this system, fairway woods proved to be better suited to this theory.
 
 For that reason, hybrids are not included in the current implementation.
 
 ---
 
-## Why This Theory Limits Wedge Distances
+## Why This Theory Limits Wedge Distance
 
-Within this theory, wedges are not asked to maximize distance.
+In this theory, wedges are not intended to maximize distance.
 
 Their role is precision.
 
-They are used to create predictable height and landing points while minimizing unnecessary physical stress.
+They are used to produce predictable trajectories and landing points while minimizing unnecessary physical strain.
 
-Instead of forcing distance through aggressive technique, this theory emphasizes stable sole interaction and repeatable contact.
+Rather than generating distance through aggressive technique, this theory emphasizes stable turf interaction and repeatable impact.
 
-The emphasis is not power.
+The priority is not power.
 
-The emphasis is consistency.
+The priority is consistency.
 
-Within the current implementation:
+In the current implementation:
 
-- SW (58°) is responsible for carries between 1 and 40 yards.
-- AW (46°) is responsible for carries between 1 and 80 yards.
+- The SW (58°) is responsible for carry distances between 1 and 40 yards.
+- The AW (46°) is responsible for carry distances between 1 and 80 yards.
 
-The basic role of the wedges is clear.
+The role of the wedges is straightforward.
 
 Launch the ball.
 
@@ -692,86 +701,86 @@ Control the landing point.
 
 Stop the ball.
 
-When a rolling shot is available, or when a longer approach is more appropriate, responsibility shifts to the 13W.
+Whenever a bump-and-run is possible, or when a longer approach is more appropriate, that responsibility is transferred to the 13W.
 
-This theory does not ask wedges to perform every possible shot.
+This theory does not expect wedges to perform every type of shot.
 
-Each club is assigned a clear role.
+Each club is given a clearly defined role.
 
-Within the current implementation, responsibilities are divided as follows:
+In the current implementation, those responsibilities are divided as follows:
 
-- Rolling approaches → 13W / AW
-- Shots requiring both height and forward movement → AW
-- Maximum height and maximum stopping power → SW
+- Bump-and-run → 13W / AW
+- Shots requiring both height and forward carry → AW
+- Maximum height and stopping power → SW
 
-This role structure reduces overlap between clubs and reinforces role specialization throughout the system.
+This distribution of responsibilities reduces overlap between clubs while strengthening role specialization throughout the system.
 
 ---
 
 ## Why This Theory Does Not Use a Driver
 
-In the current implementation, this theory does not use the driver as a primary scoring club.
+The current implementation does not use the driver as the primary scoring club.
 
 The reason is not distance.
 
-The reason is repeatability, sustainability, and system simplification.
+The reasons are repeatability, sustainability, and system simplification.
 
-A driver is built around hitting a teed-up ball.
+A driver is designed to strike a ball from a tee.
 
-A fairway wood, by contrast, is built around hitting the ball from the ground.
+A fairway wood, on the other hand, is designed to strike the ball directly from the ground.
 
-Using a driver introduces additional variables such as:
+Using a driver introduces additional variables, including:
 
 - Tee height
-- Upward angle of attack
-- Driver-specific swing pattern
+- An upward angle of attack
+- A driver-specific swing pattern
 
-I can produce high maximum clubhead speed with a driver.
+Of course, a driver is capable of producing greater distance than the 3W used in the current implementation.
 
-However, this theory prioritizes stable performance over maximum output.
+However, this theory prioritizes sustainable performance over maximum performance.
 
-Rather than solving problems after they occur, this theory emphasizes reducing the variables that create those problems in the first place.
+Rather than solving problems after they occur, it focuses on reducing the variables that create those problems in the first place.
 
-For that reason, the current implementation assigns the maximum-distance role to the 3W rather than the driver.
+For that reason, the current implementation uses a 3W—not a driver—as its maximum-distance club.
 
 The priority is not maximum distance.
 
-The priority is sufficient distance that can be reproduced reliably.
+The priority is producing sufficient distance that can be repeated consistently.
 
 ---
 
 ## Why This Theory Does Not Use Tees
 
-This theory does not treat the first shot of a hole as a separate category.
+This theory does not treat the opening shot of a hole as a special category.
 
-For that reason, teeing the ball up is removed from the current implementation.
+For that reason, the current implementation does not use tees.
 
-The maximum-distance club is the 3W, and all shots are treated using the same ground-based reference.
+The maximum-distance club is the 3W, and every shot is played from the ground.
 
-This prevents the system from introducing a separate premise for the first shot.
+This avoids introducing a separate set of conditions for only the first shot.
 
-Removing tees also removes additional management tasks:
+Eliminating tees also removes additional management tasks:
 
 - Buying tees
 - Carrying tees
 - Placing tees
 - Picking up tees
 - Disposing of broken tees
-- Replenishing tee inventory
+- Replenishing tees
 
-Of course, hitting from the ground means accepting the influence of lie conditions.
+Naturally, playing from the ground means accepting the influence of the lie.
 
-That is intentional.
+That is an intentional decision.
 
-After the first shot, every shot already requires adaptation to the lie.
+After the opening shot, every subsequent shot must already adapt to the lie.
 
-This theory does not make the first shot an exception.
+This theory simply refuses to treat the first shot as an exception.
 
-The first shot and all subsequent shots are handled as part of the same ground-based system.
+The opening shot and every shot that follows belong to the same ground-based system.
 
-This is not a decision to give up distance.
+This is not a decision to sacrifice distance.
 
-It is a decision to reduce variables and increase repeatability.
+It is a decision to reduce variables and improve repeatability.
 
 ---
 
@@ -779,99 +788,101 @@ It is a decision to reduce variables and increase repeatability.
 
 This theory does not reject the driver itself.
 
-The driver is an excellent club for maximizing distance.
+The driver is an excellent club for pursuing maximum distance.
 
-I have used it during my own pursuit of distance.
+I also used a driver while pursuing maximum distance.
 
-When swung aggressively, it can produce higher maximum clubhead speed and greater distance than the current 3W.
+Of course, a driver is capable of producing greater distance than the 3W used in the current implementation.
 
 However, this theory prioritizes sustainable performance over maximum performance.
 
 For that reason, the current implementation removes the driver from the core scoring system.
 
-The driver is treated not as a scoring club, but as a club for pursuing maximum distance.
+The driver is not regarded as a scoring club.
 
-In other words:
+It is regarded as a club for pursuing maximum distance.
 
-- Driver = pursuit of maximum distance
-- 3W and below = scoring configuration
+In other words,
 
-The maximum-distance club in the current implementation is the 3W.
+- Driver = Pursuit of maximum distance
+- 3W and shorter = Scoring system
 
-The driver has not been retired.
+In the current implementation, the 3W is the club responsible for maximum distance.
 
-Its role has changed.
+The driver has not been abandoned.
+
+Its role has simply changed.
 
 ---
 
 ## Why This Theory Does Not Use Gloves
 
-In the current implementation, this theory does not use golf gloves.
+The current implementation does not use golf gloves.
 
-When I first began playing golf, I wore gloves on both hands.
+When I first started playing golf, I wore gloves on both hands.
 
-Even then, I sometimes developed blisters or skin irritation.
+Even then, I occasionally developed blisters and skin irritation.
 
 At the time, I believed gloves were necessary to protect my hands.
 
-However, as my grip and swing became more stable, my view changed.
+As my grip and swing became more stable, that perspective changed.
 
 A repeatable swing does not require excessive grip pressure.
 
-As unnecessary tension decreased, gloves were no longer essential.
+As unnecessary tension disappeared, gloves became unnecessary as well.
 
-Removing gloves also removes additional management tasks:
+Playing without gloves also eliminates additional management tasks:
 
 - Buying gloves
 - Carrying gloves
-- Putting them on and taking them off
-- Washing them
-- Drying them
-- Replacing them
+- Putting gloves on and taking them off
+- Washing gloves
+- Drying gloves
+- Replacing gloves
 
 It also reduces glove-specific issues such as:
 
-- Sweat-related hardening
-- Dirt
+- Sweat-induced stiffening
+- Dirt buildup
 - Slipping inside the glove
 - Glove tan lines
 
-Playing barehanded is one part of Management Complexity Optimization within this theory.
+Playing without gloves is another example of Management Complexity Optimization within this theory.
 
 ---
 
 ## Why This Theory Does Not Use a Chipper
 
-In the current implementation, this theory does not use a chipper.
+The current implementation does not include a chipper.
 
-The reason is clear.
+The reason is simple.
 
-The role of a chipper is already covered by other clubs in the current system.
+Its role is already fulfilled by other clubs within the current system.
 
-Within the current implementation, responsibilities are divided as follows:
+In the current implementation, responsibilities are divided as follows:
 
-- Rolling approaches → 13W / AW
-- Shots requiring both height and forward movement → AW
-- Maximum height and maximum stopping power → SW
+- Bump-and-run → 13W / AW
+- Shots requiring both height and forward carry → AW
+- Maximum height and stopping power → SW
 
-Before adding a new club, this theory first asks whether the existing system can solve the problem.
+Before introducing a new club, this theory first asks whether the current system can already solve the problem.
 
-Adding a club increases options.
+Adding another club increases the number of available options.
 
-At the same time, it increases management complexity.
+At the same time, it also increases management complexity.
 
-For that reason, before adding a new tool, this theory asks:
+For that reason, this theory asks two questions before introducing any new tool:
 
-- Can the current system solve this problem?
-- Can the required skill be developed with an existing club?
+- Can the current system already solve this problem?
+- Can the required skill be developed using an existing club?
 
-Only when the answer is no should a new club be considered.
+Only when both answers are no should a new club be considered.
 
 In the current implementation, a chipper is unnecessary.
 
 This theory does not reject chippers.
 
-It simply concludes that their role is already contained within the current system.
+It simply concludes that their role is already fulfilled within the current system.
 
 ---
 
@@ -879,45 +890,45 @@ It simply concludes that their role is already contained within the current syst
 
 ### Short-Term Goals
 
-- Break 90 from the White tees.
-- Consistently break 100 from the Blue tees.
+- Break 90 from the white tees.
+- Consistently break 100 from the blue tees.
 
 ---
 
 ### Mid-Term Goals
 
-- Consistently score in the 90s from the Blue tees.
-- Continue playing golf without major injury.
+- Consistently score in the 90s from the blue tees.
+- Continue playing golf without suffering major injuries.
 
 ---
 
 ### Long-Term Goals
 
 - Achieve par-level golf.
-- Establish a golf system that can be maintained over a lifetime.
+- Establish a golf system that can be sustained throughout a lifetime.
 
 ---
 
 ## Conclusion
 
-This theory is not complete.
+This theory is not yet complete.
 
-The exploration continues.
+The validation process continues.
 
-As new observations are collected, both the theory and its implementation may continue to evolve.
+As new observations are gathered, both the theory and its implementation may continue to evolve.
 
 This theory is not merely a thought experiment.
 
-I will continue practicing this theory, publishing the results, and testing it over time.
+I will continue putting it into practice, publishing the results, and validating it over the long term.
 
 Can this theory truly work?
 
 Can par-level golf be achieved while protecting the body over the long term?
 
-The answer will come from future rounds and long-term testing.
+The answer will emerge through future rounds and continued validation.
 
-I want to continue playing golf for a long time.
+I hope to keep playing golf for many years to come.
 
-And I hope this theory can help others who want the same.
+And I hope this theory may also help others who share the same goal.
 
-This project is a challenge toward that goal.
+This project is my attempt to find that answer.
