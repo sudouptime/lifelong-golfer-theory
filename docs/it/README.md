@@ -1,87 +1,87 @@
-# Teoria del Golfista per Tutta la Vita #001
+# Teoria del golfista per tutta la vita
 
 Una teoria di progettazione di sistemi di golf per giocare tutta la vita.
 
 ---
 
-## Languages
+## Lingue
 
-- [English](README.md)
-- [日本語](docs/ja/README.md)
-- [한국어](docs/ko/README.md)
-- [简体中文](docs/zh-hans/README.md)
-- [繁體中文](docs/zh-hant/README.md)
-- [Deutsch](docs/de/README.md)
-- [Français](docs/fr/README.md)
-- [Español](docs/es/README.md)
-- [Italiano](docs/it/README.md)
-- [Nederlands](docs/nl/README.md)
-- [Svenska](docs/sv/README.md)
-- [Português](docs/pt/README.md)
-- [Dansk](docs/da/README.md)
-- [Norsk](docs/no/README.md)
-- [Suomi](docs/fi/README.md)
+- [English](../../README.md)
+- [日本語](../ja/README.md)
+- [한국어](../ko/README.md)
+- [简体中文](../zh-hans/README.md)
+- [繁體中文](../zh-hant/README.md)
+- [Deutsch](../de/README.md)
+- [Français](../fr/README.md)
+- [Español](../es/README.md)
+- [Italiano](../it/README.md)
+- [Nederlands](../nl/README.md)
+- [Svenska](../sv/README.md)
+- [Português](../pt/README.md)
+- [Dansk](../da/README.md)
+- [Norsk](../no/README.md)
+- [Suomi](../fi/README.md)
 
 ---
 
-## Overview
+## Panoramica
 
-La Teoria del Golfista per Tutta la Vita è un framework per costruire un sistema di golf che possa essere mantenuto per tutta la vita.
+La Teoria del golfista per tutta la vita (Lifelong Golfer Theory) è una teoria per progettare un sistema di golf che possa essere mantenuto per tutta la vita.
 
-Non è un metodo di swing.
+Non è una teoria dello swing.
 
-Non è una raccomandazione universale sulla scelta dei bastoni.
+Non è nemmeno una raccomandazione universale sulla composizione della sacca.
 
-È un framework di progettazione di sistemi volto a ridurre la complessità inutile, migliorare la riproducibilità e preservare la possibilità di praticare il golf nel lungo periodo.
+È una teoria di progettazione di sistemi di golf il cui obiettivo è ridurre la complessità inutile, migliorare la ripetibilità e permettere di praticare il golf a lungo nel tempo.
 
 Questa teoria si basa su quattro principi fondamentali:
 
-- Ottimizzazione della Complessità di Gestione
-- Specializzazione dei Ruoli
-- Riproducibilità
+- Ottimizzazione della complessità di gestione
+- Specializzazione dei ruoli
+- Ripetibilità
 - Sostenibilità
 
-Lo scopo di questa teoria non è massimizzare le prestazioni nel breve termine.
+L'obiettivo di questa teoria non è massimizzare le prestazioni nel breve periodo.
 
-Il suo obiettivo è ridurre lo stress fisico inutile, semplificare il processo decisionale e costruire un sistema di golf che rimanga praticabile per decenni.
+Il suo scopo è ridurre il carico fisico inutile, semplificare il processo decisionale e costruire un sistema di golf che possa essere mantenuto per decenni.
 
-L'implementazione attuale è incentrata su legni da fairway e wedge.
+L'implementazione attuale è incentrata principalmente sui legni da fairway e sui wedge.
 
-Riducendo il numero di bastoni, gli schemi di movimento e le decisioni durante il giro, il sistema mira a migliorare la riproducibilità preservando al tempo stesso il piacere del golf nel lungo periodo.
+Riducendo il numero di bastoni, di schemi di movimento e di decisioni durante il giro, il sistema mira a migliorare la ripetibilità senza rinunciare al piacere di giocare a golf nel lungo periodo.
 
 ---
 
-## Core Terminology
+## Terminologia
 
-I seguenti termini sono utilizzati in questo documento.
+In questo documento vengono utilizzati i seguenti termini.
 
-### Ottimizzazione della Complessità di Gestione
+### Ottimizzazione della complessità di gestione
 
-Ridurre il numero di elementi che richiedono una gestione continua durante l'allenamento e il gioco.
+Ridurre il numero di elementi che devono essere gestiti continuamente durante l'allenamento e il gioco.
 
-### Specializzazione dei Ruoli
+### Specializzazione dei ruoli
 
-Assegnare a ogni bastone una responsabilità chiara e limitata.
+Assegnare a ogni bastone un ruolo chiaro e ben definito.
 
-### Riproducibilità
+### Ripetibilità
 
-Dare priorità a prestazioni stabili e ripetibili rispetto a prestazioni eccezionali occasionali.
+Dare priorità a prestazioni che possano essere riprodotte con continuità rispetto a prestazioni massime occasionali.
 
 ### Sostenibilità
 
-Costruire un sistema di golf che possa essere mantenuto fisicamente, mentalmente e praticamente per tutta la vita.
+Costruire un sistema di golf che possa essere mantenuto per tutta la vita dal punto di vista fisico, mentale e pratico.
 
 ---
 
-## Target Audience
+## Destinatari
 
-Questa teoria è destinata a golfisti di ogni livello che desiderano costruire un sistema di golf sostenibile nel lungo termine.
+Questa teoria è rivolta a golfisti di qualsiasi livello che desiderano costruire un sistema di golf sostenibile nel lungo periodo.
 
-Non propone una configurazione universale di bastoni valida per tutti.
+Non propone una configurazione universale dei bastoni valida per tutti.
 
-La configurazione presentata qui rappresenta soltanto un'implementazione basata sui principi di questa teoria.
+La configurazione presentata in questo documento rappresenta soltanto una possibile implementazione basata sui principi della teoria.
 
-L'implementazione ottimale varierà in base alla distanza, alle capacità fisiche, all'età, alla storia degli infortuni, all'ambiente di allenamento e alle circostanze personali.
+L'implementazione ottimale dipende dalla distanza di gioco, dalle capacità fisiche, dall'età, dalla storia degli infortuni, dall'ambiente di allenamento e dalle circostanze individuali.
 
 L'implementazione è personale.
 
@@ -89,418 +89,426 @@ I principi sono universali.
 
 ---
 
-## Current Results
+## Risultati attuali
 
-Questo progetto si trova attualmente in una fase iniziale di sperimentazione.
+Questo progetto si trova attualmente nella fase iniziale di validazione.
 
-I risultati seguenti si basano sull'implementazione attuale della Teoria del Golfista per Tutta la Vita.
+I risultati riportati di seguito si basano sull'attuale implementazione della Teoria del golfista per tutta la vita.
 
-Non vengono presentati come prova della teoria.
+Non vengono presentati come una prova definitiva della teoria.
 
-Rappresentano il punto di partenza per una validazione a lungo termine.
+Rappresentano semplicemente il punto di partenza di una validazione a lungo termine.
 
-Con l'aumentare del numero di giri giocati e con la raccolta di nuove osservazioni, sia la teoria sia la sua implementazione potranno continuare a evolversi.
+Con l'aumentare del numero di giri giocati e delle nuove osservazioni, sia la teoria sia la sua implementazione potranno continuare a evolversi.
 
 - Esperienza nel golf: 1 anno
 - Giri giocati: 17
-- Miglior punteggio (Tee Bianco): 93
-- Miglior punteggio (Tee Blu): 109
-- Media delle ultime 5 partite (Tee Bianco): 106
-- Media delle ultime 5 partite (Tee Blu): 114
+- Miglior punteggio (tee bianchi): 93
+- Miglior punteggio (tee blu): 109
+- Media degli ultimi 5 giri (tee bianchi): 106
+- Media degli ultimi 5 giri (tee blu): 114
 
-A seconda dell'evento e dei compagni di gioco, di solito gioco dai tee bianchi oppure da quelli blu.
+A seconda dell'evento e dei compagni di gioco, normalmente gioco dai tee bianchi oppure dai tee blu.
 
 ---
 
-## Learning Environment
+## Ambiente di apprendimento
 
-Quando ho iniziato a giocare a golf, seguivo una lezione alla settimana.
+Quando ho iniziato a giocare a golf, seguivo una lezione a settimana.
 
-L'obiettivo era chiaro.
+Gli obiettivi erano molto chiari.
 
 - Insegnare al mio corpo un movimento completamente nuovo.
-- Costruire nuovi percorsi neurali.
-- Rafforzare tali percorsi attraverso la ripetizione.
+- Creare nuovi percorsi neurali.
+- Rafforzarli attraverso la ripetizione.
 
-Per accelerare il processo di apprendimento, colpivo circa 500 palline al giorno, compresi i giorni di lezione, utilizzando sia simulatori indoor sia il driving range.
+Per accelerare l'apprendimento, colpivo circa 500 palline al giorno, compresi i giorni di lezione, alternando simulatori indoor e campo pratica.
 
 Ho mantenuto questa routine per circa due mesi.
 
-Durante quel periodo, tuttavia, ho subito diversi infortuni.
+Durante quel periodo, però, ho subito diversi infortuni.
 
-Dopo aver appreso le basi, ho interrotto le lezioni e ho continuato a svilupparmi in autonomia.
+Basandomi su quanto avevo imparato in quei primi due mesi, ho continuato il mio percorso di ricerca in modo autonomo.
 
-Da allora mi sono affidato a:
+Da allora utilizzo:
 
 - YouTube
 - Libri
 - Simulatori di golf indoor
-- Driving range
+- Campi pratica
 - Campi executive
-- Campi regolamentari
+- Campi da 18 buche
 
-per continuare a testare e perfezionare un approccio più riproducibile e meno gravoso per il mio corpo.
+per verificare e migliorare continuamente un approccio che sia ripetibile e meno impegnativo dal punto di vista fisico.
 
-A quel tempo non sapevo quale fosse la strada giusta.
+All'epoca non sapevo quale fosse la strada giusta.
 
-La mia soluzione consisteva semplicemente nel colpire più palline.
+La mia unica soluzione consisteva semplicemente nel colpire più palline.
 
-Alla fine, quell'approccio mi portò agli infortuni.
+Alla fine, proprio quell'approccio mi portò agli infortuni.
 
-Oggi la mia prospettiva è completamente diversa.
+Oggi il mio modo di vedere il golf è completamente diverso.
 
-Sia la frequenza sia l'intensità degli allenamenti sono diminuite in modo significativo.
+Rispetto a quel periodo, sia la frequenza sia l'intensità degli allenamenti si sono stabilizzate su un livello molto più sostenibile.
 
-Questa teoria non mira a migliorare esclusivamente aumentando il volume di allenamento.
+Questa teoria non mira a migliorare semplicemente aumentando il volume di allenamento.
 
-Dà priorità alla riproducibilità, alla sostenibilità e allo sviluppo a lungo termine.
+Dà priorità alla ripetibilità, alla sostenibilità e alla crescita nel lungo periodo.
 
 ---
 
-## Introduction
+## Introduzione
 
 Ho iniziato a giocare a golf circa un anno fa.
 
-Come molti principianti, ero fortemente attratto dalla distanza.
+Come molti principianti, all'inizio ero affascinato dalla distanza.
 
-Credevo che essere in grado di utilizzare bastoni difficili fosse di per sé un segno di miglioramento.
+Pensavo che riuscire a utilizzare bastoni più difficili fosse, di per sé, la prova di un miglioramento.
 
-Ho assemblato un set completo di ferri muscle-back, dal ferro 1 al pitching wedge, e ho cercato di costruire tutto il mio gioco attorno a differenze di distanza fino a 240 yard.
+Avevo costruito un set completo di ferri muscle-back, dal ferro 1 al pitching wedge, cercando di basare tutto il mio gioco su differenze di distanza fino a 240 yard.
 
-Sono anche riuscito a realizzare drive di circa 320 yard.
+Sono arrivato anche a colpire drive di circa 320 yard.
 
-Tuttavia, quella ricerca ebbe un prezzo.
+Questa ricerca della massima distanza, però, ha avuto un costo.
 
-Un infortunio alla cartilagine costale mi costrinse a fermarmi per due mesi.
+Un infortunio alla cartilagine costale mi ha costretto a interrompere il golf per due mesi.
 
-Dopo il rientro continuai ad allenarmi intensamente con i ferri e sviluppai infine dolore alla spalla e dolore cronico al polso.
+Dopo il rientro ho continuato ad allenarmi intensamente con i ferri, sviluppando infine dolore alla spalla e dolore cronico al polso.
 
-Quelle esperienze cambiarono completamente il mio modo di vedere il golf.
+Queste esperienze hanno cambiato completamente il mio modo di vedere il golf.
 
-Fino a quel momento mi chiedevo:
+Fino a quel momento mi ponevo sempre la stessa domanda:
 
-> "Come posso colpire la palla più lontano?"
+> «Come posso colpire la palla più lontano?»
 
-Successivamente iniziai a chiedermi:
+Con il tempo quella domanda è diventata un'altra:
 
-> "Come posso continuare a giocare a golf per i prossimi vent'anni senza compromettere il mio corpo?"
+> «Come posso continuare a giocare a golf per i prossimi vent'anni senza danneggiare il mio corpo?»
 
-La mia attenzione passò dalla massimizzazione della distanza all'ottimizzazione della distanza.
+La mia attenzione si è spostata dalla massima distanza alla distanza ottimale.
 
-Invece di inseguire l'identità del long hitter, decisi di diventare un golfista per tutta la vita.
+Invece di cercare di diventare un grande colpitore, ho scelto di diventare un golfista per tutta la vita.
 
-Mentre cercavo una soluzione sostenibile, mi allontanai gradualmente da una configurazione centrata sui ferri per orientarmi verso un sistema costruito intorno ai legni da fairway e ai wedge.
+Nel tentativo di trovare un approccio più sostenibile, mi sono gradualmente allontanato da una configurazione basata sui ferri e ho costruito un sistema centrato sui legni da fairway e sui wedge.
 
-Questa teoria è il risultato di quel processo.
+Da questo processo è nata questa teoria.
 
-Il suo obiettivo a lungo termine è determinare se sia possibile raggiungere un livello di gioco pari al par proteggendo il corpo nel lungo periodo.
+Il suo obiettivo a lungo termine è verificare se sia possibile raggiungere un livello di gioco pari al par proteggendo allo stesso tempo il corpo.
 
 ---
 
-## Theory vs. Implementation
+## Teoria e implementazione
 
-L'essenza di questa teoria non è una particolare configurazione di bastoni.
+L'essenza di questa teoria non consiste in una particolare configurazione dei bastoni.
 
-Le sue fondamenta consistono in quattro principi fondamentali:
+Le sue fondamenta sono quattro principi fondamentali:
 
-- Ottimizzazione della Complessità di Gestione
-- Specializzazione dei Ruoli
-- Riproducibilità
+- Ottimizzazione della complessità di gestione
+- Specializzazione dei ruoli
+- Ripetibilità
 - Sostenibilità
 
-Per questo motivo, questa teoria non raccomanda un'unica configurazione di bastoni valida per tutti i golfisti.
+Per questo motivo, questa teoria non raccomanda la stessa configurazione di bastoni a tutti i golfisti.
 
-La configurazione presentata in questo documento rappresenta soltanto l'implementazione attuale.
+La configurazione presentata in questo documento rappresenta semplicemente l'implementazione attuale.
 
-L'implementazione ottimale varierà in base alla distanza, alle capacità fisiche, all'età, alla storia degli infortuni, all'ambiente di allenamento e alle circostanze personali.
+L'implementazione ottimale dipende dalla distanza di gioco, dalle capacità fisiche, dall'età, dalla storia degli infortuni, dall'ambiente di allenamento e dalle circostanze individuali.
 
-I bastoni in sé non sono il punto centrale.
+Ciò che conta non sono i bastoni in sé.
 
-Ciò che conta è ridurre la complessità di gestione, assegnare responsabilità chiare e costruire un sistema di golf sostenibile nel lungo periodo.
+Ciò che conta è ridurre la complessità da gestire, assegnare a ogni bastone un ruolo ben definito e costruire un sistema di golf sostenibile nel lungo periodo.
 
 ---
 
-## Current Implementation
+## Implementazione attuale
 
-In questa teoria, il controllo della distanza viene ottenuto principalmente attraverso l'ampiezza dello swing e la posizione delle mani sul grip.
+In questa teoria il controllo della distanza viene ottenuto principalmente attraverso l'ampiezza dello swing e la posizione delle mani sull'impugnatura.
 
-Invece di aumentare il numero di bastoni per creare intervalli di distanza più piccoli, a ogni bastone viene assegnato un ruolo ben definito.
+Invece di aggiungere più bastoni per creare differenze di distanza sempre più piccole, ogni bastone riceve un ruolo chiaramente definito.
 
-Nell'implementazione attuale, il 3W è il bastone di massima distanza.
+Nell'implementazione attuale il 3W è il bastone incaricato di fornire la massima distanza.
 
-Il bastone più lungo non viene scelto esclusivamente in base alla distanza massima potenziale.
+Il bastone più lungo non viene scelto esclusivamente in base alla distanza.
 
-Viene selezionato considerando l'equilibrio complessivo tra distanza, riproducibilità, stress fisico e compatibilità con il resto del sistema.
+La scelta tiene conto della distanza, della ripetibilità, del carico fisico e dell'integrazione con l'intero sistema.
 
 L'implementazione attuale è composta da sette bastoni, escluso il putter.
 
-| Bastone | Ruolo | Distanza Carry |
-|---------|-------|---------------:|
-| 3W (15°) | Distanza Massima | 200–240 yd |
-| 7W (21°) | Distanza Intermedia | 160–190 yd |
-| 13W (34°) | Bastone Principale | 1–150 yd |
-| AW (46°) | Bastone di Recovery | 1–80 yd |
-| SW (58°) | Bastone di Finalizzazione | 1–40 yd |
-| 5W LH (18°) | Bastone Specializzato di Recovery | 140–220 yd |
-| 15W LH (39°) | Bastone Specializzato di Recovery | 1–130 yd |
+| Bastone | Ruolo | Distanza di carry |
+|---------|-------|------------------:|
+| 3W (15°) | Distanza massima | 200–240 yd |
+| 7W (21°) | Distanza intermedia | 160–190 yd |
+| 13W (34°) | Bastone principale | 1–150 yd |
+| AW (46°) | Bastone di recupero | 1–80 yd |
+| SW (58°) | Bastone di finalizzazione | 1–40 yd |
+| 5W LH (18°) | Bastone speciale di recupero | 140–220 yd |
+| 15W LH (39°) | Bastone speciale di recupero | 1–130 yd |
 
 ### 3W (15°)
 
-Il bastone di massima distanza dell'implementazione attuale.
+Il bastone per la massima distanza nell'implementazione attuale.
 
-È responsabile dei colpi con un carry compreso tra 200 e 240 yard.
+Copre distanze di carry comprese tra 200 e 240 yard.
 
-Il 3W offre una distanza sufficiente per svolgere il ruolo di bastone di massima distanza, preservando al tempo stesso la riproducibilità dell'intero sistema.
+Il 3W fornisce una distanza sufficiente per svolgere il ruolo di bastone di massima distanza mantenendo al tempo stesso la ripetibilità dell'intero sistema.
 
-In questa teoria, il bastone più lungo non viene scelto esclusivamente in base alla distanza.
+In questa teoria, il bastone più lungo non viene scelto soltanto in base alla distanza.
 
-La scelta si basa sulla distanza, sulla riproducibilità, sullo stress fisico e sulla compatibilità con l'intero sistema.
+La scelta tiene conto della distanza, della ripetibilità, del carico fisico e della sua integrazione nell'intero sistema.
 
 ### 7W (21°)
 
 Il bastone per le distanze intermedie.
 
-È responsabile dei colpi con un carry compreso tra 160 e 190 yard.
+Copre distanze di carry comprese tra 160 e 190 yard.
 
-Il suo ruolo è collegare il bastone per le lunghe distanze con i bastoni dedicati al gioco corto.
+Il suo ruolo è collegare il bastone per le lunghe distanze con quelli dedicati al gioco corto.
 
 ### 13W (34°)
 
 Il bastone principale dell'implementazione attuale.
 
-È responsabile dei colpi con un carry compreso tra 1 e 150 yard.
+Copre distanze di carry comprese tra 1 e 150 yard.
 
-Viene utilizzato per i colpi rasoterra, gli approcci standard e il controllo della distanza.
+Viene utilizzato per i colpi in bump-and-run, gli approcci tradizionali e il controllo della distanza.
 
-È il bastone più utilizzato dell'intero sistema.
+È il bastone utilizzato più frequentemente nell'intero sistema.
 
-Negli approcci, quando un colpo rasoterra è appropriato, il 13W rappresenta la scelta predefinita.
+Negli approcci, il 13W rappresenta la scelta predefinita ogni volta che un colpo in bump-and-run è appropriato.
 
-Quando è disponibile spazio sufficiente per il rotolamento della palla, un colpo rasoterra è considerato più riproducibile rispetto a un approccio alto con un wedge.
+Quando c'è spazio sufficiente per far rotolare la palla, un colpo in bump-and-run è considerato più ripetibile rispetto a un approccio alto con un wedge.
 
-Nel corso dei test attuali, rispetto agli approcci alti eseguiti con AW o SW, i colpi rasoterra con il 13W sono risultati meno influenzati dalle condizioni del lie e hanno prodotto risultati più stabili.
+Le verifiche effettuate finora mostrano che i colpi in bump-and-run con il 13W risentono meno del lie e producono risultati più costanti rispetto agli approcci alti eseguiti con AW o SW.
 
-In questa teoria, il 13W non è semplicemente un legno da fairway.
+In questa teoria, il 13W è molto più di un semplice legno da fairway.
 
-È il bastone centrale dell'intero sistema.
+È il centro dell'intero sistema.
 
 ### AW (46°)
 
-Il bastone di recovery.
+Il bastone di recupero.
 
-È responsabile dei colpi con un carry compreso tra 1 e 80 yard.
+Copre distanze di carry comprese tra 1 e 80 yard.
 
-Viene utilizzato quando è necessaria maggiore altezza, quando bisogna superare un ostacolo o quando il 13W non è adatto alla situazione.
+Viene utilizzato quando è necessaria una traiettoria più alta, quando bisogna superare un ostacolo oppure quando il 13W non è adatto alla situazione.
 
-Negli approcci viene utilizzato quando le condizioni del lie lo richiedono oppure quando servono sia un'altezza moderata sia un avanzamento della palla.
+Negli approcci viene utilizzato quando il lie lo richiede oppure quando sono necessari sia altezza sia avanzamento.
 
-Poiché lancia la palla più facilmente del 13W e la fa avanzare più facilmente dello SW, svolge il ruolo intermedio tra i bastoni per le brevi distanze.
+Poiché permette di alzare la palla più facilmente rispetto al 13W e offre più distanza rispetto allo SW, ricopre un ruolo intermedio nel gioco corto.
 
 ### SW (58°)
 
 Il bastone di finalizzazione.
 
-È responsabile dei colpi con un carry compreso tra 1 e 40 yard.
+Copre distanze di carry comprese tra 1 e 40 yard.
 
-Viene utilizzato quando sono richiesti la massima altezza, il massimo potere frenante oppure un controllo estremamente preciso sulle brevi distanze.
+Viene utilizzato quando sono richiesti la massima altezza, il massimo potere frenante oppure la massima precisione sulle brevi distanze.
 
-Negli approcci viene utilizzato quando è necessario lanciare la palla molto alta e fermarla rapidamente, quando la bandiera è vicina oppure quando è prioritario uscire da bunker o rough profondo con il massimo potere frenante.
+Negli approcci viene utilizzato quando la palla deve essere lanciata molto alta e fermarsi rapidamente, quando la bandiera è vicina oppure quando è necessario il massimo potere frenante da bunker o rough profondo.
 
-In questa teoria, allo SW non viene richiesto di produrre distanza inutile.
+In questa teoria, lo SW non ha il compito di produrre maggiore distanza.
 
-Lo SW non è un bastone di massima distanza.
+Non è un bastone per la distanza.
 
-È responsabile della massima altezza e del massimo potere frenante.
+La sua funzione è fornire la massima altezza e il massimo potere frenante.
 
-### Left-Handed Clubs
+### Bastoni per mancini
 
-L'implementazione attuale include bastoni per mancini.
+L'implementazione attuale comprende bastoni per mancini.
 
-Questi bastoni non sono destinati a sostituire la configurazione standard per destrorsi.
+Non sono destinati a sostituire la normale configurazione per destrimani.
 
-Esistono invece per gestire situazioni in cui un colpo tradizionale da destrorso comporterebbe una complessità inutile, uno stress fisico eccessivo oppure una probabilità di successo significativamente inferiore.
+Esistono per affrontare situazioni in cui un colpo da destrimane introdurrebbe una complessità inutile, un maggiore carico fisico oppure una probabilità di successo significativamente inferiore.
 
 In questa teoria, i bastoni per mancini sono considerati strumenti specializzati.
 
-Più precisamente, sono strumenti dedicati esclusivamente al recovery.
+Più precisamente, sono strumenti dedicati esclusivamente al recupero.
 
 Il loro scopo non è aumentare la varietà dei colpi.
 
-Il loro scopo è semplificare il recovery assegnando soluzioni dedicate alle situazioni che si ripetono con maggiore frequenza.
+Il loro scopo è semplificare le situazioni di recupero assegnando una soluzione dedicata a situazioni che si ripetono frequentemente.
 
-Una possibile critica a questo approccio è che l'introduzione di bastoni per mancini sembri aumentare la complessità di gestione.
+Una delle osservazioni più comuni su questo approccio è la seguente:
 
-Fino a un certo punto, questa critica è valida.
+> «L'aggiunta di bastoni per mancini non aumenta forse la complessità di gestione?»
 
-Uno swing da mancino rappresenta infatti un ulteriore schema motorio che deve essere mantenuto.
+L'osservazione è in parte corretta.
 
-Tuttavia, nell'implementazione attuale, questo costo aggiuntivo è deliberatamente limitato.
+Infatti è necessario mantenere un ulteriore schema di movimento per il gioco da mancino.
 
-Sono inclusi soltanto due bastoni per mancini, ed entrambi sono legni.
+Nell'implementazione attuale, tuttavia, questo costo aggiuntivo è stato volutamente ridotto al minimo.
 
-Non viene aggiunto alcun wedge né alcun putter per mancini.
+Sono presenti soltanto due bastoni per mancini.
 
-Il motivo è che l'implementazione attuale non richiede un sistema completo per mancini.
+Ed entrambi sono legni da fairway.
 
-Richiede soltanto due strumenti di recovery: uno per le uscite lunghe e uno per i recovery controllati sulle brevi distanze.
+Non esiste un wedge per mancini.
 
-Poiché entrambi sono legni, condividono molte caratteristiche di movimento con il resto del sistema basato sui legni.
+Non esiste un putter per mancini.
 
-Invece di introdurre una famiglia di bastoni completamente diversa, questa teoria estende il modello di movimento già esistente dei legni al lato opposto.
+L'implementazione attuale non richiede un intero sistema per mancini.
 
-La domanda importante non è semplicemente quanti bastoni siano presenti.
+Richiede soltanto due bastoni specializzati per il recupero: uno per le lunghe distanze e uno per le brevi distanze.
 
-La domanda importante è quanti schemi motori aggiuntivi debbano essere mantenuti.
+Poiché entrambi sono legni da fairway, si limitano a estendere verso sinistra lo stesso schema di movimento già utilizzato con i legni.
+
+Non viene introdotta un'intera nuova famiglia di bastoni.
+
+Ciò che conta non è quanti bastoni vengono aggiunti.
+
+Ciò che conta è quanti nuovi schemi di movimento dovranno essere mantenuti.
 
 ### 5W LH (18°)
 
-Il bastone specializzato di recovery per le lunghe distanze.
+Il bastone specializzato per i recuperi sulle lunghe distanze.
 
-È responsabile dei colpi con un carry compreso tra 140 e 220 yard.
+Copre distanze di carry comprese tra 140 e 220 yard.
 
-Si tratta di un bastone per mancini utilizzato nelle situazioni di recovery a lunga distanza che non possono essere affrontate efficacemente con la configurazione standard per destrorsi.
+Questo bastone per mancini viene utilizzato nelle situazioni di recupero a lunga distanza in cui un colpo da destrimane è difficilmente praticabile.
 
-Viene utilizzato quando alberi, ostacoli, pendenze, limitazioni di postura o il layout del campo rendono impraticabile un colpo da destrorso.
+Viene impiegato quando alberi, ostacoli, pendenze, limitazioni della posizione o la conformazione del campo rendono poco realistico un colpo da destrimane.
 
-In questa teoria, il 5W LH non è stato inserito per aumentare la varietà dei colpi.
+In questa teoria, il 5W LH non è stato introdotto per aumentare la varietà dei colpi.
 
-È stato inserito per offrire un'opzione riproducibile da mancino per i colpi di uscita sulle lunghe distanze.
+È stato introdotto per offrire una soluzione ripetibile per i recuperi a lunga distanza da mancino.
 
 ### 15W LH (39°)
 
-Il bastone specializzato di recovery per le brevi distanze.
+Il bastone specializzato per i recuperi sulle brevi distanze.
 
-È responsabile dei colpi con un carry compreso tra 1 e 130 yard.
+Copre distanze di carry comprese tra 1 e 130 yard.
 
-Si tratta di un bastone per mancini utilizzato nelle situazioni di recovery a breve distanza che non possono essere affrontate efficacemente con la configurazione standard per destrorsi.
+Questo bastone per mancini viene utilizzato nelle situazioni di recupero a breve distanza che risultano difficili da affrontare con un colpo da destrimane.
 
-Condivide la stessa filosofia del 5W LH, ma si concentra sui colpi più corti che richiedono un maggiore controllo.
+Segue la stessa filosofia del 5W LH, ma è destinato a colpi più corti che richiedono un controllo maggiore.
 
-Attualmente questi bastoni per mancini offrono opzioni di recovery dedicate preservando al tempo stesso la struttura complessiva del sistema.
+Attualmente questi due bastoni per mancini offrono soluzioni dedicate alle situazioni di recupero preservando la struttura complessiva del sistema.
 
-Nel prossimo futuro questa implementazione rimarrà invariata mentre proseguiranno i test a lungo termine.
+Per il momento questa configurazione verrà mantenuta mentre prosegue la sua validazione a lungo termine.
 
 ---
 
-## Why This Theory Exists
+## Perché è nata questa teoria
 
-Il punto di partenza di questa teoria è una domanda semplice:
+Questa teoria è nata da una domanda molto semplice.
 
-> "È possibile ottenere lo stesso risultato in modo più semplice e più sostenibile?"
+> «È possibile ottenere lo stesso risultato in un modo più semplice e più sostenibile?»
 
-Questo modo di pensare si è naturalmente esteso al golf.
+Applicare questa domanda al golf è stato il punto di partenza di questa teoria.
 
-Questa teoria non parte dal presupposto che una configurazione tradizionale dei bastoni sia immutabile.
+Questa teoria non parte dall'idea che la configurazione tradizionale dei bastoni sia quella corretta.
 
-Al contrario, riesamina il ruolo di ogni bastone.
+Comincia invece dal riesaminare il ruolo di ogni singolo bastone.
 
-È possibile costruire un intero gioco attorno ai ferri?
+È davvero ottimale costruire l'intero gioco attorno ai ferri?
 
-I legni da fairway possono assumere i ruoli tradizionalmente assegnati ai ferri?
+I legni da fairway possono assumere i ruoli tradizionalmente svolti dai ferri?
 
-È possibile eliminare il driver dal sistema principale di punteggio?
+È possibile eliminare il driver dal nucleo del sistema di punteggio?
 
-Un numero inferiore di bastoni può offrire una maggiore riproducibilità?
+Esiste un modo per ottenere una maggiore ripetibilità?
 
-Con il tempo, queste domande si sono trasformate in sperimentazioni sistematiche.
+Con il tempo, queste domande si sono trasformate in un processo di validazione sistematico.
 
 Questa teoria è il risultato di quel processo.
 
 Non è nata da un'unica idea.
 
-È nata dal continuo riesame dei ruoli tradizionali dei bastoni e dalla ricerca di modi per ottenere risultati uguali — o migliori — con meno variabili e minore stress fisico.
+È nata dal continuo riesame del ruolo tradizionale dei bastoni e dalla ricerca di un modo per ottenere risultati uguali, o persino migliori, con meno variabili e un minore carico fisico.
 
 ---
 
-## Core Principles
+## Principi fondamentali
 
-La Teoria del Golfista per Tutta la Vita si basa su quattro principi.
+La Teoria del golfista per tutta la vita si basa su quattro principi fondamentali.
 
-Tutto ciò che viene presentato in questo documento deriva, in ultima analisi, da essi.
+Tutto ciò che viene presentato in questo documento deriva, in ultima analisi, da questi quattro principi.
 
-### Ottimizzazione della Complessità di Gestione
+### Ottimizzazione della complessità di gestione
 
-Ridurre il numero di elementi che richiedono una gestione continua.
+Ridurre il numero di elementi che devono essere gestiti in modo continuo.
 
-Meno gestione significa poter dedicare maggiore attenzione all'esecuzione.
+Meno elementi devono essere gestiti, maggiore è la concentrazione che può essere dedicata all'esecuzione del colpo.
 
-### Specializzazione dei Ruoli
+### Specializzazione dei ruoli
 
-Assegnare a ogni bastone un'area di responsabilità chiaramente definita.
+Assegnare a ogni bastone una responsabilità chiaramente definita.
 
-Invece di chiedere a un singolo bastone di svolgere un numero illimitato di compiti, questa teoria definisce chiaramente l'ambito di responsabilità di ciascun bastone e pone l'accento su una profonda comprensione di tale ruolo.
+Invece di chiedere a un singolo bastone di svolgere un numero illimitato di compiti, questa teoria definisce con precisione il ruolo di ciascun bastone e promuove una comprensione approfondita di tale funzione.
 
-### Riproducibilità
+### Ripetibilità
 
-Le prestazioni affidabili e ripetibili sono considerate più importanti delle prestazioni eccezionali occasionali.
+Dare priorità a prestazioni che possano essere riprodotte con continuità rispetto a prestazioni massime occasionali.
 
 L'obiettivo non è il colpo perfetto.
 
-L'obiettivo è un colpo che possa essere riprodotto con costanza.
+L'obiettivo è un colpo che possa essere ripetuto.
 
 ### Sostenibilità
 
-Ogni decisione dovrebbe favorire la possibilità di continuare a giocare a golf nel lungo periodo.
+Ogni decisione dovrebbe contribuire alla possibilità di continuare a giocare a golf nel lungo periodo.
 
-Una prestazione ottenuta attraverso uno stress fisico inutile non è considerata sostenibile.
+Una prestazione ottenuta a costo di un carico fisico inutile non è considerata sostenibile.
 
 ---
 
-## Ottimizzazione della Complessità di Gestione
+## Ottimizzazione della complessità di gestione
 
-Ridurre il numero di bastoni non è l'obiettivo di questa teoria.
+Ridurre il numero di bastoni non è il vero obiettivo di questa teoria.
 
-È soltanto una conseguenza.
+È semplicemente una conseguenza.
 
 Il vero obiettivo è ridurre il numero di elementi che devono essere gestiti.
 
 Il golf è una sequenza continua di decisioni.
 
-Ogni colpo richiede scelte quali:
+Prima di ogni colpo è necessario decidere, tra le altre cose:
 
-- Selezione del bastone
-- Tipo di swing
-- Posizione della palla
-- Linea di gioco
-- Strategia del colpo
+- quale bastone utilizzare;
+- quale tipo di swing eseguire;
+- la posizione della palla;
+- la linea di gioco;
+- la strategia del colpo.
 
-Ogni decisione consuma attenzione.
+Ogni decisione richiede attenzione.
 
-Più aumenta il numero di variabili, maggiore diventa lo sforzo mentale necessario per giocare.
+Maggiore è il numero di variabili da gestire, maggiore diventa il carico mentale durante il giro.
 
 Questa teoria cerca di eliminare le decisioni che non contribuiscono direttamente al miglioramento del punteggio.
 
 Ridurre il numero di bastoni.
 
-Ridurre gli schemi di movimento.
+Ridurre il numero di schemi di movimento.
 
-Eliminare i tee.
+Non utilizzare tee.
 
-Eliminare i guanti.
+Non utilizzare guanti.
 
-Assegnare responsabilità chiare.
+Assegnare un ruolo chiaro a ogni bastone.
 
-Tutte queste scelte seguono la stessa filosofia.
+Tutte queste decisioni nascono dalla stessa filosofia.
 
 Ridurre la gestione inutile.
 
-Aumentare la riproducibilità.
+Migliorare la ripetibilità.
 
-La semplicità non è l'obiettivo.
+L'obiettivo non è la semplicità.
 
-L'ottimizzazione lo è.
+L'obiettivo è l'ottimizzazione.
 
 ---
 
-## Why Reduce Movement Patterns?
+## Perché ridurre gli schemi di movimento?
 
-Quando ho iniziato a giocare a golf, una frase mi è rimasta particolarmente impressa:
+Quando ho iniziato a giocare a golf,
 
-> "C'è tantissimo da imparare."
+> «Il golf è difficile perché ci sono troppe cose da imparare.»
 
-All'epoca accettavo semplicemente questa affermazione.
+Questa frase mi è rimasta particolarmente impressa.
 
-Ogni bastone sembrava richiedere un movimento diverso.
+All'epoca la accettavo senza metterla in discussione.
+
+Avevo l'impressione che ogni bastone richiedesse un movimento diverso.
 
 Driver.
 
@@ -514,63 +522,63 @@ Wedge.
 
 Putter.
 
-A questo si aggiungevano ulteriori variabili introdotte da ogni lie e da ogni situazione.
+A questo si aggiungevano continuamente nuove variabili, a seconda del lie e della situazione.
 
-- Una palla sul tee
-- Una palla a terra
-- Rough
-- Bunker
-- Lie in pendenza
+- Una palla sul tee.
+- Una palla a terra.
+- Rough.
+- Bunker.
+- Lie in pendenza.
 
-Perfino su un tappetino perfettamente piano sembrava necessario ripetere il movimento innumerevoli volte per colpire ogni bastone con continuità.
+Persino su un tappetino perfettamente piano avevo la sensazione che fossero necessarie innumerevoli ripetizioni prima di riuscire a colpire ogni bastone con continuità.
 
-Durante i miei primi mesi non riuscivo a colpire con regolarità né gli ibridi né i legni da fairway.
+Durante i miei primi mesi non riuscivo a colpire con costanza né gli ibridi né i legni da fairway.
 
-Poiché avevo programmato di disputare il mio primo giro completo entro tre mesi dall'inizio delle lezioni, una configurazione basata sui ferri mi sembrava allora la soluzione più riproducibile.
+Poiché avevo programmato di giocare il mio primo percorso da 18 buche entro tre mesi dall'inizio delle lezioni, all'epoca una configurazione centrata sui ferri mi sembrava la soluzione più ripetibile.
 
-In seguito questa convinzione è cambiata.
+Con il tempo, però, questa convinzione cambiò.
 
-Quando ho iniziato a considerare il golf come qualcosa che desideravo praticare per tutta la vita, mi sono reso conto che aumentare semplicemente il numero di bastoni che sapevo usare non rappresentava necessariamente la soluzione migliore.
+Quando iniziai a pensare al golf come a un'attività che desideravo praticare per tutta la vita, cominciai a chiedermi se imparare a utilizzare sempre più bastoni fosse davvero la soluzione migliore.
 
-Alla fine è cambiata perfino la domanda stessa.
+Alla fine cambiò la domanda stessa.
 
-Invece di chiedermi:
+Smisi di chiedermi:
 
-> "Quale bastone dovrei imparare a usare adesso?"
+> «Quale bastone dovrei imparare a usare adesso?»
 
-ho iniziato a chiedermi:
+E iniziai invece a chiedermi:
 
-> "Di quanti schemi di movimento ho realmente bisogno?"
+> «Di quanti schemi di movimento ho realmente bisogno?»
 
-Ogni schema di movimento aggiuntivo richiede tempo per essere appreso.
+Imparare un nuovo schema di movimento richiede molto tempo.
 
-Ma, soprattutto, richiede pratica costante per essere mantenuto.
+Ma ancora più importante è il fatto che richiede un allenamento continuo per poter essere mantenuto.
 
-Maggiore è il numero di schemi di movimento, maggiore è il costo di mantenimento nel lungo periodo.
+Più aumentano gli schemi di movimento, maggiore diventa il loro costo di mantenimento nel lungo periodo.
 
-Questa teoria considera il costo di mantenimento importante quanto il costo di apprendimento.
+In questa teoria, il costo di mantenimento è considerato importante quanto il costo di apprendimento.
 
-In definitiva, il golf consiste nel far avanzare la palla e ottenere un punteggio.
+In sostanza, il golf consiste nel far avanzare la palla e ottenere un punteggio.
 
-Se è davvero così, comprendere a fondo un numero minore di schemi di movimento può rappresentare una soluzione più sostenibile nel lungo termine.
+Se è così, allora sviluppare una comprensione più profonda di un numero minore di schemi di movimento potrebbe rappresentare una soluzione molto più sostenibile.
 
-Questa teoria non cerca di risolvere i problemi aggiungendo più strumenti.
+Questa teoria non cerca di risolvere i problemi aggiungendo nuovi strumenti.
 
-Cerca di risolverli comprendendo più a fondo un numero minore di strumenti.
+Cerca invece di risolverli comprendendo più a fondo un numero minore di strumenti.
 
-L'attuale implementazione basata sui legni è il risultato di questa filosofia.
+L'attuale implementazione, centrata sui legni da fairway, nasce proprio da questa idea.
 
 ---
 
-## Why Prioritize the Ability to Recover?
+## Perché dare priorità alla capacità di recupero?
 
-Una domanda frequente riguardo a questa teoria è:
+Una delle domande che mi vengono rivolte più spesso riguardo a questa teoria è:
 
-> "Cosa succede se i tuoi legni da fairway smettono di funzionare?"
+> «Cosa succede se i tuoi legni da fairway smettono di funzionare?»
 
-È una preoccupazione del tutto ragionevole.
+È una domanda assolutamente legittima.
 
-Una configurazione tradizionale offre generalmente diverse alternative.
+Una configurazione tradizionale offre normalmente diverse alternative.
 
 Se il driver non funziona, si usa un legno da fairway.
 
@@ -578,115 +586,122 @@ Se il legno da fairway non funziona, si usa un ibrido.
 
 Se l'ibrido non funziona, si usa un ferro.
 
-Questa teoria riduce deliberatamente queste alternative.
+Questa teoria riduce intenzionalmente queste alternative.
 
 La ragione è semplice.
 
 Dà priorità alla padronanza rispetto alla ridondanza.
 
-Invece di risolvere i problemi cambiando bastone, incoraggia a risolverli con il bastone al quale quella responsabilità è già stata assegnata.
+Invece di cambiare bastone quando si presenta un problema, punta a risolverlo con il bastone al quale quel compito è già stato assegnato.
 
-Più opzioni possono offrire tranquillità.
+Avere più opzioni trasmette un senso di sicurezza.
 
-Meno opzioni possono portare a una comprensione più profonda.
+Averne meno porta invece a una comprensione molto più profonda di ciascun bastone.
 
-Questa teoria sceglie deliberatamente la seconda strada.
+Questa teoria sceglie deliberatamente quest'ultima strada.
 
 ---
 
-## Why This Theory Does Not Use Irons
+## Perché questa teoria non utilizza i ferri
 
-Nell'implementazione attuale, questa teoria non utilizza i ferri.
+Nell'implementazione attuale non vengono utilizzati ferri.
 
-Questo non perché i ferri siano cattivi bastoni.
+Questo non significa che i ferri siano cattivi bastoni.
 
-Al contrario.
+Anzi.
 
-I ferri sono strumenti eccellenti.
+I ferri sono bastoni eccellenti.
 
 La vera domanda è un'altra.
 
-> I ferri rappresentano la migliore soluzione a lungo termine per questo sistema?
+> «I ferri rappresentano davvero la scelta migliore per questo sistema nel lungo periodo?»
 
-All'inizio, una configurazione incentrata sui ferri sembrava perfettamente ragionevole.
+All'inizio ritenevo che una configurazione centrata sui ferri fosse la soluzione più razionale.
 
-Tuttavia, dopo aver considerato la sostenibilità a lungo termine, il volume di allenamento necessario, la riproducibilità e il costo di mantenimento, sono giunto alla conclusione che i ferri non fossero adatti all'implementazione attuale di questa teoria.
+Tuttavia, dopo aver considerato la sostenibilità nel lungo periodo, il volume di allenamento necessario, la ripetibilità e il costo di mantenimento, sono giunto alla conclusione che i ferri non fossero la scelta migliore per l'implementazione attuale di questa teoria.
 
-I criteri principali erano:
+Questa decisione si basa su quattro criteri:
 
-- Sostenibilità a lungo termine
+- Sostenibilità nel lungo periodo
 - Volume di allenamento necessario
-- Riproducibilità
+- Ripetibilità
 - Costo di mantenimento
 
-Molti golfisti esperti finiscono per dire:
+Molti golfisti esperti finiscono prima o poi per dire:
 
-> "Non riesco più a colpire i miei ferri come una volta."
+> «Non riesco più a colpire i ferri come una volta.»
 
-Le ragioni possono essere l'età, gli infortuni, una riduzione del tempo dedicato all'allenamento o altri cambiamenti fisici.
+Le ragioni possono essere molteplici.
 
-Tuttavia, questa osservazione ricorre continuamente nella comunità golfistica.
+L'età.
 
-Sulla base della mia esperienza personale, ho deciso di non aspettare di arrivare a quel punto.
+Un infortunio.
 
-Questa teoria assegna invece ai legni da fairway e ai wedge le responsabilità tradizionalmente svolte dai ferri.
+Una riduzione dell'allenamento.
+
+Oppure semplicemente altri cambiamenti fisici.
+
+Qualunque sia la causa, questo tipo di osservazione ricorre continuamente nel mondo del golf.
+
+Sulla base della mia esperienza personale, ho deciso di non aspettare che quel momento arrivasse.
+
+Per questo motivo, in questa teoria i ruoli tradizionalmente svolti dai ferri vengono assegnati ai legni da fairway.
 
 Questa teoria non rifiuta i ferri.
 
-Semplicemente distribuisce le loro responsabilità in modo diverso.
+Ne ridefinisce semplicemente il ruolo.
 
 ---
 
-## Why This Theory Does Not Use Hybrids
+## Perché questa teoria non utilizza gli ibridi
 
-Nell'implementazione attuale, questa teoria non utilizza ibridi.
+Nell'implementazione attuale non vengono utilizzati ibridi.
 
-La ragione non è la distanza.
+Il motivo non è la distanza.
 
-La ragione è la sostenibilità a lungo termine.
+Il motivo è la sostenibilità nel lungo periodo.
 
-Durante i test, i legni da fairway si sono dimostrati più adatti a questa teoria rispetto agli ibridi con loft comparabili.
+Dopo numerose prove, sono giunto alla conclusione che, a parità di loft, i legni da fairway si adattino meglio ai principi di questa teoria rispetto agli ibridi.
 
-Le ragioni principali sono state:
+Le ragioni principali sono:
 
-- Una suola più ampia
-- Un'interazione più fluida con il terreno
-- Maggiore facilità nel far decollare la palla
-- Maggiore altezza con meno sforzo
-- Minore impatto sui polsi
+- Una suola più ampia.
+- Un contatto più fluido con il terreno.
+- Maggiore facilità nel sollevare la palla.
+- Maggiore altezza con meno sforzo.
 
-I legni da fairway rendevano inoltre più semplice ottenere altezza e distanza con un minore sforzo fisico.
+I legni da fairway permettono inoltre di ottenere altezza e distanza con un minore carico fisico.
 
-Questa teoria non sostiene che gli ibridi siano inefficaci.
+Questa teoria non sostiene che gli ibridi siano cattivi bastoni.
 
-Per molti golfisti gli ibridi sono bastoni eccellenti.
+Per molti golfisti rappresentano strumenti eccellenti.
 
-Tuttavia, secondo i principi di questo sistema, i legni da fairway svolgevano le stesse funzioni con meno compromessi.
+Tuttavia, all'interno dei principi di questo sistema, i legni da fairway si sono dimostrati più adatti a questa teoria.
 
-Per questo motivo, gli ibridi non fanno parte dell'implementazione attuale.
+Per questo motivo, nell'implementazione attuale non vengono utilizzati ibridi.
 
 ---
 
-## Why This Theory Limits Wedge Distances
+## Perché questa teoria limita la distanza dei wedge
 
-In questa teoria, ai wedge non viene richiesto di massimizzare la distanza.
+In questa teoria, il ruolo dei wedge non consiste nel massimizzare la distanza.
 
 Il loro ruolo è la precisione.
 
-Vengono utilizzati per creare una traiettoria e un punto di atterraggio prevedibili, riducendo al minimo lo stress fisico inutile.
+L'obiettivo è produrre traiettorie e punti di atterraggio prevedibili riducendo al minimo il carico fisico non necessario.
 
-Invece di forzare la distanza attraverso una tecnica aggressiva, questa teoria pone l'accento su un'interazione stabile della suola con il terreno e su un contatto riproducibile con la palla.
+Piuttosto che ottenere maggiore distanza attraverso una tecnica aggressiva, questa teoria privilegia un contatto stabile della suola con il terreno e un impatto altamente ripetibile.
 
-L'enfasi non è sulla potenza.
+La priorità non è la potenza.
 
-L'enfasi è sulla costanza.
+La priorità è la costanza.
 
 Nell'implementazione attuale:
 
-- Lo SW (58°) è responsabile dei colpi con un carry compreso tra 1 e 40 yard.
-- L'AW (46°) è responsabile dei colpi con un carry compreso tra 1 e 80 yard.
+- Il SW (58°) copre distanze di carry comprese tra 1 e 40 yard.
+- L'AW (46°) copre distanze di carry comprese tra 1 e 80 yard.
 
-Il ruolo fondamentale dei wedge è chiaro.
+Il ruolo dei wedge è chiaramente definito.
 
 Alzare la palla.
 
@@ -694,232 +709,234 @@ Controllare il punto di atterraggio.
 
 Fermare la palla.
 
-Quando è possibile eseguire un colpo rasoterra, oppure quando un approccio più lungo è più appropriato, questa responsabilità passa al 13W.
+Quando un colpo in bump-and-run è più appropriato, oppure quando è preferibile un approccio più lungo, questa responsabilità viene affidata al 13W.
 
-Questa teoria non chiede ai wedge di eseguire ogni possibile tipo di colpo.
+Questa teoria non pretende che i wedge eseguano ogni tipo di colpo.
 
 A ogni bastone viene assegnato un ruolo chiaramente definito.
 
-Nell'implementazione attuale, le responsabilità sono suddivise come segue:
+Nell'implementazione attuale, le responsabilità sono distribuite nel seguente modo:
 
-- Approcci rasoterra → 13W / AW
+- Bump-and-run → 13W / AW
 - Colpi che richiedono sia altezza sia avanzamento → AW
 - Massima altezza e massimo potere frenante → SW
 
-Questa struttura dei ruoli riduce le sovrapposizioni tra i bastoni e rafforza la specializzazione dei ruoli all'interno dell'intero sistema.
+Questa distribuzione dei ruoli riduce la sovrapposizione tra i bastoni e rafforza la specializzazione delle funzioni all'interno dell'intero sistema.
 
 ---
 
-## Why This Theory Does Not Use a Driver
+## Perché questa teoria non utilizza il driver
 
-Nell'implementazione attuale, questa teoria non utilizza il driver come bastone principale per il punteggio.
+Nell'implementazione attuale, il driver non viene utilizzato come bastone principale del sistema di punteggio.
 
-La ragione non è la distanza.
+Il motivo non è la distanza.
 
-La ragione è la riproducibilità, la sostenibilità e la semplificazione del sistema.
+I motivi sono la ripetibilità, la sostenibilità e la semplificazione del sistema.
 
-Un driver è progettato per colpire una palla posizionata su un tee.
+Il driver è progettato per colpire una palla posizionata su un tee.
 
-Un legno da fairway, invece, è progettato per colpire la palla direttamente da terra.
+Un legno da fairway, invece, è progettato per colpire una palla direttamente da terra.
 
-L'utilizzo del driver introduce variabili aggiuntive, tra cui:
+L'utilizzo del driver introduce nuove variabili:
 
-- Altezza del tee
-- Angolo d'attacco ascendente
-- Schema di swing specifico per il driver
+- L'altezza del tee.
+- Un angolo d'attacco ascendente.
+- Uno schema di swing specifico del driver.
 
-Sono in grado di produrre una velocità massima della testa del bastone molto elevata con il driver.
+Naturalmente, un driver è in grado di produrre una distanza maggiore rispetto al 3W utilizzato nell'implementazione attuale.
 
-Tuttavia, questa teoria dà priorità a una prestazione stabile rispetto alla prestazione massima.
+Tuttavia, questa teoria dà priorità a una prestazione sostenibile rispetto a una prestazione massima.
 
-Piuttosto che risolvere i problemi dopo che si sono verificati, questa teoria pone l'accento sulla riduzione delle variabili che li generano fin dall'inizio.
+Invece di risolvere i problemi dopo che si sono verificati, cerca di ridurre le variabili che li generano.
 
-Per questo motivo, nell'implementazione attuale il ruolo di bastone per la massima distanza è affidato al 3W anziché al driver.
+Per questo motivo, nell'implementazione attuale è il 3W — e non il driver — a ricoprire il ruolo di bastone per la massima distanza.
 
 La priorità non è la distanza massima.
 
-La priorità è una distanza sufficiente che possa essere riprodotta con affidabilità.
+La priorità è ottenere una distanza sufficiente che possa essere riprodotta con continuità.
 
 ---
 
-## Why This Theory Does Not Use Tees
+## Perché questa teoria non utilizza i tee
 
-Questa teoria non considera il primo colpo di una buca come una categoria separata.
+Questa teoria non considera il primo colpo di una buca come un'eccezione.
 
 Per questo motivo, nell'implementazione attuale non vengono utilizzati tee.
 
-Il bastone per la massima distanza è il 3W e tutti i colpi vengono eseguiti prendendo come riferimento il terreno.
+Il bastone destinato alla massima distanza è il 3W e tutti i colpi vengono giocati direttamente dal terreno.
 
-In questo modo si evita di introdurre un presupposto diverso esclusivamente per il primo colpo.
+In questo modo si evita di introdurre condizioni diverse esclusivamente per il primo colpo.
 
-L'eliminazione dei tee elimina anche ulteriori attività di gestione:
+Non utilizzare tee elimina inoltre diverse attività di gestione:
 
-- Acquistare i tee
-- Trasportare i tee
-- Posizionare i tee
-- Raccogliere i tee
-- Smaltire i tee rotti
-- Rifornire la scorta di tee
+- Acquistare i tee.
+- Trasportare i tee.
+- Posizionare i tee.
+- Raccogliere i tee.
+- Smaltire i tee rotti.
+- Sostituire i tee.
 
-Naturalmente, giocare dal terreno significa accettare l'influenza del lie.
+Naturalmente, giocare direttamente dal terreno significa accettare l'influenza del lie.
 
-Si tratta di una scelta intenzionale.
+Si tratta di una scelta deliberata.
 
-Dopo il primo colpo, ogni colpo richiede già un adattamento al lie.
+Dopo il primo colpo, tutti i colpi successivi devono comunque adattarsi al lie.
 
-Questa teoria non considera il primo colpo un'eccezione.
+Questa teoria si limita a non considerare il primo colpo come un'eccezione.
 
-Il primo colpo e tutti quelli successivi fanno parte dello stesso sistema basato sul gioco da terra.
+Il primo colpo e tutti quelli successivi appartengono allo stesso sistema di gioco dal terreno.
 
-Non si tratta di una decisione per rinunciare alla distanza.
+Non si tratta di rinunciare alla distanza.
 
-Si tratta di una decisione per ridurre le variabili e aumentare la riproducibilità.
+Si tratta di ridurre le variabili e migliorare la ripetibilità.
 
 ---
 
-## The Role of the Driver
+## Il ruolo del driver
 
 Questa teoria non rifiuta il driver in sé.
 
-Il driver è un bastone eccellente per massimizzare la distanza.
+Il driver è un bastone eccellente per chi desidera ottenere la massima distanza.
 
-Anch'io l'ho utilizzato durante il mio percorso alla ricerca della massima distanza.
+Anch'io ho utilizzato il driver quando il mio obiettivo era massimizzare la distanza.
 
-Con uno swing aggressivo può generare una velocità massima della testa del bastone e una distanza superiori rispetto al 3W dell'implementazione attuale.
+Naturalmente, un driver è in grado di produrre una distanza maggiore rispetto al 3W utilizzato nell'implementazione attuale.
 
-Tuttavia, questa teoria dà priorità a una prestazione sostenibile piuttosto che a una prestazione massima.
+Tuttavia, questa teoria dà priorità a una prestazione sostenibile rispetto a una prestazione massima.
 
-Per questo motivo, nell'implementazione attuale il driver è stato escluso dal sistema principale di punteggio.
+Per questo motivo, nell'implementazione attuale il driver non fa più parte del nucleo del sistema di punteggio.
 
-Il driver non viene considerato un bastone per ottenere il punteggio, ma un bastone destinato alla ricerca della massima distanza.
+Il driver non viene considerato un bastone destinato a costruire il punteggio.
+
+Viene considerato un bastone dedicato alla ricerca della massima distanza.
 
 In altre parole:
 
-- Driver = ricerca della massima distanza
-- 3W e inferiori = configurazione per il punteggio
+- Driver = Ricerca della massima distanza
+- 3W e bastoni più corti = Sistema di punteggio
 
-Il bastone di massima distanza nell'implementazione attuale è il 3W.
+Nell'implementazione attuale, è il 3W ad assumere il ruolo di bastone per la massima distanza.
 
 Il driver non è stato abbandonato.
 
-È cambiato il suo ruolo.
+È semplicemente cambiato il suo ruolo.
 
 ---
 
-## Why This Theory Does Not Use Gloves
+## Perché questa teoria non utilizza i guanti
 
-Nell'implementazione attuale, questa teoria non utilizza guanti da golf.
+Nell'implementazione attuale non vengono utilizzati guanti da golf.
 
 Quando ho iniziato a giocare a golf, indossavo guanti su entrambe le mani.
 
-Anche così, a volte comparivano vesciche o irritazioni della pelle.
+Nonostante ciò, comparivano comunque vesciche e irritazioni della pelle.
 
-All'epoca pensavo che i guanti fossero indispensabili per proteggere le mani.
+All'epoca ero convinto che i guanti fossero indispensabili per proteggere le mani.
 
-Tuttavia, con il miglioramento della stabilità dell'impugnatura e dello swing, il mio punto di vista è cambiato.
+Con il progressivo miglioramento della presa e della stabilità dello swing, questa convinzione è cambiata.
 
-Uno swing riproducibile non richiede una pressione eccessiva sull'impugnatura.
+Uno swing ripetibile non richiede di stringere il bastone con forza eccessiva.
 
-Con la riduzione delle tensioni inutili, i guanti hanno smesso di essere indispensabili.
+Quando la tensione inutile è scomparsa, anche i guanti sono diventati superflui.
 
-Eliminare i guanti elimina anche ulteriori attività di gestione:
+Non utilizzare guanti elimina inoltre diverse attività di gestione:
 
-- Acquistare guanti
-- Trasportare guanti
-- Indossarli e toglierli
-- Lavarli
-- Asciugarli
-- Sostituirli
+- Acquistare guanti.
+- Trasportare guanti.
+- Indossare e togliere i guanti.
+- Lavare i guanti.
+- Far asciugare i guanti.
+- Sostituire i guanti.
 
-Inoltre, riduce problemi specifici dei guanti, come:
+Inoltre riduce problemi quali:
 
-- Indurimento dovuto al sudore
-- Sporco
-- Scivolamento della mano all'interno del guanto
-- Segni dell'abbronzatura lasciati dai guanti
+- L'indurimento dovuto al sudore.
+- Lo sporco.
+- Lo scivolamento della mano all'interno del guanto.
+- I segni dell'abbronzatura lasciati dal guanto.
 
-Giocare senza guanti fa parte dell'Ottimizzazione della Complessità di Gestione prevista da questa teoria.
+Anche la scelta di non utilizzare guanti fa parte dell'ottimizzazione della complessità di gestione di questa teoria.
 
 ---
 
-## Why This Theory Does Not Use a Chipper
+## Perché questa teoria non utilizza il chipper
 
-Nell'implementazione attuale, questa teoria non utilizza un chipper.
+Nell'implementazione attuale non viene utilizzato il chipper.
 
 La ragione è semplice.
 
-Il ruolo del chipper è già coperto dagli altri bastoni del sistema attuale.
+Il suo ruolo è già svolto dagli altri bastoni presenti nel sistema.
 
-Nell'implementazione attuale, le responsabilità sono suddivise come segue:
+Nell'implementazione attuale, le responsabilità sono distribuite nel seguente modo:
 
-- Approcci rasoterra → 13W / AW
+- Bump-and-run → 13W / AW
 - Colpi che richiedono sia altezza sia avanzamento → AW
 - Massima altezza e massimo potere frenante → SW
 
-Prima di aggiungere un nuovo bastone, questa teoria si chiede innanzitutto se il sistema attuale sia già in grado di risolvere il problema.
+Prima di introdurre un nuovo bastone, questa teoria si chiede innanzitutto se il sistema attuale sia già in grado di risolvere il problema.
 
-L'aggiunta di un bastone aumenta le opzioni.
+Aggiungere un nuovo bastone aumenta il numero di opzioni disponibili.
 
-Allo stesso tempo, però, aumenta anche la complessità di gestione.
+Ma allo stesso tempo aumenta anche la complessità di gestione.
 
-Per questo motivo, prima di introdurre un nuovo strumento, questa teoria pone le seguenti domande:
+Per questo motivo, prima di introdurre qualsiasi nuovo strumento, questa teoria pone due domande:
 
-- Il sistema attuale è in grado di risolvere questo problema?
-- È possibile sviluppare l'abilità necessaria utilizzando un bastone già esistente?
+- Il sistema attuale è già in grado di risolvere questo problema?
+- È possibile sviluppare questa capacità utilizzando i bastoni già esistenti?
 
-Solo quando la risposta è negativa si dovrebbe prendere in considerazione un nuovo bastone.
+Solo quando la risposta a entrambe le domande è negativa viene preso in considerazione un nuovo bastone.
 
-Nell'implementazione attuale, un chipper è superfluo.
+Nell'implementazione attuale, il chipper non è necessario.
 
-Questa teoria non rifiuta i chipper.
+Questa teoria non rifiuta il chipper.
 
-Conclude semplicemente che il loro ruolo è già svolto dal sistema attuale.
+Semplicemente conclude che il suo ruolo è già completamente svolto all'interno del sistema attuale.
 
 ---
 
 ## KPI
 
-### Short-Term Goals
+### Obiettivi a breve termine
 
-- Scendere sotto i 90 dai tee bianchi.
-- Scendere costantemente sotto i 100 dai tee blu.
-
----
-
-### Mid-Term Goals
-
-- Ottenere con continuità punteggi negli anni '90 dai tee blu.
-- Continuare a giocare a golf senza subire infortuni gravi.
+- Scendere sotto i 90 colpi dai tee bianchi.
+- Scendere stabilmente sotto i 100 colpi dai tee blu.
 
 ---
 
-### Long-Term Goals
+### Obiettivi a medio termine
+
+- Ottenere regolarmente punteggi negli anni '90 dai tee blu.
+- Continuare a giocare a golf senza subire infortuni importanti.
+
+---
+
+### Obiettivi a lungo termine
 
 - Raggiungere un livello di gioco pari al par.
-- Costruire un sistema di golf che possa essere mantenuto per tutta la vita.
+- Completare un sistema di golf che possa essere mantenuto per tutta la vita.
 
 ---
 
-## Conclusion
+## Conclusione
 
 Questa teoria non è ancora completa.
 
-L'esplorazione continua.
+Il processo di validazione continua.
 
-Con la raccolta di nuove osservazioni, sia la teoria sia la sua implementazione potranno continuare a evolversi.
+Con l'accumularsi di nuove osservazioni, sia la teoria sia la sua implementazione potranno continuare a evolversi.
 
-Questa teoria non è semplicemente un esperimento teorico.
+Questa teoria non è un semplice esperimento mentale.
 
-Continuerò a mettere in pratica questa teoria, a pubblicarne i risultati e a verificarla nel tempo.
+Continuerò a metterla in pratica, a pubblicarne i risultati e a verificarla nel lungo periodo.
 
-Questa teoria può davvero funzionare?
+Questa teoria funziona davvero?
 
-È possibile raggiungere un livello di gioco pari al par proteggendo il corpo nel lungo periodo?
+È possibile raggiungere un livello di gioco pari al par proteggendo allo stesso tempo il proprio corpo nel lungo periodo?
 
-La risposta arriverà dalle future partite e dalle verifiche a lungo termine.
+La risposta emergerà gradualmente attraverso le future partite e il continuo processo di validazione.
 
-Desidero continuare a giocare a golf ancora per molti anni.
+Spero di poter continuare a giocare a golf ancora per molti anni.
 
-E spero che questa teoria possa aiutare anche altre persone che condividono lo stesso obiettivo.
+E spero anche che questa teoria possa essere utile ad altre persone che condividono lo stesso obiettivo.
 
-Questo progetto rappresenta una sfida verso tale obiettivo.
+Questo progetto rappresenta il mio tentativo di trovare quella risposta.
