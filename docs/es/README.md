@@ -1,87 +1,87 @@
-# Teoría del Golfista de por Vida #001
+# Teoría del golfista de por vida
 
 Una teoría de diseño de sistemas de golf para jugar durante toda la vida.
 
 ---
 
-## Languages
+## Idiomas
 
-- [English](README.md)
-- [日本語](docs/ja/README.md)
-- [한국어](docs/ko/README.md)
-- [简体中文](docs/zh-hans/README.md)
-- [繁體中文](docs/zh-hant/README.md)
-- [Deutsch](docs/de/README.md)
-- [Français](docs/fr/README.md)
-- [Español](docs/es/README.md)
-- [Italiano](docs/it/README.md)
-- [Nederlands](docs/nl/README.md)
-- [Svenska](docs/sv/README.md)
-- [Português](docs/pt/README.md)
-- [Dansk](docs/da/README.md)
-- [Norsk](docs/no/README.md)
-- [Suomi](docs/fi/README.md)
+- [English](../../README.md)
+- [日本語](../ja/README.md)
+- [한국어](../ko/README.md)
+- [简体中文](../zh-hans/README.md)
+- [繁體中文](../zh-hant/README.md)
+- [Deutsch](../de/README.md)
+- [Français](../fr/README.md)
+- [Español](../es/README.md)
+- [Italiano](../it/README.md)
+- [Nederlands](../nl/README.md)
+- [Svenska](../sv/README.md)
+- [Português](../pt/README.md)
+- [Dansk](../da/README.md)
+- [Norsk](../no/README.md)
+- [Suomi](../fi/README.md)
 
 ---
 
-## Overview
+## Resumen
 
-La Teoría del Golfista de por Vida es un marco para construir un sistema de golf que pueda mantenerse durante toda la vida.
+La Teoría del golfista de por vida (Lifelong Golfer Theory) es una teoría para diseñar un sistema de golf que pueda mantenerse durante toda la vida.
 
-No es un método de swing.
+No es una teoría del swing.
 
-No es una recomendación universal sobre la elección de palos.
+Tampoco es una recomendación universal sobre la composición de la bolsa.
 
-Es un marco de diseño de sistemas cuyo objetivo es reducir la complejidad innecesaria, mejorar la reproducibilidad y conservar la capacidad de disfrutar del golf a largo plazo.
+Es una teoría de diseño de sistemas de golf cuyo objetivo es reducir la complejidad innecesaria, mejorar la repetibilidad y permitir disfrutar del golf durante muchos años.
 
 Esta teoría se basa en cuatro principios fundamentales:
 
-- Optimización de la Complejidad de Gestión
-- Especialización de Roles
-- Reproducibilidad
+- Optimización de la complejidad de gestión
+- Especialización de funciones
+- Repetibilidad
 - Sostenibilidad
 
-El propósito de esta teoría no es perseguir el máximo rendimiento a corto plazo.
+El objetivo de esta teoría no es maximizar el rendimiento a corto plazo.
 
-Su objetivo es reducir el esfuerzo físico innecesario, simplificar la toma de decisiones y construir un sistema de golf que siga siendo práctico durante décadas.
+Su propósito es reducir la carga física innecesaria, simplificar la toma de decisiones y construir un sistema de golf que pueda mantenerse durante décadas.
 
-La implementación actual se centra en las maderas de calle y los wedges.
+La implementación actual está centrada en las maderas de calle y los wedges.
 
-Al reducir el número de palos, los patrones de movimiento y las decisiones durante la ronda, el sistema busca mejorar la reproducibilidad mientras preserva el disfrute del golf a largo plazo.
+Al reducir el número de palos, los patrones de movimiento y las decisiones durante la vuelta, el sistema busca mejorar la repetibilidad sin perder el placer de jugar al golf a largo plazo.
 
 ---
 
-## Core Terminology
+## Terminología
 
-Los siguientes términos se utilizan en este documento.
+En este documento se utilizan los siguientes términos.
 
-### Optimización de la Complejidad de Gestión
+### Optimización de la complejidad de gestión
 
-Reducir el número de elementos que requieren una gestión continua durante la práctica y el juego.
+Reducir el número de elementos que deben gestionarse de forma continua durante el entrenamiento y el juego.
 
-### Especialización de Roles
+### Especialización de funciones
 
-Asignar a cada palo una responsabilidad clara y limitada.
+Asignar a cada palo una función clara y limitada.
 
-### Reproducibilidad
+### Repetibilidad
 
-Priorizar un rendimiento estable y repetible por encima de un rendimiento excepcional ocasional.
+Priorizar un rendimiento que pueda reproducirse de forma constante por encima de un rendimiento máximo puntual.
 
 ### Sostenibilidad
 
-Construir un sistema de golf que pueda mantenerse física, mental y prácticamente durante toda la vida.
+Construir un sistema de golf que pueda mantenerse durante toda la vida desde el punto de vista físico, mental y práctico.
 
 ---
 
-## Target Audience
+## Público objetivo
 
-Esta teoría está dirigida a golfistas de todos los niveles que desean construir un sistema de golf sostenible a largo plazo.
+Esta teoría está dirigida a golfistas de cualquier nivel que deseen construir un sistema de golf sostenible a largo plazo.
 
-No propone una configuración universal de palos para todos.
+No propone una configuración única de palos para todo el mundo.
 
 La configuración presentada aquí es solo una implementación basada en los principios de esta teoría.
 
-La implementación óptima variará según la distancia, la capacidad física, la edad, el historial de lesiones, el entorno de práctica y las circunstancias personales.
+La implementación óptima dependerá de la distancia de golpeo, las capacidades físicas, la edad, el historial de lesiones, el entorno de entrenamiento y las circunstancias personales.
 
 La implementación es personal.
 
@@ -89,418 +89,428 @@ Los principios son universales.
 
 ---
 
-## Current Results
+## Resultados actuales
 
-Este proyecto se encuentra actualmente en una fase inicial de pruebas.
+Este proyecto se encuentra actualmente en una fase inicial de validación.
 
-Los siguientes resultados se basan en la implementación actual de la Teoría del Golfista de por Vida.
+Los siguientes resultados se basan en la implementación actual de la Teoría del golfista de por vida.
 
-No se presentan como una prueba de la teoría.
+No se presentan como una prueba definitiva de la teoría.
 
-Son el punto de partida para una validación a largo plazo.
+Representan únicamente el punto de partida de una validación a largo plazo.
 
-A medida que se jueguen más rondas y se recopilen nuevas observaciones, tanto la teoría como su implementación podrán seguir evolucionando.
+A medida que se jueguen más rondas y se obtengan nuevas observaciones, tanto la teoría como su implementación podrán seguir evolucionando.
 
-- Experiencia en golf: 1 año
+- Experiencia jugando al golf: 1 año
 - Rondas jugadas: 17
-- Mejor puntuación (Tee Blanco): 93
-- Mejor puntuación (Tee Azul): 109
-- Promedio de las últimas 5 rondas (Tee Blanco): 106
-- Promedio de las últimas 5 rondas (Tee Azul): 114
+- Mejor resultado (tees blancos): 93
+- Mejor resultado (tees azules): 109
+- Promedio de las últimas 5 rondas (tees blancos): 106
+- Promedio de las últimas 5 rondas (tees azules): 114
 
-Dependiendo del evento y de los compañeros de juego, normalmente juego desde los tees blancos o azules.
+Dependiendo del evento y de mis compañeros de juego, normalmente juego desde los tees blancos o azules.
 
 ---
 
-## Learning Environment
+## Entorno de aprendizaje
 
-Cuando empecé a jugar al golf, tomaba una clase por semana.
+Cuando empecé a jugar al golf, recibía una clase por semana.
 
-El objetivo era claro.
+Los objetivos eran muy claros.
 
 - Enseñar a mi cuerpo un movimiento completamente nuevo.
 - Crear nuevas conexiones neuronales.
 - Reforzar esas conexiones mediante la repetición.
 
-Para acelerar el proceso de aprendizaje, golpeaba aproximadamente 500 bolas al día, incluidos los días de clase, utilizando tanto simuladores de golf en interiores como campos de prácticas.
+Para acelerar el aprendizaje, golpeaba aproximadamente 500 bolas al día, incluidos los días de clase, utilizando tanto simuladores de golf en interiores como el campo de prácticas.
 
-Mantuve esta rutina durante aproximadamente dos meses.
+Mantuve esta rutina durante unos dos meses.
 
 Sin embargo, durante ese período sufrí varias lesiones.
 
-Después de aprender los fundamentos, dejé las clases y continué desarrollándome por mi cuenta.
+Tomando como base lo aprendido durante esos primeros dos meses, continué investigando por mi cuenta.
 
-Desde entonces, me he apoyado en:
+Desde entonces utilizo:
 
 - YouTube
 - Libros
 - Simuladores de golf en interiores
 - Campos de prácticas
 - Campos cortos
-- Campos completos
+- Campos completos de 18 hoyos
 
-para seguir probando y perfeccionando un enfoque que fuera reproducible y menos exigente para mi cuerpo.
+para probar y mejorar continuamente un enfoque que sea repetible y físicamente menos exigente.
 
 En aquel momento no sabía cuál era el camino correcto.
 
-Mi única solución era golpear más bolas.
+Mi única solución era muy simple.
+
+Golpear más bolas.
 
 Con el tiempo, ese enfoque terminó provocándome lesiones.
 
-Hoy mi perspectiva es completamente diferente.
+Hoy mi forma de pensar es completamente distinta.
 
-Tanto la frecuencia como la intensidad de mi práctica se han reducido considerablemente.
+En comparación con aquella época, tanto la frecuencia como la intensidad de mi entrenamiento se han estabilizado en un nivel mucho más sostenible.
 
 Esta teoría no pretende mejorar únicamente aumentando el volumen de práctica.
 
-Da prioridad a la reproducibilidad, la sostenibilidad y el desarrollo a largo plazo.
+Da prioridad a la repetibilidad, la sostenibilidad y el desarrollo a largo plazo.
 
 ---
 
-## Introduction
+## Introducción
 
-Comencé a jugar al golf hace aproximadamente un año.
+Empecé a jugar al golf hace aproximadamente un año.
 
-Como muchos principiantes, me sentía fuertemente atraído por la distancia.
+Como muchos principiantes, al principio me fascinaba la distancia.
 
-Creía que ser capaz de utilizar palos difíciles era, por sí mismo, una señal de progreso.
+Creía que dominar palos más difíciles era, por sí mismo, una prueba de progreso.
 
-Reuní un juego completo de hierros muscle-back, desde el hierro 1 hasta el pitching wedge, e intenté diseñar todo mi juego en torno a diferencias de distancia que llegaban hasta las 240 yardas.
+Llegué a montar un juego completo de hierros muscle-back, desde el hierro 1 hasta el pitching wedge, e intenté construir todo mi juego alrededor de diferencias de distancia de hasta 240 yardas.
 
-También llegué a realizar drives de aproximadamente 320 yardas.
+También llegué a realizar salidas de aproximadamente 320 yardas con el driver.
 
 Sin embargo, esa búsqueda tuvo un precio.
 
 Una lesión en el cartílago costal me obligó a dejar de jugar al golf durante dos meses.
 
-Después de regresar, seguí practicando intensamente con los hierros y terminé desarrollando dolor en el hombro y dolor crónico en la muñeca.
+Tras volver, seguí entrenando intensivamente con los hierros y acabé desarrollando dolor en el hombro y molestias crónicas en la muñeca.
 
-Esas experiencias cambiaron por completo mi forma de ver el golf.
+Aquellas experiencias cambiaron por completo mi manera de entender el golf.
 
-Hasta entonces me preguntaba:
+Hasta entonces siempre me hacía la misma pregunta:
 
-> «¿Cómo puedo golpear la bola más lejos?»
+> «¿Cómo puedo pegar la bola más lejos?»
 
-Después empecé a preguntarme:
+Con el tiempo, esa pregunta cambió por otra:
 
-> «¿Cómo puedo seguir jugando al golf durante los próximos veinte años sin destruir mi cuerpo?»
+> «¿Cómo puedo seguir jugando al golf dentro de veinte años sin destruir mi cuerpo?»
 
-Mi enfoque pasó de maximizar la distancia a optimizarla.
+Mi objetivo pasó de la máxima distancia a la distancia óptima.
 
-En lugar de perseguir la identidad de un gran pegador, decidí convertirme en un golfista de por vida.
+En lugar de intentar convertirme en un gran pegador, decidí convertirme en un golfista para toda la vida.
 
-Mientras buscaba una solución sostenible, fui alejándome poco a poco de una configuración centrada en los hierros y acercándome a un sistema basado en maderas de calle y wedges.
+Mientras buscaba un enfoque más sostenible, fui alejándome poco a poco de una configuración centrada en los hierros y desarrollé un sistema basado principalmente en maderas de calle y wedges.
 
-Esta teoría es el resultado de ese proceso.
+De ese proceso nació esta teoría.
 
-Su objetivo a largo plazo es determinar si es posible alcanzar un nivel de juego al par protegiendo el cuerpo durante muchos años.
+Su objetivo a largo plazo es comprobar si es posible alcanzar un nivel de juego cercano al par mientras se protege el cuerpo.
 
 ---
 
-## Theory vs. Implementation
+## Teoría e implementación
 
-La esencia de esta teoría no es una configuración específica de palos.
+La esencia de esta teoría no reside en una configuración concreta de palos.
 
-Su fundamento se basa en cuatro principios esenciales:
+Su fundamento son cuatro principios:
 
-- Optimización de la Complejidad de Gestión
-- Especialización de Roles
-- Reproducibilidad
+- Optimización de la complejidad de gestión
+- Especialización de funciones
+- Repetibilidad
 - Sostenibilidad
 
-Por esta razón, esta teoría no recomienda una única configuración de palos para todos los golfistas.
+Por ello, esta teoría no recomienda una misma configuración para todos los golfistas.
 
 La configuración presentada en este documento representa únicamente la implementación actual.
 
-La implementación óptima variará según la distancia, la capacidad física, la edad, el historial de lesiones, el entorno de práctica y las circunstancias personales.
+La implementación óptima dependerá de la distancia, las capacidades físicas, la edad, el historial de lesiones, el entorno de entrenamiento y las circunstancias personales.
 
-Los palos en sí no son lo importante.
+Lo importante no son los palos en sí.
 
-Lo importante es reducir la complejidad de gestión, asignar responsabilidades claras y construir un sistema de golf que pueda mantenerse de forma sostenible a largo plazo.
+Lo importante es reducir la complejidad que debe gestionarse, asignar funciones claras a cada palo y construir un sistema de golf sostenible a largo plazo.
 
 ---
 
-## Current Implementation
+## Implementación actual
 
-En esta teoría, el control de la distancia se consigue principalmente mediante la longitud del swing y la posición de las manos en el grip.
+En esta teoría, el control de la distancia se realiza principalmente mediante la amplitud del swing y la posición de las manos en el grip.
 
-En lugar de aumentar el número de palos para crear diferencias de distancia más pequeñas, se asigna un papel claro a cada palo.
+En lugar de añadir más palos para crear diferencias de distancia más pequeñas, cada palo recibe una función claramente definida.
 
-En la implementación actual, el 3W es el palo de máxima distancia.
+En la implementación actual, el 3W es el palo encargado de proporcionar la máxima distancia.
 
-El palo más largo no se elige únicamente por su distancia máxima potencial.
+El palo más largo no se elige únicamente por su alcance.
 
-Se selecciona teniendo en cuenta el equilibrio general entre distancia, reproducibilidad, esfuerzo físico y compatibilidad con el resto del sistema.
+Se selecciona considerando conjuntamente la distancia, la repetibilidad, la carga física y su integración dentro del sistema.
 
-La implementación actual está compuesta por siete palos, sin incluir el putter.
+La implementación actual está formada por siete palos, sin contar el putter.
 
-| Palo | Rol | Distancia de Carry |
-|------|------|-------------------:|
-| 3W (15°) | Distancia Máxima | 200–240 yd |
-| 7W (21°) | Distancia Intermedia | 160–190 yd |
-| 13W (34°) | Palo Principal | 1–150 yd |
-| AW (46°) | Palo de Recovery | 1–80 yd |
-| SW (58°) | Palo de Finalización | 1–40 yd |
-| 5W LH (18°) | Palo Especializado de Recovery | 140–220 yd |
-| 15W LH (39°) | Palo Especializado de Recovery | 1–130 yd |
+| Palo | Función | Distancia de carry |
+|------|---------|-------------------:|
+| 3W (15°) | Distancia máxima | 200–240 yd |
+| 7W (21°) | Distancia media | 160–190 yd |
+| 13W (34°) | Palo principal | 1–150 yd |
+| AW (46°) | Palo de recuperación | 1–80 yd |
+| SW (58°) | Palo de finalización | 1–40 yd |
+| 5W LH (18°) | Palo especial de recuperación | 140–220 yd |
+| 15W LH (39°) | Palo especial de recuperación | 1–130 yd |
 
 ### 3W (15°)
 
 El palo de máxima distancia de la implementación actual.
 
-Es responsable de los golpes con un carry de entre 200 y 240 yardas.
+Cubre distancias de carry de entre 200 y 240 yardas.
 
-El 3W proporciona una distancia suficiente para desempeñar el papel de palo de máxima distancia, al tiempo que mantiene la reproducibilidad del sistema en su conjunto.
+El 3W proporciona la distancia necesaria para desempeñar el papel de palo de máxima distancia sin comprometer la repetibilidad del sistema.
 
 En esta teoría, el palo más largo no se elige únicamente por la distancia.
 
-Se selecciona en función de la distancia, la reproducibilidad, el esfuerzo físico y su compatibilidad con todo el sistema.
+Se selecciona considerando conjuntamente la distancia, la repetibilidad, la carga física y su integración dentro del sistema.
 
 ### 7W (21°)
 
-El palo de distancia intermedia.
+El palo para distancias medias.
 
-Es responsable de los golpes con un carry de entre 160 y 190 yardas.
+Cubre distancias de carry de entre 160 y 190 yardas.
 
-Su función es conectar el palo de larga distancia con los palos del juego corto.
+Su función es conectar el palo de larga distancia con los palos destinados al juego corto.
 
 ### 13W (34°)
 
 El palo principal de la implementación actual.
 
-Es responsable de los golpes con un carry de entre 1 y 150 yardas.
+Cubre distancias de carry de entre 1 y 150 yardas.
 
-Se utiliza para golpes rodados, approaches estándar y control de distancia.
+Se utiliza para golpes rodados (bump-and-run), aproximaciones convencionales y control de la distancia.
 
-Es el palo más utilizado del sistema.
+Es el palo más utilizado de todo el sistema.
 
-En los golpes de approach, cuando un golpe rodado es la opción adecuada, el 13W es la elección predeterminada.
+En las aproximaciones, el 13W es la elección predeterminada siempre que un golpe rodado sea la mejor opción.
 
-Cuando hay suficiente espacio para que la bola ruede, un golpe rodado se considera más reproducible que un golpe alto con un wedge.
+Cuando existe suficiente espacio para que la bola ruede, un golpe rodado se considera más repetible que una aproximación alta con un wedge.
 
-En las pruebas actuales, en comparación con los approaches altos utilizando el AW o el SW, los golpes rodados con el 13W se han visto menos afectados por las condiciones del lie y han producido resultados más estables.
+Las pruebas realizadas hasta el momento muestran que los golpes rodados con el 13W son menos sensibles al lie y producen resultados más constantes que las aproximaciones altas realizadas con el AW o el SW.
 
-Dentro de esta teoría, el 13W no es simplemente una madera de calle.
+En esta teoría, el 13W es mucho más que una simple madera de calle.
 
-Es el palo central de todo el sistema.
+Es el centro de todo el sistema.
 
 ### AW (46°)
 
-El palo de recovery.
+El palo de recuperación.
 
-Es responsable de los golpes con un carry de entre 1 y 80 yardas.
+Cubre distancias de carry de entre 1 y 80 yardas.
 
-Se utiliza cuando se necesita altura, cuando es necesario superar un obstáculo o cuando el 13W no es adecuado para la situación.
+Se utiliza cuando es necesaria una trayectoria más alta, cuando hay que superar un obstáculo o cuando el 13W no resulta adecuado para la situación.
 
-En los golpes de approach, se utiliza cuando las condiciones del lie lo requieren o cuando se necesita tanto una altura moderada como avance hacia el objetivo.
+En las aproximaciones se utiliza cuando el lie lo exige o cuando se necesitan simultáneamente altura y avance.
 
-Como lanza la bola con mayor facilidad que el 13W y la hace avanzar con mayor facilidad que el SW, cumple la función de palo intermedio para las distancias cortas.
+Como eleva la bola con mayor facilidad que el 13W y ofrece más distancia que el SW, desempeña el papel intermedio dentro del juego corto.
 
 ### SW (58°)
 
 El palo de finalización.
 
-Es responsable de los golpes con un carry de entre 1 y 40 yardas.
+Cubre distancias de carry de entre 1 y 40 yardas.
 
-Se utiliza cuando se requiere la máxima altura, el máximo poder de frenado o un control muy preciso en distancias cortas.
+Se utiliza cuando se necesita la máxima altura, la máxima capacidad de frenado o una precisión extrema a corta distancia.
 
-En los golpes de approach, se utiliza cuando es necesario lanzar la bola muy alta y detenerla rápidamente, cuando la bandera está cerca o cuando la prioridad es salir de una situación difícil y detener la bola, como desde un bunker o un rough profundo.
+En las aproximaciones se emplea cuando la bola debe elevarse mucho y detenerse rápidamente, cuando la bandera está muy cerca o cuando se necesita el máximo poder de frenado desde un bunker o un rough profundo.
 
-En esta teoría, al SW no se le exige generar distancia innecesaria.
+En esta teoría, el SW no está destinado a generar distancia adicional.
 
-El SW no es un palo de máxima distancia.
+No es un palo de distancia.
 
-Es responsable de proporcionar la máxima altura y el máximo poder de frenado.
+Su función consiste en proporcionar la máxima altura y el máximo poder de frenado.
 
-### Left-Handed Clubs
+### Palos para zurdos
 
 La implementación actual incluye palos para zurdos.
 
-Estos palos no están destinados a sustituir la configuración estándar para diestros.
+No están destinados a sustituir la configuración habitual para diestros.
 
-Su propósito es gestionar situaciones en las que un golpe convencional para diestros implicaría una complejidad innecesaria, un esfuerzo físico excesivo o una probabilidad de éxito significativamente menor.
+Existen para resolver situaciones en las que un golpe de diestro introduciría una complejidad innecesaria, una carga física adicional o una probabilidad de éxito considerablemente menor.
 
-Dentro de esta teoría, los palos para zurdos se consideran herramientas especializadas.
+En esta teoría, los palos para zurdos se consideran herramientas especializadas.
 
-Más concretamente, son herramientas dedicadas exclusivamente al recovery.
+Más concretamente, son herramientas dedicadas exclusivamente a la recuperación.
 
 Su objetivo no es aumentar la variedad de golpes.
 
-Su objetivo es simplificar el recovery asignando soluciones específicas a situaciones que se repiten con frecuencia.
+Su objetivo es simplificar las situaciones de recuperación asignando una solución específica a problemas que aparecen repetidamente.
 
-Una posible crítica a este enfoque es que introducir palos para zurdos parece aumentar la complejidad de gestión.
+Una observación frecuente sobre este enfoque es la siguiente:
 
-Hasta cierto punto, esa crítica es válida.
+> «¿No aumenta la complejidad de gestión añadir palos para zurdos?»
 
-Un swing para zurdos constituye, por sí mismo, otro patrón de movimiento que debe mantenerse.
+La pregunta es razonable.
 
-Sin embargo, en la implementación actual, ese coste adicional se ha limitado deliberadamente.
+Al fin y al cabo, es necesario mantener un patrón de movimiento adicional para jugar como zurdo.
 
-Solo se incluyen dos palos para zurdos, y ambos son maderas.
+Sin embargo, en la implementación actual ese coste adicional se ha reducido deliberadamente al mínimo.
 
-No se añade ningún wedge ni putter para zurdos.
+Solo se utilizan dos palos para zurdos.
 
-La razón es que la implementación actual no necesita un sistema completo para zurdos.
+Y ambos son maderas de calle.
 
-Solo necesita dos herramientas de recovery: una para recuperaciones de larga distancia y otra para recuperaciones controladas de corta distancia.
+No existe un wedge para zurdos.
 
-Como ambos palos son maderas, comparten muchas características de movimiento con el resto del sistema basado en maderas.
+Tampoco existe un putter para zurdos.
 
-En lugar de introducir una familia de palos completamente diferente, esta teoría amplía el patrón de movimiento existente de las maderas hacia el lado opuesto.
+La implementación actual no requiere un sistema completo para zurdos.
 
-La cuestión importante no es simplemente cuántos palos hay.
+Solo necesita dos palos especializados para la recuperación: uno para largas distancias y otro para distancias cortas.
 
-La cuestión importante es cuántos patrones de movimiento adicionales deben mantenerse.
+Como ambos son maderas de calle, simplemente amplían hacia el lado izquierdo el mismo patrón de movimiento utilizado con las maderas.
+
+No se introduce una familia completamente nueva de palos.
+
+Lo importante no es cuántos palos se añaden.
+
+Lo importante es cuántos patrones de movimiento adicionales habrá que mantener.
 
 ### 5W LH (18°)
 
-El palo especializado de recovery para larga distancia.
+El palo especializado para recuperaciones de larga distancia.
 
-Es responsable de los golpes con un carry de entre 140 y 220 yardas.
+Cubre distancias de carry de entre 140 y 220 yardas.
 
-Se trata de un palo para zurdos utilizado en situaciones de recovery de larga distancia que no pueden resolverse eficazmente con una configuración convencional para diestros.
+Este palo para zurdos se utiliza en situaciones de recuperación de larga distancia en las que un golpe de diestro resulta poco práctico.
 
-Se utiliza cuando árboles, obstáculos, pendientes, limitaciones de postura o el diseño del campo hacen que un golpe para diestros no sea una opción práctica.
+Se emplea cuando árboles, obstáculos, pendientes, limitaciones en la colocación o el diseño del campo hacen inviable un golpe de diestro.
 
-Dentro de esta teoría, el 5W LH no se incluye para aumentar la variedad de golpes.
+En esta teoría, el 5W LH no se incorpora para aumentar la variedad de golpes.
 
-Se incluye para ofrecer una opción reproducible para golpes de escape de larga distancia desde el lado izquierdo.
+Se incorpora para proporcionar una solución de recuperación de larga distancia para zurdos que pueda repetirse de forma consistente.
 
 ### 15W LH (39°)
 
-El palo especializado de recovery para corta distancia.
+El palo especializado para recuperaciones de corta distancia.
 
-Es responsable de los golpes con un carry de entre 1 y 130 yardas.
+Cubre distancias de carry de entre 1 y 130 yardas.
 
-Se trata de un palo para zurdos utilizado en situaciones de recovery de corta distancia que no pueden resolverse eficazmente con una configuración convencional para diestros.
+Este palo para zurdos se utiliza en situaciones de recuperación de corta distancia que resultan difíciles de resolver jugando como diestro.
 
-Comparte la misma filosofía que el 5W LH, pero se centra en golpes más cortos que requieren un mayor nivel de control.
+Comparte la misma filosofía que el 5W LH, pero está destinado a golpes más cortos que requieren un mayor nivel de control.
 
-En la actualidad, estos palos para zurdos proporcionan opciones de recovery dedicadas mientras preservan la estructura general del sistema.
+Actualmente, estos dos palos para zurdos proporcionan soluciones específicas para la recuperación sin modificar la estructura general del sistema.
 
-En un futuro previsible, esta implementación permanecerá sin cambios mientras continúan las pruebas a largo plazo.
+Por el momento, esta configuración se mantendrá mientras continúa su validación a largo plazo.
 
 ---
 
-## Why This Theory Exists
+## Por qué nació esta teoría
 
-El punto de partida de esta teoría fue una pregunta sencilla:
+Esta teoría comenzó con una pregunta muy sencilla.
 
-> «¿Es posible obtener el mismo resultado de una manera más simple y sostenible?»
+> «¿Es posible conseguir el mismo resultado de una forma más simple y sostenible?»
 
-Esa forma de pensar se trasladó de manera natural al golf.
+Aplicar esa pregunta al golf fue el punto de partida de esta teoría.
 
-Esta teoría no parte de la idea de que una configuración convencional de palos sea inamovible.
+Esta teoría no parte de la idea de que la configuración tradicional de palos sea la correcta.
 
-En cambio, vuelve a examinar el papel de cada palo.
+Comienza replanteándose el papel de cada palo.
 
-¿Es posible construir todo un juego alrededor de los hierros?
+¿Es realmente óptimo construir todo el juego alrededor de los hierros?
 
-¿Pueden las maderas de calle asumir las funciones tradicionalmente asignadas a los hierros?
+¿Pueden las maderas de calle asumir las funciones que tradicionalmente desempeñaban los hierros?
 
-¿Puede eliminarse el driver del sistema principal de puntuación?
+¿Es posible eliminar el driver del núcleo del sistema de puntuación?
 
-¿Pueden menos palos ofrecer una mayor reproducibilidad?
+¿Existe una forma de lograr una mayor repetibilidad?
 
-Con el tiempo, estas preguntas evolucionaron hasta convertirse en pruebas sistemáticas.
+Con el tiempo, estas preguntas dieron lugar a un proceso de validación sistemático.
 
 Esta teoría es el resultado de ese proceso.
 
-No surgió de una única idea.
+No nació de una única idea.
 
-Surgió de reevaluar continuamente los papeles tradicionales de los palos y de buscar formas de obtener resultados iguales —o incluso mejores— con menos variables y menor esfuerzo físico.
+Nació de cuestionar continuamente el papel tradicional de los palos y de buscar una forma de obtener los mismos resultados, o incluso mejores, con menos variables y una menor carga física.
 
 ---
 
-## Core Principles
+## Principios fundamentales
 
-La Teoría del Golfista de por Vida se basa en cuatro principios.
+La Teoría del golfista de por vida se basa en cuatro principios fundamentales.
 
-Todo lo que se presenta en este documento se deriva, en última instancia, de ellos.
+Todo lo que se presenta en este documento acaba remitiendo a ellos.
 
-### Optimización de la Complejidad de Gestión
+### Optimización de la complejidad de gestión
 
-Reducir el número de elementos que requieren una gestión continua.
+Reducir el número de elementos que deben gestionarse de forma continua.
 
-Cuanto menor sea la gestión necesaria, mayor podrá ser la atención dedicada a la ejecución.
+Cuantas menos cosas haya que gestionar, más atención podrá dedicarse a la ejecución del golpe.
 
-### Especialización de Roles
+### Especialización de funciones
 
-Asignar a cada palo un ámbito de responsabilidad claramente definido.
+Asignar a cada palo una responsabilidad claramente definida.
 
-En lugar de exigir a un mismo palo un número ilimitado de funciones, esta teoría define claramente la responsabilidad de cada palo y pone el énfasis en comprenderla en profundidad.
+En lugar de exigir que un solo palo cumpla un número ilimitado de funciones, esta teoría define con claridad el papel de cada palo y promueve un conocimiento profundo de esa función.
 
-### Reproducibilidad
+### Repetibilidad
 
-Se valora más un rendimiento fiable y repetible que un rendimiento excepcional ocasional.
+Priorizar un rendimiento que pueda reproducirse de forma constante por encima de un rendimiento máximo puntual.
 
 El objetivo no es un golpe perfecto.
 
-El objetivo es un golpe que pueda reproducirse de forma constante.
+El objetivo es un golpe que pueda repetirse.
 
 ### Sostenibilidad
 
-Cada decisión debe favorecer la capacidad de seguir jugando al golf a largo plazo.
+Toda decisión debe contribuir a la posibilidad de seguir jugando al golf durante muchos años.
 
-El rendimiento obtenido mediante un esfuerzo físico innecesario no se considera sostenible.
+Un rendimiento obtenido a costa de una carga física innecesaria no se considera sostenible.
 
 ---
 
-## Optimización de la Complejidad de Gestión
+## Optimización de la complejidad de gestión
 
-Reducir el número de palos no es el objetivo de esta teoría.
+Reducir el número de palos no es el verdadero objetivo de esta teoría.
 
-Es solo una consecuencia.
+Es simplemente una consecuencia.
 
-El verdadero objetivo es reducir el número de elementos que deben gestionarse.
+Lo que realmente se pretende reducir es el número de elementos que deben gestionarse.
 
-El golf es una secuencia continua de decisiones.
+El golf es una sucesión continua de decisiones.
 
-Cada golpe requiere decisiones como:
+Antes de cada golpe es necesario decidir, entre otras cosas:
 
-- Selección del palo
-- Tipo de swing
-- Posición de la bola
-- Línea de objetivo
-- Estrategia del golpe
+- Qué palo utilizar.
+- Qué tipo de swing realizar.
+- La posición de la bola.
+- La línea de juego.
+- La estrategia del golpe.
 
 Cada decisión consume atención.
 
-Cuantas más variables existen, mayor es el esfuerzo mental necesario para jugar.
+Cuantas más variables haya que gestionar, mayor será la carga mental durante la vuelta.
 
-Esta teoría intenta reducir las decisiones que no contribuyen directamente a mejorar el rendimiento en la puntuación.
+Esta teoría busca eliminar las decisiones que no contribuyen directamente a mejorar el resultado.
 
 Reducir el número de palos.
 
-Reducir los patrones de movimiento.
+Reducir el número de patrones de movimiento.
 
-Eliminar los tees.
+No utilizar tees.
 
-Eliminar los guantes.
+No utilizar guantes.
 
-Asignar responsabilidades claras.
+Asignar una función clara a cada palo.
 
-Todas estas decisiones siguen la misma filosofía.
+Todas estas decisiones nacen de una misma filosofía.
 
 Reducir la gestión innecesaria.
 
-Aumentar la reproducibilidad.
+Aumentar la repetibilidad.
 
-La simplicidad no es el objetivo.
+El objetivo no es la simplicidad.
 
-La optimización sí lo es.
+El objetivo es la optimización.
 
 ---
 
-## Why Reduce Movement Patterns?
+## ¿Por qué reducir los patrones de movimiento?
 
-Cuando empecé a jugar al golf, hubo una frase que se quedó grabada en mi mente:
+Cuando empecé a jugar al golf,
 
-> «Hay muchísimo que aprender.»
+> «El golf es difícil porque hay demasiadas cosas que aprender.»
 
-En aquel momento, acepté esa afirmación tal como era.
+Esa frase se me quedó grabada.
 
-Cada palo parecía requerir un movimiento diferente.
+En aquel momento la acepté sin cuestionarla.
+
+Me parecía que cada palo requería un movimiento diferente.
 
 Driver.
 
@@ -514,63 +524,63 @@ Wedge.
 
 Putter.
 
-Además de eso, cada lie y cada situación introducían nuevas variables.
+Además, cada lie y cada situación añadían nuevas variables.
 
-- Una bola sobre un tee
-- Una bola en el suelo
-- Rough
-- Bunker
-- Lies inclinados
+- Una bola colocada sobre un tee.
+- Una bola en el suelo.
+- Rough.
+- Búnker.
+- Lies en pendiente.
 
-Incluso sobre una alfombrilla de práctica completamente plana, parecía hacer falta una enorme cantidad de repeticiones para golpear cada palo con consistencia.
+Incluso sobre una alfombrilla completamente plana tenía la sensación de que hacían falta innumerables repeticiones para golpear cada palo con consistencia.
 
-Durante mis primeros meses, no conseguía golpear ni los híbridos ni las maderas de calle de forma consistente.
+Durante mis primeros meses no conseguía golpear de forma consistente ni los híbridos ni las maderas de calle.
 
-Como tenía previsto jugar mi primera ronda completa dentro de los tres meses posteriores al inicio de las clases, en ese momento una configuración centrada en los hierros parecía ser la solución más reproducible.
+Como tenía previsto jugar mi primera vuelta de 18 hoyos antes de cumplir tres meses desde que había comenzado las clases, en aquel momento una configuración centrada en los hierros me parecía la opción más repetible.
 
-Más adelante, esa idea cambió.
+Con el tiempo, esa idea cambió.
 
-Cuando empecé a considerar el golf como algo que quería seguir practicando durante toda mi vida, comprendí que aumentar simplemente el número de palos que era capaz de utilizar no era necesariamente la mejor solución.
+Cuando empecé a pensar en el golf como una actividad que quería disfrutar durante toda mi vida, empecé a preguntarme si aprender a utilizar cada vez más palos era realmente la mejor solución.
 
-Con el tiempo, incluso la pregunta cambió.
+Finalmente, cambió la propia pregunta.
 
-En lugar de preguntarme:
+Dejé de preguntarme:
 
-> «¿Qué palo debería aprender a usar después?»
+> «¿Qué palo debería aprender a utilizar después?»
 
-empecé a preguntarme:
+Y empecé a preguntarme:
 
 > «¿Cuántos patrones de movimiento necesito realmente?»
 
-Cada patrón de movimiento adicional requiere tiempo para aprenderse.
+Aprender un nuevo patrón de movimiento requiere mucho tiempo.
 
-Y, lo que es más importante, requiere práctica continua para mantenerse.
+Y, aún más importante, también exige práctica continua para poder mantenerlo.
 
-Cuantos más patrones de movimiento existen, mayor es el coste de mantenimiento a largo plazo.
+Cuantos más patrones de movimiento existen, mayor es su coste de mantenimiento a largo plazo.
 
-Esta teoría considera que el coste de mantenimiento es tan importante como el coste de aprendizaje.
+En esta teoría, el coste de mantenimiento es tan importante como el coste de aprendizaje.
 
-En esencia, el golf consiste en hacer avanzar la bola y obtener un resultado.
+En esencia, el golf consiste en hacer avanzar la bola y conseguir un resultado.
 
-Si eso es cierto, comprender profundamente un menor número de patrones de movimiento puede ser una solución más sostenible a largo plazo.
+Si eso es cierto, entonces desarrollar una comprensión más profunda de un número menor de patrones de movimiento puede ser una solución mucho más sostenible.
 
 Esta teoría no intenta resolver los problemas añadiendo más herramientas.
 
-Intenta resolverlos comprendiendo mejor un menor número de herramientas.
+Intenta resolverlos comprendiendo mejor un número menor de herramientas.
 
-La implementación actual, centrada en las maderas, es el resultado de esa filosofía.
+La implementación actual, centrada en las maderas de calle, nació precisamente de esa forma de pensar.
 
 ---
 
-## Why Prioritize the Ability to Recover?
+## ¿Por qué dar prioridad a la capacidad de recuperación?
 
 Una de las preguntas más frecuentes sobre esta teoría es:
 
-> «¿Qué ocurre si tus maderas de calle dejan de funcionar?»
+> «¿Qué ocurre si las maderas de calle dejan de funcionar?»
 
-Es una preocupación razonable.
+Es una pregunta totalmente razonable.
 
-Una configuración convencional suele ofrecer varias alternativas.
+Una configuración tradicional suele ofrecer varias alternativas.
 
 Si el driver no funciona, se utiliza una madera de calle.
 
@@ -578,349 +588,357 @@ Si la madera de calle no funciona, se utiliza un híbrido.
 
 Si el híbrido no funciona, se utiliza un hierro.
 
-Esta teoría reduce deliberadamente esas alternativas.
+Esta teoría reduce deliberadamente ese tipo de alternativas.
 
-La razón es clara.
+La razón es sencilla.
 
-Da prioridad al dominio por encima de la redundancia.
+Da prioridad al dominio antes que a la redundancia.
 
-En lugar de resolver los problemas cambiando de palo, fomenta resolverlos con el palo al que ya se le ha asignado esa responsabilidad.
+En lugar de cambiar de palo cuando aparece un problema, busca resolverlo con el palo al que originalmente se le asignó esa función.
 
-Más opciones pueden aportar tranquilidad.
+Disponer de más opciones proporciona una sensación de seguridad.
 
-Menos opciones pueden conducir a una comprensión más profunda.
+Disponer de menos opciones conduce a un conocimiento mucho más profundo de cada palo.
 
-Esta teoría elige deliberadamente la segunda opción.
+Esta teoría elige deliberadamente este segundo enfoque.
 
 ---
 
-## Why This Theory Does Not Use Irons
+## ¿Por qué esta teoría no utiliza hierros?
 
-En la implementación actual, esta teoría no utiliza hierros.
+La implementación actual no utiliza hierros.
 
-Esto no se debe a que los hierros sean malos palos.
+Esto no significa que los hierros sean malos palos.
 
 Todo lo contrario.
 
-Los hierros son herramientas excelentes.
+Los hierros son excelentes palos.
 
 La verdadera pregunta es otra.
 
-> ¿Son los hierros la mejor solución a largo plazo para este sistema?
+> «¿Son los hierros la mejor elección a largo plazo para este sistema?»
 
-Al principio, una configuración centrada en los hierros parecía razonable.
+Al principio, una configuración centrada en los hierros me parecía la opción más lógica.
 
-Sin embargo, después de considerar la sostenibilidad a largo plazo, el volumen de práctica necesario, la reproducibilidad y el coste de mantenimiento, llegué a la conclusión de que los hierros no eran adecuados para la implementación actual de esta teoría.
+Sin embargo, tras considerar la sostenibilidad a largo plazo, el volumen de práctica necesario, la repetibilidad y el coste de mantenimiento, llegué a la conclusión de que los hierros no eran la mejor opción para la implementación actual de esta teoría.
 
-Los criterios principales fueron:
+Esta decisión se basa en cuatro criterios:
 
 - Sostenibilidad a largo plazo
 - Volumen de práctica necesario
-- Reproducibilidad
+- Repetibilidad
 - Coste de mantenimiento
 
-Muchos golfistas experimentados terminan diciendo:
+Muchos golfistas con experiencia acaban diciendo:
 
-> «Ya no puedo golpear los hierros como antes.»
+> «Ya no golpeo los hierros como antes.»
 
-Las razones pueden ser la edad, las lesiones, la reducción del tiempo de práctica u otros cambios físicos.
+Las razones pueden ser diversas.
 
-Pero esa observación se repite una y otra vez dentro de la comunidad del golf.
+La edad.
 
-Basándome en mi propia experiencia, decidí no esperar hasta llegar a ese punto.
+Una lesión.
 
-En su lugar, esta teoría reasigna a las maderas de calle y a los wedges las responsabilidades tradicionalmente desempeñadas por los hierros.
+Menos tiempo de práctica.
+
+O simplemente otros cambios físicos.
+
+Sea cual sea la causa, este tipo de comentarios se escucha una y otra vez en el mundo del golf.
+
+Basándome en mi propia experiencia, decidí no esperar a que llegara ese momento.
+
+En lugar de ello, esta teoría reasigna a las maderas de calle las funciones que tradicionalmente desempeñaban los hierros.
 
 Esta teoría no rechaza los hierros.
 
-Simplemente distribuye sus responsabilidades de otra manera.
+Simplemente redefine su papel.
 
 ---
 
-## Why This Theory Does Not Use Hybrids
+## ¿Por qué esta teoría no utiliza híbridos?
 
-En la implementación actual, esta teoría no utiliza híbridos.
+La implementación actual no utiliza híbridos.
 
 La razón no es la distancia.
 
 La razón es la sostenibilidad a largo plazo.
 
-Durante las pruebas, las maderas de calle resultaron más adecuadas para esta teoría que los híbridos con lofts comparables.
+Tras numerosas pruebas, llegué a la conclusión de que, con lofts similares, las maderas de calle se adaptaban mejor a esta teoría que los híbridos.
 
-Las principales razones fueron:
+Las principales razones son las siguientes:
 
-- Una suela más ancha
-- Una interacción más suave con el césped
-- Mayor facilidad para elevar la bola
-- Más altura con menos esfuerzo
-- Menor impacto sobre las muñecas
+- Una suela más ancha.
+- Un contacto más suave con el césped.
+- Mayor facilidad para elevar la bola.
+- Más altura con menos esfuerzo.
 
-Las maderas de calle también facilitaban conseguir altura y distancia con un menor esfuerzo físico.
+Las maderas de calle también permiten generar altura y distancia con una menor carga física.
 
-Esta teoría no afirma que los híbridos sean ineficaces.
+Esta teoría no afirma que los híbridos sean malos palos.
 
-Para muchos golfistas, los híbridos son palos excelentes.
+Para muchos golfistas son herramientas excelentes.
 
-Sin embargo, bajo los principios de este sistema, las maderas de calle cumplían las mismas funciones con menos concesiones.
+Sin embargo, dentro de los principios de este sistema, las maderas de calle resultaron más adecuadas para esta teoría.
 
-Por esa razón, los híbridos no forman parte de la implementación actual.
+Por ese motivo, la implementación actual no utiliza híbridos.
 
 ---
 
-## Why This Theory Limits Wedge Distances
+## ¿Por qué esta teoría limita la distancia de los wedges?
 
-En esta teoría, no se pide a los wedges que maximicen la distancia.
+En esta teoría, la función de los wedges no es maximizar la distancia.
 
 Su función es la precisión.
 
-Se utilizan para generar una altura de vuelo y un punto de caída predecibles, minimizando al mismo tiempo el esfuerzo físico innecesario.
+Su objetivo es producir trayectorias y puntos de caída predecibles minimizando al mismo tiempo la carga física innecesaria.
 
-En lugar de forzar la distancia mediante una técnica agresiva, esta teoría pone el énfasis en una interacción estable de la suela con el suelo y en un impacto reproducible.
+En lugar de generar más distancia mediante una técnica agresiva, esta teoría da prioridad a un contacto estable de la suela con el suelo y a un impacto altamente repetible.
 
-El énfasis no está en la potencia.
+La prioridad no es la potencia.
 
-El énfasis está en la consistencia.
+La prioridad es la consistencia.
 
 En la implementación actual:
 
-- El SW (58°) es responsable de los golpes con un carry de entre 1 y 40 yardas.
-- El AW (46°) es responsable de los golpes con un carry de entre 1 y 80 yardas.
+- El SW (58°) cubre distancias de carry de entre 1 y 40 yardas.
+- El AW (46°) cubre distancias de carry de entre 1 y 80 yardas.
 
-La función básica de los wedges es clara.
+La función de los wedges está claramente definida.
 
-Levantar la bola.
+Elevar la bola.
 
 Controlar el punto de caída.
 
 Detener la bola.
 
-Cuando un golpe rodado es posible, o cuando un approach más largo resulta más adecuado, esa responsabilidad pasa al 13W.
+Cuando un golpe rodado resulta más apropiado, o cuando una aproximación más larga es la mejor opción, esa responsabilidad pasa al 13W.
 
-Esta teoría no exige que los wedges ejecuten todos los golpes posibles.
+Esta teoría no espera que los wedges realicen todo tipo de golpes.
 
-Cada palo recibe una función claramente definida.
+Cada palo tiene una función claramente definida.
 
 En la implementación actual, las responsabilidades se distribuyen de la siguiente manera:
 
-- Approaches rodados → 13W / AW
+- Golpes rodados (Bump-and-Run) → 13W / AW
 - Golpes que requieren tanto altura como avance → AW
 - Máxima altura y máxima capacidad de frenado → SW
 
-Esta estructura de funciones reduce el solapamiento entre los palos y refuerza la especialización de roles en todo el sistema.
+Esta distribución reduce el solapamiento entre los palos y refuerza la especialización de funciones en todo el sistema.
 
 ---
 
-## Why This Theory Does Not Use a Driver
+## ¿Por qué esta teoría no utiliza driver?
 
-En la implementación actual, esta teoría no utiliza el driver como palo principal para conseguir el resultado.
+La implementación actual no utiliza el driver como el palo principal del sistema de puntuación.
 
 La razón no es la distancia.
 
-La razón es la reproducibilidad, la sostenibilidad y la simplificación del sistema.
+Las razones son la repetibilidad, la sostenibilidad y la simplificación del sistema.
 
-Un driver está diseñado para golpear una bola colocada sobre un tee.
+El driver está diseñado para golpear una bola colocada sobre un tee.
 
-En cambio, una madera de calle está diseñada para golpear una bola desde el suelo.
+En cambio, una madera de calle está diseñada para golpear la bola directamente desde el suelo.
 
-El uso del driver introduce variables adicionales, como:
+El uso del driver introduce nuevas variables:
 
-- La altura del tee
-- Un ángulo de ataque ascendente
-- Un patrón de swing específico del driver
+- La altura del tee.
+- Un ángulo de ataque ascendente.
+- Un patrón de swing específico del driver.
 
-Soy capaz de generar una velocidad máxima de cabeza del palo muy alta con un driver.
+Por supuesto, un driver puede generar más distancia que el 3W utilizado en la implementación actual.
 
-Sin embargo, esta teoría prioriza un rendimiento estable por encima del rendimiento máximo.
+Sin embargo, esta teoría prioriza un rendimiento sostenible por encima del rendimiento máximo.
 
-En lugar de resolver los problemas después de que aparezcan, esta teoría pone el énfasis en reducir las variables que los generan desde el principio.
+En lugar de resolver los problemas una vez que aparecen, busca reducir las variables que los provocan.
 
-Por esa razón, en la implementación actual, el papel de palo de máxima distancia corresponde al 3W y no al driver.
+Por ello, en la implementación actual el 3W —y no el driver— desempeña el papel de palo de máxima distancia.
 
 La prioridad no es la distancia máxima.
 
-La prioridad es una distancia suficiente que pueda reproducirse de forma fiable.
+La prioridad es generar una distancia suficiente que pueda repetirse de forma constante.
 
 ---
 
-## Why This Theory Does Not Use Tees
+## ¿Por qué esta teoría no utiliza tees?
 
-Esta teoría no considera el primer golpe de un hoyo como una categoría independiente.
+Esta teoría no considera el primer golpe de un hoyo como una excepción.
 
-Por esa razón, en la implementación actual no se utilizan tees.
+Por ese motivo, la implementación actual no utiliza tees.
 
-El palo de máxima distancia es el 3W, y todos los golpes se juegan tomando como referencia el suelo.
+El palo de máxima distancia es el 3W, y todos los golpes se juegan directamente desde el suelo.
 
-De este modo, el sistema evita introducir una premisa diferente únicamente para el primer golpe.
+De este modo se evita introducir unas condiciones diferentes únicamente para el primer golpe.
 
-Eliminar los tees también elimina tareas adicionales de gestión:
+No utilizar tees también elimina varias tareas de gestión:
 
-- Comprar tees
-- Llevar tees
-- Colocar tees
-- Recoger tees
-- Desechar tees rotos
-- Reponer el suministro de tees
+- Comprar tees.
+- Llevar tees.
+- Clavar los tees.
+- Recoger los tees.
+- Desechar los tees rotos.
+- Reponer nuevos tees.
 
-Por supuesto, jugar desde el suelo significa aceptar la influencia del lie.
+Naturalmente, jugar desde el suelo significa aceptar la influencia del lie.
 
-Eso es intencionado.
+Es una decisión tomada de forma deliberada.
 
-Después del primer golpe, todos los golpes ya requieren adaptarse al lie.
+Después del primer golpe, todos los golpes posteriores ya deben adaptarse al lie.
 
-Esta teoría no convierte el primer golpe en una excepción.
+Esta teoría simplemente se niega a tratar el primer golpe como una excepción.
 
-El primer golpe y todos los posteriores forman parte del mismo sistema basado en jugar desde el suelo.
+El primer golpe y todos los que le siguen forman parte del mismo sistema de juego desde el suelo.
 
 No se trata de renunciar a la distancia.
 
-Se trata de reducir variables y aumentar la reproducibilidad.
+Se trata de reducir variables y mejorar la repetibilidad.
 
 ---
 
-## The Role of the Driver
+## El papel del driver
 
-Esta teoría no rechaza el driver en sí mismo.
+Esta teoría no rechaza el driver en sí.
 
-El driver es un excelente palo para maximizar la distancia.
+El driver es un palo excelente para buscar la máxima distancia.
 
-Yo mismo lo utilicé durante mi etapa de búsqueda de la máxima distancia.
+Yo mismo utilicé el driver cuando perseguía ese objetivo.
 
-Con un swing agresivo, puede generar una velocidad máxima de cabeza del palo superior y una mayor distancia que el 3W utilizado en la implementación actual.
+Por supuesto, un driver puede generar más distancia que el 3W utilizado en la implementación actual.
 
-Sin embargo, esta teoría da prioridad a un rendimiento sostenible por encima del rendimiento máximo.
+Sin embargo, esta teoría prioriza un rendimiento sostenible por encima del rendimiento máximo.
 
-Por esa razón, en la implementación actual, el driver ha sido eliminado del sistema principal de puntuación.
+Por ese motivo, en la implementación actual el driver deja de formar parte del núcleo del sistema de puntuación.
 
-El driver no se considera un palo para hacer resultado, sino un palo destinado a buscar la máxima distancia.
+El driver no se considera un palo para construir el resultado.
+
+Se considera un palo para perseguir la máxima distancia.
 
 En otras palabras:
 
-- Driver = búsqueda de la máxima distancia
-- 3W y menores = configuración para el resultado
+- Driver = Búsqueda de la máxima distancia.
+- 3W y palos más cortos = Sistema de puntuación.
 
-El palo de máxima distancia en la implementación actual es el 3W.
+En la implementación actual, el 3W es el palo encargado de proporcionar la máxima distancia.
 
 El driver no ha sido descartado.
 
-Su función ha cambiado.
+Simplemente se ha redefinido su función.
 
 ---
 
-## Why This Theory Does Not Use Gloves
+## ¿Por qué esta teoría no utiliza guantes?
 
-En la implementación actual, esta teoría no utiliza guantes de golf.
+La implementación actual no utiliza guantes de golf.
 
 Cuando empecé a jugar al golf, llevaba guantes en ambas manos.
 
-Aun así, en ocasiones sufría ampollas o irritaciones en la piel.
+Aun así, aparecían ampollas y molestias en la piel.
 
-En aquel momento pensaba que los guantes eran necesarios para proteger mis manos.
+En aquel momento pensaba que los guantes eran indispensables para proteger las manos.
 
-Sin embargo, a medida que mi grip y mi swing se hicieron más estables, mi forma de verlo cambió.
+A medida que mi agarre y mi swing se estabilizaron, esa idea cambió.
 
-Un swing reproducible no requiere una presión excesiva sobre el grip.
+Un swing repetible no requiere sujetar el palo con una fuerza excesiva.
 
-A medida que desaparecía la tensión innecesaria, los guantes dejaron de ser imprescindibles.
+Cuando desapareció esa tensión innecesaria, los guantes también dejaron de ser necesarios.
 
-Eliminar los guantes también elimina tareas adicionales de gestión:
+No utilizar guantes también elimina varias tareas de gestión:
 
-- Comprar guantes
-- Llevar guantes
-- Ponérselos y quitárselos
-- Lavarlos
-- Secarlos
-- Sustituirlos
+- Comprar guantes.
+- Llevar guantes.
+- Ponérselos y quitárselos.
+- Lavarlos.
+- Secarlos.
+- Sustituirlos.
 
-También reduce problemas propios de los guantes, como:
+Además, también reduce problemas como:
 
-- Endurecimiento por el sudor
-- Suciedad
-- Deslizamiento de la mano dentro del guante
-- Marcas de bronceado causadas por los guantes
+- El endurecimiento provocado por el sudor.
+- La suciedad.
+- El deslizamiento de la mano dentro del guante.
+- Las marcas de bronceado provocadas por el guante.
 
-Jugar sin guantes forma parte de la Optimización de la Complejidad de Gestión dentro de esta teoría.
+No utilizar guantes también forma parte de la Optimización de la Complejidad de Gestión de esta teoría.
 
 ---
 
-## Why This Theory Does Not Use a Chipper
+## ¿Por qué esta teoría no utiliza un chipper?
 
-En la implementación actual, esta teoría no utiliza un chipper.
+La implementación actual no utiliza un chipper.
 
 La razón es sencilla.
 
-La función de un chipper ya está cubierta por otros palos del sistema actual.
+Su función ya está cubierta por otros palos del sistema actual.
 
 En la implementación actual, las responsabilidades se distribuyen de la siguiente manera:
 
-- Approaches rodados → 13W / AW
+- Golpes rodados (Bump-and-Run) → 13W / AW
 - Golpes que requieren tanto altura como avance → AW
 - Máxima altura y máxima capacidad de frenado → SW
 
-Antes de añadir un nuevo palo, esta teoría se pregunta primero si el sistema actual puede resolver el problema.
+Antes de incorporar un nuevo palo, esta teoría se pregunta primero si el sistema actual ya puede resolver el problema.
 
-Añadir un palo aumenta las opciones.
+Añadir un palo nuevo aumenta el número de opciones disponibles.
 
-Pero al mismo tiempo también aumenta la complejidad de gestión.
+Pero al mismo tiempo también incrementa la complejidad de gestión.
 
-Por esa razón, antes de incorporar una nueva herramienta, esta teoría plantea las siguientes preguntas:
+Por ello, antes de introducir cualquier herramienta nueva, esta teoría plantea dos preguntas:
 
-- ¿Puede el sistema actual resolver este problema?
-- ¿Puede desarrollarse la habilidad necesaria utilizando un palo ya existente?
+- ¿Puede el sistema actual resolver ya este problema?
+- ¿Puede desarrollarse esa habilidad utilizando los palos existentes?
 
-Solo cuando la respuesta es negativa debería considerarse la incorporación de un nuevo palo.
+Solo cuando la respuesta a ambas preguntas es negativa se considera la incorporación de un nuevo palo.
 
-En la implementación actual, un chipper es innecesario.
+En la implementación actual, un chipper no es necesario.
 
 Esta teoría no rechaza los chippers.
 
-Simplemente concluye que su función ya está integrada en el sistema actual.
+Simplemente concluye que su función ya está plenamente cubierta dentro del sistema actual.
 
 ---
 
 ## KPI
 
-### Short-Term Goals
+### Objetivos a corto plazo
 
-- Bajar de 90 desde los tees blancos.
-- Romper los 100 de forma constante desde los tees azules.
+- Romper la barrera de los 90 golpes desde los tees blancos.
+- Bajar de 100 golpes de forma constante desde los tees azules.
 
 ---
 
-### Mid-Term Goals
+### Objetivos a medio plazo
 
-- Conseguir resultados de forma constante en los 90 desde los tees azules.
+- Conseguir resultados en los 90 de forma constante desde los tees azules.
 - Seguir jugando al golf sin sufrir lesiones importantes.
 
 ---
 
-### Long-Term Goals
+### Objetivos a largo plazo
 
-- Alcanzar un nivel de juego al par.
-- Establecer un sistema de golf que pueda mantenerse durante toda la vida.
+- Alcanzar un nivel de juego de par.
+- Completar un sistema de golf que pueda mantenerse durante toda la vida.
 
 ---
 
-## Conclusion
+## Conclusión
 
 Esta teoría aún no está terminada.
 
-La exploración continúa.
+El proceso de validación continúa.
 
-A medida que se recopilen nuevas observaciones, tanto la teoría como su implementación podrán seguir evolucionando.
+A medida que se acumulen nuevas observaciones, tanto la teoría como su implementación podrán seguir evolucionando.
 
-Esta teoría no es simplemente un experimento intelectual.
+Esta teoría no es un simple experimento mental.
 
-Seguiré poniendo esta teoría en práctica, publicando los resultados y evaluándola a lo largo del tiempo.
+Seguiré poniéndola en práctica, publicando los resultados y validándola a largo plazo.
 
-¿Puede esta teoría funcionar realmente?
+¿Funciona realmente esta teoría?
 
-¿Es posible alcanzar un nivel de juego al par mientras se protege el cuerpo a largo plazo?
+¿Es posible alcanzar un nivel de juego de par protegiendo al mismo tiempo el cuerpo a largo plazo?
 
-La respuesta llegará con las futuras rondas y las pruebas realizadas a lo largo del tiempo.
+La respuesta irá apareciendo poco a poco con las futuras rondas y el proceso continuo de validación.
 
-Quiero seguir jugando al golf durante muchos años.
+Espero poder seguir jugando al golf durante muchos años.
 
-Y espero que esta teoría también pueda ayudar a otras personas que persiguen el mismo objetivo.
+Y también espero que esta teoría pueda ayudar a otras personas que compartan el mismo objetivo.
 
-Este proyecto es un desafío hacia ese objetivo.
-
+Este proyecto es mi intento de encontrar esa respuesta.
