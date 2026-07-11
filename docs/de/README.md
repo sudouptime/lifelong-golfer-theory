@@ -1,71 +1,71 @@
-# Lifelong Golfer Theorie #001
+# Lifelong-Golfer-Theorie
 
-Eine Theorie, um Golf ein Leben lang genießen zu können.
-
----
-
-## Languages
-
-- [English](README.md)
-- [日本語](docs/ja/README.md)
-- [한국어](docs/ko/README.md)
-- [简体中文](docs/zh-hans/README.md)
-- [繁體中文](docs/zh-hant/README.md)
-- [Deutsch](docs/de/README.md)
-- [Français](docs/fr/README.md)
-- [Español](docs/es/README.md)
-- [Italiano](docs/it/README.md)
-- [Nederlands](docs/nl/README.md)
-- [Svenska](docs/sv/README.md)
-- [Português](docs/pt/README.md)
-- [Dansk](docs/da/README.md)
-- [Norsk](docs/no/README.md)
-- [Suomi](docs/fi/README.md)
+Eine Systemdesign-Theorie für lebenslanges Golfspielen.
 
 ---
 
-## Overview
+## Sprachen
 
-Die Lifelong Golfer Theorie ist ein Framework zum Aufbau eines Golfsystems, das ein Leben lang aufrechterhalten werden kann.
+- [English](../../README.md)
+- [日本語](../ja/README.md)
+- [한국어](../ko/README.md)
+- [简体中文](../zh-hans/README.md)
+- [繁體中文](../zh-hant/README.md)
+- [Deutsch](../de/README.md)
+- [Français](../fr/README.md)
+- [Español](../es/README.md)
+- [Italiano](../it/README.md)
+- [Nederlands](../nl/README.md)
+- [Svenska](../sv/README.md)
+- [Português](../pt/README.md)
+- [Dansk](../da/README.md)
+- [Norsk](../no/README.md)
+- [Suomi](../fi/README.md)
 
-Sie ist keine Schwungmethode.
+---
 
-Sie ist keine allgemeingültige Empfehlung für eine Schlägerzusammenstellung.
+## Überblick
 
-Sie ist ein Framework für Systemdesign, das darauf abzielt, unnötige Komplexität zu reduzieren, die Reproduzierbarkeit zu verbessern und die Freude am Golf langfristig zu erhalten.
+Die Lifelong-Golfer-Theorie (Lifelong Golfer Theory) ist eine Theorie zur Entwicklung eines Golfsystems, das ein Leben lang aufrechterhalten werden kann.
+
+Sie ist keine Schwungtheorie.
+
+Sie ist auch keine allgemeingültige Empfehlung für eine bestimmte Schlägerzusammenstellung.
+
+Sie ist eine Systemdesign-Theorie für Golf, deren Ziel es ist, unnötige Komplexität zu reduzieren, die Wiederholbarkeit zu verbessern und Golf langfristig genießen zu können.
 
 Diese Theorie basiert auf vier Grundprinzipien:
 
-- Optimierung der Managementkomplexität
+- Optimierung der Management-Komplexität
 - Rollenspezialisierung
-- Reproduzierbarkeit
+- Wiederholbarkeit
 - Nachhaltigkeit
 
 Das Ziel dieser Theorie besteht nicht darin, kurzfristig die maximale Leistung zu erzielen.
 
-Ihr Ziel ist es, unnötige körperliche Belastungen zu reduzieren, Entscheidungen zu vereinfachen und ein Golfsystem aufzubauen, das über Jahrzehnte hinweg praktikabel bleibt.
+Vielmehr geht es darum, unnötige körperliche Belastungen zu reduzieren, Entscheidungen zu vereinfachen und ein Golfsystem aufzubauen, das über Jahrzehnte hinweg praktikabel bleibt.
 
-Die aktuelle Umsetzung konzentriert sich auf Fairwayhölzer und Wedges.
+Die aktuelle Umsetzung basiert hauptsächlich auf Fairwayhölzern und Wedges.
 
-Durch die Reduzierung der Anzahl von Schlägern, Bewegungsmustern und Entscheidungen während der Runde soll die Reproduzierbarkeit verbessert werden, ohne den langfristigen Spielspaß zu beeinträchtigen.
+Durch die Reduzierung der Anzahl an Schlägern, Bewegungsmustern und Entscheidungen während einer Runde soll die Wiederholbarkeit verbessert werden, ohne den langfristigen Spaß am Golf zu verlieren.
 
 ---
 
-## Core Terminology
+## Begriffe
 
-Die folgenden Begriffe werden in diesem Dokument verwendet.
+In diesem Dokument werden die folgenden Begriffe verwendet.
 
-### Optimierung der Managementkomplexität
+### Optimierung der Management-Komplexität
 
-Die Anzahl der Elemente zu reduzieren, die während des Trainings und Spiels kontinuierlich verwaltet werden müssen.
+Die Anzahl der Elemente zu reduzieren, die während des Trainings und des Spiels dauerhaft verwaltet werden müssen.
 
 ### Rollenspezialisierung
 
-Jedem Schläger eine klare und begrenzte Aufgabe zuzuweisen.
+Jedem Schläger eine klar definierte und begrenzte Aufgabe zuzuweisen.
 
-### Reproduzierbarkeit
+### Wiederholbarkeit
 
-Stabile und wiederholbare Leistung gegenüber gelegentlichen Höchstleistungen zu priorisieren.
+Leistungen zu bevorzugen, die sich zuverlässig wiederholen lassen, anstatt kurzfristige Spitzenleistungen anzustreben.
 
 ### Nachhaltigkeit
 
@@ -73,15 +73,15 @@ Ein Golfsystem aufzubauen, das körperlich, mental und praktisch ein Leben lang 
 
 ---
 
-## Target Audience
+## Zielgruppe
 
 Diese Theorie richtet sich an Golfer aller Spielstärken, die ein langfristig nachhaltiges Golfsystem aufbauen möchten.
 
-Sie schlägt keine universelle Schlägerzusammenstellung für alle vor.
+Sie schlägt keine einheitliche Schlägerzusammenstellung für alle Spieler vor.
 
-Die hier vorgestellte Zusammenstellung ist lediglich eine Umsetzung auf Grundlage der Prinzipien dieser Theorie.
+Die hier vorgestellte Konfiguration stellt lediglich eine Umsetzung auf Grundlage dieser Theorie dar.
 
-Die optimale Umsetzung hängt von Schlagweite, körperlichen Voraussetzungen, Alter, Verletzungshistorie, Trainingsumgebung und persönlichen Umständen ab.
+Die optimale Umsetzung hängt von Schlagweite, körperlichen Voraussetzungen, Alter, Verletzungshistorie, Trainingsumgebung und individuellen Umständen ab.
 
 Die Umsetzung ist individuell.
 
@@ -89,153 +89,155 @@ Die Prinzipien sind universell.
 
 ---
 
-## Current Results
+## Aktuelle Ergebnisse
 
-Dieses Projekt befindet sich derzeit in einer frühen Testphase.
+Dieses Projekt befindet sich derzeit in einer frühen Phase der Validierung.
 
-Die folgenden Ergebnisse basieren auf der aktuellen Umsetzung der Lifelong Golfer Theorie.
+Die folgenden Ergebnisse basieren auf der aktuellen Umsetzung der Lifelong-Golfer-Theorie.
 
 Sie werden nicht als Beweis für die Theorie präsentiert.
 
-Sie bilden den Ausgangspunkt für eine langfristige Validierung.
+Sie stellen lediglich den Ausgangspunkt einer langfristigen Validierung dar.
 
-Mit zunehmender Anzahl gespielter Runden und neuen Beobachtungen können sich sowohl die Theorie als auch ihre Umsetzung weiterentwickeln.
+Mit weiteren gespielten Runden und neuen Beobachtungen können sich sowohl die Theorie als auch ihre Umsetzung weiterentwickeln.
 
 - Golferfahrung: 1 Jahr
 - Gespielte Runden: 17
-- Beste Runde (Weiße Abschläge): 93
-- Beste Runde (Blaue Abschläge): 109
-- Durchschnitt der letzten 5 Runden (Weiße Abschläge): 106
-- Durchschnitt der letzten 5 Runden (Blaue Abschläge): 114
+- Beste Runde (weiße Abschläge): 93
+- Beste Runde (blaue Abschläge): 109
+- Durchschnitt der letzten 5 Runden (weiße Abschläge): 106
+- Durchschnitt der letzten 5 Runden (blaue Abschläge): 114
 
-Je nach Veranstaltung und Mitspielern spiele ich normalerweise entweder von den weißen oder den blauen Abschlägen.
+Je nach Veranstaltung und Mitspielern spiele ich normalerweise von den weißen oder blauen Abschlägen.
 
 ---
 
-## Learning Environment
+## Lernumgebung
 
-Als ich mit dem Golfspielen begann, nahm ich einmal pro Woche Unterricht.
+Zu Beginn meiner Golfkarriere nahm ich einmal pro Woche Unterricht.
 
-Das Ziel war eindeutig.
+Die Ziele waren klar.
 
-- Meinem Körper eine völlig neue Bewegung beizubringen.
+- Meinem Körper völlig neue Bewegungen beizubringen.
 - Neue neuronale Verbindungen aufzubauen.
 - Diese Verbindungen durch Wiederholung zu festigen.
 
-Um den Lernprozess zu beschleunigen, schlug ich – auch an Unterrichtstagen – täglich etwa 500 Bälle, sowohl im Indoor-Golfsimulator als auch auf der Driving Range.
+Um den Lernprozess zu beschleunigen, schlug ich – einschließlich der Unterrichtstage – täglich etwa 500 Bälle, sowohl auf Indoor-Golfsimulatoren als auch auf der Driving Range.
 
 Diese Routine hielt ich ungefähr zwei Monate lang durch.
 
-In dieser Zeit zog ich mir jedoch mehrere Verletzungen zu.
+In dieser Zeit erlitt ich jedoch mehrere Verletzungen.
 
-Nachdem ich die Grundlagen erlernt hatte, beendete ich den Unterricht und entwickelte mich selbstständig weiter.
+Auf Grundlage dessen, was ich in diesen ersten beiden Monaten gelernt hatte, setzte ich meine Untersuchungen anschließend eigenständig fort.
 
-Seitdem stütze ich mich auf:
+Seitdem nutze ich unter anderem:
 
 - YouTube
-- Bücher
+- Fachbücher
 - Indoor-Golfsimulatoren
 - Driving Ranges
 - Kurzplätze
 - 18-Loch-Golfplätze
 
-um einen Ansatz weiter zu testen und zu verfeinern, der reproduzierbar ist und meinen Körper weniger belastet.
+um einen Ansatz zu testen und weiterzuentwickeln, der sowohl wiederholbar als auch körperlich möglichst schonend ist.
 
-Damals wusste ich nicht, wie der richtige Weg aussah.
+Damals wusste ich nicht, welcher Weg der richtige war.
 
-Meine Lösung bestand einfach darin, mehr Bälle zu schlagen.
+Meine Lösung war denkbar einfach.
 
-Letztlich führte dieser Ansatz zu Verletzungen.
+Ich schlug einfach mehr Bälle.
 
-Heute hat sich meine Sichtweise grundlegend verändert.
+Letztlich führte genau dieser Ansatz zu Verletzungen.
 
-Sowohl die Häufigkeit als auch die Intensität meines Trainings wurden deutlich reduziert.
+Heute denke ich völlig anders darüber.
 
-Diese Theorie verfolgt nicht das Ziel, sich allein durch ein höheres Trainingsvolumen zu verbessern.
+Im Vergleich zu damals haben sich sowohl Trainingsumfang als auch Trainingsintensität auf ein deutlich nachhaltigeres Niveau eingependelt.
 
-Sie stellt Reproduzierbarkeit, Nachhaltigkeit und langfristige Entwicklung in den Mittelpunkt.
+Diese Theorie verfolgt nicht das Ziel, sich allein durch mehr Training zu verbessern.
+
+Im Mittelpunkt stehen Wiederholbarkeit, Nachhaltigkeit und langfristige Entwicklung.
 
 ---
 
-## Introduction
+## Einleitung
 
-Ich habe vor etwa einem Jahr mit dem Golfspielen begonnen.
+Ich begann vor etwa einem Jahr mit dem Golfsport.
 
-Wie viele Anfänger war ich zunächst stark von Schlagweite fasziniert.
+Wie viele Anfänger war ich zunächst von maximaler Schlagweite fasziniert.
 
-Ich glaubte, dass die Fähigkeit, schwierige Schläger zu spielen, bereits ein Zeichen von Fortschritt sei.
+Ich glaubte, schwierige Schläger beherrschen zu können sei der Beweis für Fortschritt.
 
-Ich stellte mir einen vollständigen Satz Muscle-Back-Eisen vom 1er-Eisen bis zum Pitching Wedge zusammen und versuchte, mein gesamtes Spiel auf Distanzabstände bis 240 Yards auszurichten.
+Ich stellte mir einen vollständigen Satz Muscle-Back-Eisen vom 1er-Eisen bis zum Pitching Wedge zusammen und versuchte, mein gesamtes Spiel auf Distanzabstufungen bis 240 Yards aufzubauen.
 
-Außerdem gelangen mir Abschläge mit dem Driver von rund 320 Yards.
+Außerdem schlug ich Drives von rund 320 Yards.
 
 Doch dieses Streben hatte seinen Preis.
 
-Eine Rippenknorpelverletzung zwang mich dazu, zwei Monate lang mit dem Golfspielen auszusetzen.
+Eine Verletzung des Rippenknorpels zwang mich zu einer zweimonatigen Pause.
 
-Nach meiner Rückkehr trainierte ich weiterhin intensiv mit Eisen und entwickelte schließlich Schulterschmerzen sowie chronische Schmerzen im Handgelenk.
+Nach meiner Rückkehr trainierte ich weiterhin intensiv mit Eisen und entwickelte schließlich Schulterbeschwerden sowie chronische Schmerzen im Handgelenk.
 
-Diese Erfahrungen veränderten meine Sicht auf das Spiel grundlegend.
+Diese Erfahrungen veränderten meine Sicht auf Golf grundlegend.
 
-Bis dahin hatte ich mich gefragt:
+Bis dahin hatte ich mir immer dieselbe Frage gestellt:
 
-> „Wie kann ich den Ball weiter schlagen?“
+> „Wie kann ich den Ball noch weiter schlagen?“
 
-Danach stellte ich mir eine andere Frage:
+Später lautete die Frage stattdessen:
 
-> „Wie kann ich die nächsten zwanzig Jahre Golf spielen, ohne meinen Körper zu ruinieren?“
+> „Wie kann ich in zwanzig Jahren immer noch Golf spielen, ohne meinen Körper zu ruinieren?“
 
-Mein Fokus verlagerte sich von maximaler Schlagweite hin zur optimalen Schlagweite.
+Mein Fokus verlagerte sich von maximaler Schlagweite auf optimale Schlagweite.
 
-Anstatt die Identität eines Long Hitters anzustreben, entschied ich mich dafür, ein lebenslanger Golfer zu werden.
+Anstatt ein Longhitter werden zu wollen, entschied ich mich dafür, ein Golfer fürs Leben zu werden.
 
-Auf der Suche nach einer nachhaltigen Lösung entfernte ich mich Schritt für Schritt von einem eisenzentrierten Setup und entwickelte stattdessen ein System, das auf Fairwayhölzern und Wedges basiert.
+Auf der Suche nach einem nachhaltigeren Ansatz entfernte ich mich schrittweise von einem eisenzentrierten Setup und entwickelte stattdessen ein System rund um Fairwayhölzer und Wedges.
 
-Diese Theorie ist das Ergebnis dieses Prozesses.
+Aus diesem Prozess entstand diese Theorie.
 
-Ihr langfristiges Ziel besteht darin herauszufinden, ob Golf auf Par-Niveau möglich ist, während der Körper langfristig geschützt wird.
+Ihr langfristiges Ziel besteht darin zu überprüfen, ob Golf auf Par-Niveau möglich ist, ohne den Körper langfristig zu überlasten.
 
 ---
 
-## Theory vs. Implementation
+## Theorie und Umsetzung
 
 Der Kern dieser Theorie ist keine bestimmte Schlägerzusammenstellung.
 
-Ihre Grundlage bilden vier zentrale Prinzipien:
+Ihre Grundlage bilden vier Prinzipien:
 
-- Optimierung der Managementkomplexität
+- Optimierung der Management-Komplexität
 - Rollenspezialisierung
-- Reproduzierbarkeit
+- Wiederholbarkeit
 - Nachhaltigkeit
 
-Aus diesem Grund empfiehlt diese Theorie nicht für jeden Golfer dieselbe Schlägerkonfiguration.
+Aus diesem Grund empfiehlt diese Theorie nicht dieselbe Schlägerkonfiguration für jeden Golfer.
 
 Die in diesem Dokument vorgestellte Zusammenstellung ist lediglich die aktuelle Umsetzung.
 
-Die optimale Umsetzung hängt von Schlagweite, körperlichen Voraussetzungen, Alter, Verletzungshistorie, Trainingsumgebung und persönlichen Umständen ab.
+Die optimale Umsetzung hängt von Schlagweite, körperlichen Voraussetzungen, Alter, Verletzungshistorie, Trainingsumgebung und individuellen Umständen ab.
 
 Nicht die Schläger selbst sind entscheidend.
 
-Entscheidend ist es, die Managementkomplexität zu reduzieren, klare Verantwortlichkeiten zuzuweisen und ein Golfsystem aufzubauen, das langfristig nachhaltig bleibt.
+Entscheidend ist es, Management-Komplexität zu reduzieren, jedem Schläger eine klare Aufgabe zu geben und ein langfristig nachhaltiges Golfsystem aufzubauen.
 
 ---
 
-## Current Implementation
+## Aktuelle Umsetzung
 
-In dieser Theorie erfolgt die Distanzkontrolle hauptsächlich über die Schwunglänge und die Griffposition.
+In dieser Theorie wird die Distanz hauptsächlich über Schwunglänge und Griffposition kontrolliert.
 
-Anstatt durch zusätzliche Schläger feinere Distanzabstufungen zu schaffen, erhält jeder Schläger eine klar definierte Rolle.
+Anstatt zusätzliche Schläger für kleinere Distanzabstufungen einzusetzen, erhält jeder Schläger eine klar definierte Aufgabe.
 
-In der aktuellen Umsetzung übernimmt das 3W die Rolle des Schlägers für die maximale Distanz.
+In der aktuellen Umsetzung übernimmt das 3W die Rolle des Schlägers für maximale Distanz.
 
-Der längste Schläger wird nicht allein nach seiner maximal möglichen Schlagweite ausgewählt.
+Der längste Schläger wird nicht ausschließlich nach maximaler Schlagweite ausgewählt.
 
-Er wird anhand des Gesamtgleichgewichts aus Distanz, Reproduzierbarkeit, körperlicher Belastung und Kompatibilität mit dem gesamten System ausgewählt.
+Entscheidend sind das Zusammenspiel aus Schlagweite, Wiederholbarkeit, körperlicher Belastung und die Integration in das Gesamtsystem.
 
 Die aktuelle Umsetzung besteht – ohne Putter – aus sieben Schlägern.
 
 | Schläger | Rolle | Carry-Distanz |
-|----------|-------|--------------:|
+|----------|------|--------------:|
 | 3W (15°) | Maximale Distanz | 200–240 yd |
 | 7W (21°) | Mittlere Distanz | 160–190 yd |
 | 13W (34°) | Hauptschläger | 1–150 yd |
@@ -246,193 +248,197 @@ Die aktuelle Umsetzung besteht – ohne Putter – aus sieben Schlägern.
 
 ### 3W (15°)
 
-Der Schläger für die maximale Distanz in der aktuellen Umsetzung.
+Der Schläger für maximale Distanz in der aktuellen Umsetzung.
 
-Er ist für Carry-Distanzen zwischen 200 und 240 Yards verantwortlich.
+Er deckt Carry-Distanzen von 200 bis 240 Yards ab.
 
-Das 3W bietet genügend Distanz für die Rolle des Schlägers mit maximaler Reichweite und erhält gleichzeitig die Reproduzierbarkeit des gesamten Systems.
+Das 3W liefert ausreichend Schlagweite für die Rolle des Distanzschlägers und erhält gleichzeitig die Wiederholbarkeit des gesamten Systems.
 
-In dieser Theorie wird der längste Schläger nicht allein nach der Distanz ausgewählt.
+In dieser Theorie wird der längste Schläger nicht allein aufgrund seiner Schlagweite ausgewählt.
 
-Die Auswahl erfolgt auf Grundlage von Distanz, Reproduzierbarkeit, körperlicher Belastung und der Kompatibilität mit dem gesamten System.
+Entscheidend sind Schlagweite, Wiederholbarkeit, körperliche Belastung und die Einbindung in das Gesamtsystem.
 
 ### 7W (21°)
 
 Der Schläger für mittlere Distanzen.
 
-Er ist für Carry-Distanzen zwischen 160 und 190 Yards verantwortlich.
+Er deckt Carry-Distanzen von 160 bis 190 Yards ab.
 
-Seine Aufgabe besteht darin, die Lücke zwischen dem Schläger für lange Distanzen und den Schlägern für das kurze Spiel zu schließen.
+Seine Aufgabe besteht darin, die Lücke zwischen dem Distanzschläger und den Schlägern für das kurze Spiel zu schließen.
 
 ### 13W (34°)
 
 Der Hauptschläger der aktuellen Umsetzung.
 
-Er ist für Carry-Distanzen zwischen 1 und 150 Yards verantwortlich.
+Er deckt Carry-Distanzen von 1 bis 150 Yards ab.
 
-Er wird für Rollschläge, Standard-Approachschläge und die Distanzkontrolle verwendet.
+Er wird für Bump-and-Run-Schläge, Standard-Approaches und die Distanzkontrolle verwendet.
 
-Er ist der am häufigsten verwendete Schläger des gesamten Systems.
+Er ist der am häufigsten eingesetzte Schläger im gesamten System.
 
-Bei Approachschlägen ist das 13W die Standardwahl, wenn ein Rollschlag sinnvoll ist.
+Bei Annäherungsschlägen ist das 13W die Standardwahl, sobald ein Rollschlag sinnvoll ist.
 
-Wenn ausreichend Auslauf vorhanden ist, gilt ein Rollschlag als reproduzierbarer als ein hoher Schlag mit einem Wedge.
+Wenn ausreichend Platz zum Ausrollen vorhanden ist, gilt ein Rollschlag als wiederholbarer als ein hoher Wedge-Schlag.
 
-Im bisherigen Testverlauf wurden Rollschläge mit dem 13W im Vergleich zu hohen Approachschlägen mit AW oder SW weniger von der Lage des Balls beeinflusst und lieferten stabilere Ergebnisse.
+Die bisherigen Tests zeigen, dass Rollschläge mit dem 13W weniger empfindlich auf unterschiedliche Lagen reagieren und konstantere Ergebnisse liefern als hohe Annäherungsschläge mit AW oder SW.
 
-In dieser Theorie ist das 13W nicht einfach nur ein Fairwayholz.
+In dieser Theorie ist das 13W weit mehr als nur ein Fairwayholz.
 
-Es ist der zentrale Schläger des gesamten Systems.
+Es bildet das Zentrum des gesamten Systems.
 
 ### AW (46°)
 
 Der Recovery-Schläger.
 
-Er ist für Carry-Distanzen zwischen 1 und 80 Yards verantwortlich.
+Er deckt Carry-Distanzen von 1 bis 80 Yards ab.
 
-Er wird eingesetzt, wenn Höhe erforderlich ist, ein Hindernis überwunden werden muss oder das 13W für die jeweilige Situation nicht geeignet ist.
+Er kommt zum Einsatz, wenn Höhe benötigt wird, ein Hindernis überwunden werden muss oder das 13W für die jeweilige Situation ungeeignet ist.
 
-Bei Approachschlägen kommt er zum Einsatz, wenn die Balllage dies erfordert oder sowohl eine mittlere Flughöhe als auch Vorwärtsbewegung benötigt werden.
+Bei Annäherungsschlägen wird er verwendet, wenn die Balllage dies erfordert oder sowohl Höhe als auch Vorwärtsbewegung notwendig sind.
 
-Da er den Ball leichter in die Höhe bringt als das 13W und ihn leichter nach vorne bewegt als das SW, übernimmt er die Rolle des mittleren Schlägers für kurze Distanzen.
+Da sich der Ball mit dem AW leichter anheben lässt als mit dem 13W und zugleich weiter fliegt als mit dem SW, übernimmt er die Zwischenrolle im kurzen Spiel.
 
 ### SW (58°)
 
 Der Finish-Schläger.
 
-Er ist für Carry-Distanzen zwischen 1 und 40 Yards verantwortlich.
+Er deckt Carry-Distanzen von 1 bis 40 Yards ab.
 
-Er wird verwendet, wenn maximale Höhe, maximale Stoppwirkung oder eine präzise Distanzkontrolle auf kurzer Distanz erforderlich sind.
+Er wird eingesetzt, wenn maximale Flughöhe, maximale Stoppwirkung oder höchste Präzision auf kurzer Distanz erforderlich sind.
 
-Bei Approachschlägen kommt er zum Einsatz, wenn der Ball hoch gestartet und schnell gestoppt werden muss, die Fahne nahe liegt oder Situationen wie Bunker oder tiefes Rough maximale Stoppwirkung und sichere Befreiung erfordern.
+Bei Annäherungsschlägen kommt er zum Einsatz, wenn der Ball hoch gestartet und schnell gestoppt werden soll, die Fahne nah an der Landestelle steht oder maximale Stoppwirkung aus Bunkern oder tiefem Rough benötigt wird.
 
-In dieser Theorie soll das SW keine unnötige Distanz erzeugen.
+In dieser Theorie soll das SW keine zusätzliche Distanz erzeugen.
 
-Das SW ist kein Schläger für maximale Distanz.
+Es ist kein Distanzschläger.
 
-Es ist für maximale Höhe und maximale Stoppwirkung verantwortlich.
+Seine Aufgabe besteht darin, maximale Höhe und maximale Stoppwirkung zu liefern.
 
-### Left-Handed Clubs
+### Linkshänder-Schläger
 
-Die aktuelle Umsetzung umfasst linkshändige Schläger.
+Die aktuelle Umsetzung enthält Linkshänder-Schläger.
 
-Diese Schläger sind nicht dafür gedacht, das normale rechtshändige Setup zu ersetzen.
+Sie dienen nicht dazu, das reguläre Rechtshänder-Setup zu ersetzen.
 
-Sie dienen vielmehr dazu, Situationen zu bewältigen, in denen ein herkömmlicher rechtshändiger Schlag unnötige Komplexität, übermäßige körperliche Belastung oder eine deutlich geringere Erfolgswahrscheinlichkeit mit sich bringen würde.
+Sie existieren ausschließlich für Situationen, in denen ein Rechtshänder-Schlag unnötige Komplexität, zusätzliche körperliche Belastung oder eine deutlich geringere Erfolgswahrscheinlichkeit mit sich bringen würde.
 
-In dieser Theorie werden linkshändige Schläger als Spezialwerkzeuge betrachtet.
+In dieser Theorie werden Linkshänder-Schläger als Spezialwerkzeuge betrachtet.
 
-Genauer gesagt sind sie speziell für Recovery-Situationen vorgesehen.
+Genauer gesagt sind sie ausschließlich Recovery-Werkzeuge.
 
-Ihr Zweck besteht nicht darin, die Vielfalt der Schläge zu erhöhen.
+Ihr Zweck besteht nicht darin, die Anzahl möglicher Schlagarten zu erhöhen.
 
-Ihr Zweck besteht darin, Recovery-Situationen zu vereinfachen, indem für wiederkehrende Situationen feste Lösungen bereitgestellt werden.
+Ihr Zweck besteht darin, Recovery-Situationen zu vereinfachen, indem wiederkehrende Probleme mit einer speziellen Lösung versehen werden.
 
-Ein möglicher Kritikpunkt an diesem Ansatz ist, dass linkshändige Schläger die Managementkomplexität erhöhen.
+Zu diesem Ansatz wird häufig angemerkt:
 
-Diese Kritik ist bis zu einem gewissen Grad berechtigt.
+> „Erhöht das Hinzufügen von Linkshänder-Schlägern nicht die Management-Komplexität?“
 
-Ein linkshändiger Schwung ist schließlich ein zusätzliches Bewegungsmuster, das erhalten werden muss.
+Diese Frage ist durchaus berechtigt.
 
-In der aktuellen Umsetzung wird dieser zusätzliche Aufwand jedoch bewusst begrenzt.
+Schließlich muss ein zusätzliches linkshändiges Bewegungsmuster aufrechterhalten werden.
 
-Es werden lediglich zwei linkshändige Schläger verwendet, und beide sind Hölzer.
+In der aktuellen Umsetzung wurde dieser zusätzliche Aufwand jedoch bewusst auf ein Minimum reduziert.
 
-Ein linkshändiges Wedge oder ein linkshändiger Putter werden nicht hinzugefügt.
+Es gibt lediglich zwei Linkshänder-Schläger.
 
-Der Grund dafür ist, dass die aktuelle Umsetzung kein vollständiges linkshändiges System benötigt.
+Und beide sind Fairwayhölzer.
 
-Benötigt werden lediglich zwei Recovery-Werkzeuge: eines für lange Befreiungsschläge und eines für kontrollierte Recovery-Schläge auf kurze Distanz.
+Es gibt weder ein Linkshänder-Wedge noch einen Linkshänder-Putter.
 
-Da beide Schläger Hölzer sind, teilen sie viele Bewegungsmerkmale mit dem übrigen holzbasierten System.
+Die aktuelle Umsetzung benötigt kein vollständiges Linkshänder-System.
 
-Anstatt eine völlig neue Schlägerfamilie einzuführen, erweitert diese Theorie das bestehende Bewegungsmuster der Hölzer auf die gegenüberliegende Seite.
+Sie benötigt lediglich zwei spezialisierte Recovery-Schläger – einen für lange und einen für kurze Recovery-Situationen.
 
-Die entscheidende Frage lautet nicht, wie viele Schläger vorhanden sind.
+Da beide Fairwayhölzer sind, erweitern sie lediglich das bestehende Bewegungsmuster der Fairwayhölzer auf die linke Seite.
 
-Entscheidend ist, wie viele zusätzliche Bewegungsmuster dauerhaft erhalten werden müssen.
+Es wird keine vollständig neue Schlägerfamilie eingeführt.
+
+Entscheidend ist nicht, wie viele Schläger hinzukommen.
+
+Entscheidend ist, wie viele zusätzliche Bewegungsmuster dauerhaft aufrechterhalten werden müssen.
 
 ### 5W LH (18°)
 
-Der spezielle Recovery-Schläger für lange Distanzen.
+Der spezialisierte Recovery-Schläger für lange Distanzen.
 
-Er ist für Carry-Distanzen zwischen 140 und 220 Yards verantwortlich.
+Er deckt Carry-Distanzen von 140 bis 220 Yards ab.
 
-Dies ist ein linkshändiger Schläger für lange Recovery-Situationen, die mit einem normalen rechtshändigen Setup nicht wirkungsvoll gelöst werden können.
+Dieser Linkshänder-Schläger wird in langen Recovery-Situationen eingesetzt, in denen ein Rechtshänder-Schlag praktisch nicht möglich ist.
 
-Er wird eingesetzt, wenn Bäume, Hindernisse, Hanglagen, Standbeschränkungen oder das Platzlayout einen rechtshändigen Schlag unpraktisch machen.
+Er kommt zum Einsatz, wenn Bäume, Hindernisse, Hanglagen, Standprobleme oder das Platzdesign einen Rechtshänder-Schlag unpraktisch machen.
 
-In dieser Theorie wurde das 5W LH nicht aufgenommen, um die Schlagvielfalt zu erweitern.
+Das 5W LH wurde nicht eingeführt, um zusätzliche Schlagvarianten zu schaffen.
 
-Es wurde aufgenommen, um für lange Befreiungsschläge eine reproduzierbare linkshändige Option bereitzustellen.
+Es soll vielmehr eine wiederholbare linkshändige Lösung für lange Recovery-Situationen bieten.
 
 ### 15W LH (39°)
 
-Der spezielle Recovery-Schläger für kurze Distanzen.
+Der spezialisierte Recovery-Schläger für kurze Distanzen.
 
-Er ist für Carry-Distanzen zwischen 1 und 130 Yards verantwortlich.
+Er deckt Carry-Distanzen von 1 bis 130 Yards ab.
 
-Dies ist ein linkshändiger Schläger für kurze Recovery-Situationen, die mit einem normalen rechtshändigen Setup nicht wirkungsvoll gelöst werden können.
+Dieser Linkshänder-Schläger wird für kurze Recovery-Situationen verwendet, die mit einem Rechtshänder-Schlag nur schwer zu bewältigen sind.
 
-Er folgt derselben Philosophie wie das 5W LH, konzentriert sich jedoch auf kürzere Schläge, die eine höhere Kontrolle erfordern.
+Er folgt derselben Philosophie wie das 5W LH, übernimmt jedoch Situationen mit kürzeren Distanzen und höherem Kontrollbedarf.
 
-Derzeit bieten diese linkshändigen Schläger spezialisierte Recovery-Optionen, ohne die Gesamtstruktur des Systems zu verändern.
+Derzeit ermöglichen diese beiden Linkshänder-Schläger spezialisierte Recovery-Lösungen, ohne die Grundstruktur des gesamten Systems zu verändern.
 
-Auf absehbare Zeit bleibt diese Umsetzung unverändert, während die langfristigen Tests fortgesetzt werden.
+Vorerst bleibt diese Konfiguration bestehen und wird im Rahmen der langfristigen Validierung weiter überprüft.
 
 ---
 
-## Why This Theory Exists
+## Warum diese Theorie entstanden ist
 
-Der Ausgangspunkt dieser Theorie war eine einfache Frage:
+Diese Theorie begann mit einer einfachen Frage.
 
 > „Lässt sich dasselbe Ergebnis auf einfachere und nachhaltigere Weise erreichen?“
 
-Diese Denkweise übertrug sich ganz selbstverständlich auf den Golfsport.
+Die Anwendung dieser Frage auf den Golfsport bildete den Ausgangspunkt dieser Theorie.
 
-Diese Theorie geht nicht davon aus, dass eine herkömmliche Schlägerzusammenstellung unveränderlich ist.
+Diese Theorie beginnt nicht mit der Annahme, dass eine traditionelle Schlägerzusammenstellung gegeben ist.
 
-Stattdessen hinterfragt sie die Rolle jedes einzelnen Schlägers.
+Sie beginnt damit, die Rolle jedes einzelnen Schlägers neu zu hinterfragen.
 
-Lässt sich ein komplettes Spiel um Eisen herum aufbauen?
+Ist ein auf Eisen basierendes Spielsystem wirklich die optimale Lösung?
 
-Können Fairwayhölzer die Aufgaben übernehmen, die traditionell den Eisen vorbehalten sind?
+Können Fairwayhölzer die Aufgaben übernehmen, die traditionell von Eisen erfüllt werden?
 
-Kann der Driver aus dem Kernsystem für das Scoring entfernt werden?
+Lässt sich der Driver aus dem Kern des Scoring-Systems herausnehmen?
 
-Können weniger Schläger zu einer höheren Reproduzierbarkeit führen?
+Gibt es einen Weg, eine höhere Wiederholbarkeit zu erreichen?
 
-Mit der Zeit entwickelten sich diese Fragen zu systematischen Tests.
+Aus diesen Fragen entwickelte sich schließlich ein systematischer Validierungsprozess.
 
 Diese Theorie ist das Ergebnis dieses Prozesses.
 
-Sie entstand nicht aus einer einzelnen Idee.
+Sie entstand nicht aus einer einzigen Idee.
 
-Sie entstand aus der kontinuierlichen Neubewertung der traditionellen Rollen von Schlägern und der Suche nach Möglichkeiten, mit weniger Variablen und geringerer körperlicher Belastung dieselben oder sogar bessere Ergebnisse zu erzielen.
+Sie entstand aus der kontinuierlichen Neubewertung der Rollen traditioneller Schläger und der Suche nach einer Möglichkeit, mit weniger Variablen und geringerer körperlicher Belastung gleiche oder sogar bessere Ergebnisse zu erzielen.
 
 ---
 
-## Core Principles
+## Grundprinzipien
 
-Die Lifelong Golfer Theorie basiert auf vier Grundprinzipien.
+Die Lifelong-Golfer-Theorie basiert auf vier Grundprinzipien.
 
-Alles, was in diesem Dokument vorgestellt wird, lässt sich letztlich auf diese vier Prinzipien zurückführen.
+Alles, was in diesem Dokument beschrieben wird, lässt sich letztlich auf diese vier Prinzipien zurückführen.
 
-### Optimierung der Managementkomplexität
+### Optimierung der Management-Komplexität
 
-Reduziere die Anzahl der Elemente, die kontinuierlich verwaltet werden müssen.
+Die Anzahl der Elemente reduzieren, die dauerhaft verwaltet werden müssen.
 
-Weniger Verwaltungsaufwand ermöglicht es, sich stärker auf die Ausführung zu konzentrieren.
+Je weniger verwaltet werden muss, desto stärker kann sich die Aufmerksamkeit auf die eigentliche Ausführung konzentrieren.
 
 ### Rollenspezialisierung
 
-Weise jedem Schläger einen klar definierten Verantwortungsbereich zu.
+Jedem Schläger eine klar definierte Aufgabe zuweisen.
 
-Anstatt von einem einzelnen Schläger zu verlangen, unbegrenzt viele Aufgaben zu übernehmen, definiert diese Theorie den Verantwortungsbereich jedes Schlägers eindeutig und legt Wert auf ein tiefes Verständnis dieser Aufgabe.
+Anstatt von einem einzelnen Schläger unbegrenzt viele Aufgaben zu verlangen, wird jede Rolle eindeutig definiert und gezielt vertieft.
 
-### Reproduzierbarkeit
+### Wiederholbarkeit
 
-Zuverlässige und wiederholbare Leistung ist wichtiger als gelegentliche Höchstleistungen.
+Leistungen bevorzugen, die sich zuverlässig wiederholen lassen, anstatt kurzfristige Spitzenleistungen anzustreben.
 
 Das Ziel ist nicht der perfekte Schlag.
 
@@ -440,67 +446,67 @@ Das Ziel ist ein Schlag, der sich zuverlässig wiederholen lässt.
 
 ### Nachhaltigkeit
 
-Jede Entscheidung sollte die Fähigkeit unterstützen, langfristig Golf spielen zu können.
+Jede Entscheidung sollte dazu beitragen, langfristig Golf spielen zu können.
 
-Leistung, die durch unnötige körperliche Belastung erreicht wird, gilt nicht als nachhaltig.
+Leistung, die nur durch unnötige körperliche Belastung erreicht wird, gilt in dieser Theorie nicht als nachhaltig.
 
 ---
 
-## Optimierung der Managementkomplexität
+## Optimierung der Management-Komplexität
 
-Die Anzahl der Schläger zu reduzieren, ist nicht das Ziel dieser Theorie.
+Die Anzahl der Schläger zu reduzieren ist nicht das eigentliche Ziel dieser Theorie.
 
 Es ist lediglich eine Konsequenz.
 
-Das eigentliche Ziel besteht darin, die Anzahl der Dinge zu reduzieren, die verwaltet werden müssen.
+Reduziert werden sollen die Elemente, die dauerhaft verwaltet werden müssen.
 
 Golf ist eine fortlaufende Abfolge von Entscheidungen.
 
 Vor jedem Schlag müssen unter anderem folgende Entscheidungen getroffen werden:
 
 - Wahl des Schlägers
-- Art des Schwungs
+- Wahl des Schwungtyps
 - Ballposition
 - Ziellinie
 - Schlagstrategie
 
-Jede Entscheidung beansprucht Aufmerksamkeit.
+Jede einzelne Entscheidung beansprucht Aufmerksamkeit.
 
-Je mehr Variablen vorhanden sind, desto größer wird der mentale Aufwand während des Spiels.
+Je mehr Variablen verwaltet werden müssen, desto höher wird die mentale Belastung während der Runde.
 
-Diese Theorie versucht, Entscheidungen zu reduzieren, die die Scoring-Leistung nicht unmittelbar verbessern.
+Diese Theorie verfolgt das Ziel, Entscheidungen zu reduzieren, die nicht unmittelbar zu besseren Ergebnissen beitragen.
 
-Reduziere die Anzahl der Schläger.
+Weniger Schläger.
 
-Reduziere die Bewegungsmuster.
+Weniger Bewegungsmuster.
 
-Verzichte auf Tees.
+Keine Tees.
 
-Verzichte auf Handschuhe.
+Keine Handschuhe.
 
-Weise jedem Schläger eine klare Aufgabe zu.
+Klare Rollen.
 
-Alle diese Entscheidungen folgen derselben Philosophie.
+All diese Entscheidungen folgen derselben Grundidee.
 
-Reduziere unnötigen Verwaltungsaufwand.
+Unnötigen Verwaltungsaufwand reduzieren.
 
-Erhöhe die Reproduzierbarkeit.
+Die Wiederholbarkeit erhöhen.
 
-Einfachheit ist nicht das Ziel.
+Das Ziel ist nicht Einfachheit.
 
-Optimierung ist das Ziel.
+Das Ziel ist Optimierung.
 
 ---
 
-## Why Reduce Movement Patterns?
+## Warum Bewegungsmuster reduzieren?
 
-Als ich mit dem Golfspielen begann, blieb mir eine Aussage besonders im Gedächtnis:
+Als ich mit Golf begann, blieb mir eine Aussage besonders im Gedächtnis:
 
-> „Es gibt sehr viel zu lernen.“
+> „Golf ist schwierig, weil man so viele Dinge lernen muss.“
 
-Damals nahm ich diese Aussage einfach als gegeben hin.
+Damals akzeptierte ich diese Aussage ohne sie zu hinterfragen.
 
-Jeder Schläger schien eine andere Bewegung zu erfordern.
+Ich ging davon aus, dass jeder Schläger ein eigenes Bewegungsmuster erforderte.
 
 Driver.
 
@@ -514,313 +520,324 @@ Wedge.
 
 Putter.
 
-Hinzu kamen für jede Balllage und jede Spielsituation weitere Variablen.
+Hinzu kamen weitere Variablen durch unterschiedliche Balllagen und Spielsituationen.
 
 - Ein aufgeteeter Ball
 - Ein Ball auf dem Boden
 - Rough
 - Bunker
-- Schräge Lagen
+- Hanglagen
 
-Selbst auf einer flachen Übungsmatte schien es unzählige Wiederholungen zu benötigen, um jeden Schläger konstant sauber zu treffen.
+Selbst auf einer vollkommen ebenen Übungsmatte hatte ich das Gefühl, dass jeder einzelne Schläger unzählige Wiederholungen erforderte, bevor ich ihn konstant schlagen konnte.
 
-In den ersten Monaten konnte ich weder Hybrids noch Fairwayhölzer zuverlässig schlagen.
+Während meiner ersten Monate konnte ich weder Hybrids noch Fairwayhölzer zuverlässig schlagen.
 
-Da ich bereits innerhalb von drei Monaten nach Beginn meines Unterrichts meine erste vollständige Runde spielen wollte, erschien ein auf Eisen basierendes Setup damals als die reproduzierbarste Lösung.
+Da ich bereits innerhalb von drei Monaten nach Beginn meines Unterrichts meine erste 18-Loch-Runde spielen wollte, erschien mir damals ein eisenzentriertes Setup als die wiederholbarste Lösung.
 
-Später änderte sich diese Annahme.
+Diese Sichtweise änderte sich jedoch später.
 
-Als ich begann, Golf als etwas zu betrachten, das ich mein Leben lang spielen wollte, wurde mir klar, dass es nicht unbedingt die beste Lösung war, einfach die Anzahl der Schläger zu erhöhen, die ich beherrschte.
+Als ich begann, Golf als einen Sport zu betrachten, den ich mein ganzes Leben lang spielen möchte, fragte ich mich, ob immer mehr Schläger wirklich die beste Lösung sind.
 
-Schließlich änderte sich sogar die Fragestellung selbst.
+Schließlich änderte sich die eigentliche Fragestellung.
 
-Anstatt zu fragen,
+Ich fragte mich nicht mehr:
 
 > „Welchen Schläger sollte ich als Nächstes lernen?“
 
-fragte ich mich:
+Sondern:
 
 > „Wie viele Bewegungsmuster brauche ich tatsächlich?“
 
-Jedes zusätzliche Bewegungsmuster erfordert Zeit zum Erlernen.
+Jedes neue Bewegungsmuster kostet Zeit, um es zu erlernen.
 
-Noch wichtiger ist jedoch, dass es kontinuierliches Training benötigt, um erhalten zu bleiben.
+Noch wichtiger ist jedoch, dass es dauerhaft trainiert werden muss, um erhalten zu bleiben.
 
-Je mehr Bewegungsmuster vorhanden sind, desto höher werden die langfristigen Wartungskosten.
+Je mehr Bewegungsmuster existieren, desto höher werden ihre langfristigen Erhaltungskosten.
 
-Diese Theorie betrachtet Wartungskosten als ebenso wichtig wie Lernkosten.
+Diese Theorie betrachtet Erhaltungskosten als ebenso wichtig wie Lernkosten.
 
-Golf besteht letztlich darin, den Ball voranzubringen und einen Score zu erzielen.
+Im Kern geht es beim Golf darum, den Ball nach vorne zu bewegen und Ergebnisse zu erzielen.
 
-Wenn das so ist, könnte ein tiefes Verständnis von weniger Bewegungsmustern langfristig nachhaltiger sein.
+Wenn das so ist, dann könnte ein tiefes Verständnis weniger Bewegungsmuster langfristig die nachhaltigere Lösung sein.
 
-Diese Theorie versucht nicht, Probleme durch mehr Werkzeuge zu lösen.
+Diese Theorie versucht nicht, Probleme durch zusätzliche Werkzeuge zu lösen.
 
-Sie versucht, Probleme durch ein tieferes Verständnis von weniger Werkzeugen zu lösen.
+Sie versucht, Probleme durch ein tieferes Verständnis weniger Werkzeuge zu lösen.
 
-Die aktuelle holzbasierte Umsetzung ist das Ergebnis dieser Philosophie.
+Die heutige Umsetzung mit Fairwayhölzern als Zentrum des Systems entstand genau aus diesem Gedanken.
 
 ---
 
-## Why Prioritize the Ability to Recover?
+## Warum Recovery priorisieren?
 
-Eine häufige Frage zu dieser Theorie lautet:
+Eine der häufigsten Fragen zu dieser Theorie lautet:
 
-> „Was passiert, wenn deine Fairwayhölzer plötzlich nicht mehr funktionieren?“
+> „Was passiert, wenn deine Fairwayhölzer nicht funktionieren?“
 
-Das ist eine berechtigte Sorge.
+Diese Frage ist vollkommen berechtigt.
 
-Ein herkömmliches Setup bietet in der Regel mehrere Alternativen.
+Eine klassische Schlägerzusammenstellung bietet zahlreiche Alternativen.
 
-Wenn der Driver nicht funktioniert, verwendet man ein Fairwayholz.
+Wenn der Driver nicht funktioniert, nimmt man ein Fairwayholz.
 
-Wenn das Fairwayholz nicht funktioniert, verwendet man ein Hybrid.
+Wenn das Fairwayholz nicht funktioniert, nimmt man ein Hybrid.
 
-Wenn das Hybrid nicht funktioniert, verwendet man ein Eisen.
+Wenn das Hybrid nicht funktioniert, greift man zum Eisen.
 
-Diese Theorie reduziert diese Alternativen bewusst.
+Diese Theorie reduziert solche Alternativen jedoch bewusst.
 
 Der Grund ist einfach.
 
-Sie stellt Beherrschung über Redundanz.
+Sie stellt Meisterschaft über Redundanz.
 
-Anstatt Probleme durch einen Schlägerwechsel zu lösen, fördert sie, Probleme mit dem Schläger zu lösen, der bereits für diese Aufgabe vorgesehen ist.
+Anstatt bei Problemen den Schläger zu wechseln, soll die Aufgabe mit genau dem Schläger gelöst werden, der dafür vorgesehen ist.
 
-Mehr Auswahlmöglichkeiten können Sicherheit vermitteln.
+Mehr Auswahl vermittelt Sicherheit.
 
-Weniger Auswahlmöglichkeiten können zu einem tieferen Verständnis führen.
+Weniger Auswahl führt dagegen zu einem tieferen Verständnis jedes einzelnen Schlägers.
 
 Diese Theorie entscheidet sich bewusst für Letzteres.
 
 ---
 
-## Why This Theory Does Not Use Irons
+## Warum diese Theorie keine Eisen verwendet
 
-In der aktuellen Umsetzung verwendet diese Theorie keine Eisen.
+In der aktuellen Umsetzung werden keine Eisen verwendet.
 
-Das liegt nicht daran, dass Eisen schlechte Schläger wären.
+Das bedeutet jedoch nicht, dass Eisen schlechte Schläger sind.
 
-Ganz im Gegenteil – Eisen sind hervorragende Werkzeuge.
+Ganz im Gegenteil.
+
+Eisen sind hervorragende Schläger.
 
 Die eigentliche Frage lautet:
 
-> Sind Eisen die beste langfristige Lösung für dieses System?
+> „Sind Eisen für dieses System langfristig wirklich die optimale Wahl?“
 
-Anfangs erschien ein auf Eisen basierendes Setup durchaus sinnvoll.
+Anfangs hielt ich ein eisenzentriertes Setup für die vernünftigste Lösung.
 
-Nachdem ich jedoch langfristige Nachhaltigkeit, den erforderlichen Trainingsaufwand, die Reproduzierbarkeit und die Wartungskosten berücksichtigt hatte, kam ich zu dem Schluss, dass Eisen für die aktuelle Umsetzung dieser Theorie nicht geeignet sind.
+Nach der Berücksichtigung von langfristiger Nachhaltigkeit, notwendigem Trainingsaufwand, Wiederholbarkeit und Erhaltungskosten kam ich jedoch zu dem Schluss, dass Eisen für die aktuelle Umsetzung dieser Theorie nicht die beste Wahl sind.
 
-Die entscheidenden Kriterien waren:
+Diese Entscheidung basiert auf vier Kriterien:
 
 - Langfristige Nachhaltigkeit
 - Erforderlicher Trainingsaufwand
-- Reproduzierbarkeit
-- Wartungskosten
+- Wiederholbarkeit
+- Erhaltungskosten
 
 Viele erfahrene Golfer sagen irgendwann:
 
 > „Ich kann meine Eisen nicht mehr so schlagen wie früher.“
 
-Die Gründe dafür können Alter, Verletzungen, weniger Trainingszeit oder andere körperliche Veränderungen sein.
+Die Gründe dafür können unterschiedlich sein.
 
-Diese Beobachtung begegnet einem jedoch immer wieder in der Golfgemeinschaft.
+Alter.
 
-Auf Grundlage meiner eigenen Erfahrungen entschied ich mich, nicht bis zu diesem Zeitpunkt zu warten.
+Verletzungen.
 
-Stattdessen überträgt diese Theorie die traditionellen Aufgaben der Eisen auf Fairwayhölzer und Wedges.
+Weniger Training.
+
+Oder andere körperliche Veränderungen.
+
+Solche Aussagen hört man im Golfsport immer wieder.
+
+Aufgrund meiner eigenen Erfahrungen entschied ich mich, nicht zu warten, bis dieser Zeitpunkt eintritt.
+
+Stattdessen übernimmt in dieser Theorie das Fairwayholz die Aufgaben, die traditionell von Eisen übernommen wurden.
 
 Diese Theorie lehnt Eisen nicht ab.
 
-Sie verteilt ihre Aufgaben lediglich anders.
+Sie definiert lediglich ihre Rolle neu.
 
 ---
 
-## Why This Theory Does Not Use Hybrids
+## Warum diese Theorie keine Hybrids verwendet
 
-In der aktuellen Umsetzung verwendet diese Theorie keine Hybrids.
+In der aktuellen Umsetzung werden keine Hybrids verwendet.
 
-Der Grund ist nicht die Distanz.
+Der Grund ist nicht die Schlagweite.
 
-Der Grund ist die langfristige Nachhaltigkeit.
+Der Grund ist langfristige Nachhaltigkeit.
 
-Während der Testphase erwiesen sich Fairwayhölzer bei vergleichbaren Lofts als besser geeignet für diese Theorie als Hybrids.
+Nach zahlreichen Tests kam ich zu dem Ergebnis, dass Fairwayhölzer mit vergleichbaren Lofts besser zu dieser Theorie passen als Hybrids.
 
-Die wichtigsten Gründe waren:
+Die wichtigsten Gründe sind:
 
-- Eine breitere Sohle
-- Sanftere Interaktion mit dem Boden
+- Breitere Sohle
+- Sanfterer Kontakt mit dem Rasen
 - Einfacherer Ballstart
 - Mehr Höhe bei geringerem Kraftaufwand
-- Geringere Belastung der Handgelenke
 
-Fairwayhölzer ermöglichten es außerdem, Höhe und Distanz mit weniger körperlichem Aufwand zu erzeugen.
+Fairwayhölzer ermöglichen Höhe und Schlagweite mit geringerer körperlicher Belastung.
 
-Diese Theorie behauptet nicht, dass Hybrids ungeeignet sind.
+Diese Theorie behauptet nicht, dass Hybrids schlechte Schläger seien.
 
 Für viele Golfer sind Hybrids ausgezeichnete Schläger.
 
-Im Rahmen der Prinzipien dieses Systems erfüllten Fairwayhölzer jedoch dieselben Aufgaben mit weniger Kompromissen.
+Innerhalb der Prinzipien dieses Systems erwiesen sich Fairwayhölzer jedoch als besser geeignet.
 
-Aus diesem Grund sind Hybrids in der aktuellen Umsetzung nicht enthalten.
+Aus diesem Grund werden in der aktuellen Umsetzung keine Hybrids verwendet.
 
 ---
 
-## Why This Theory Limits Wedge Distances
+## Warum diese Theorie die Schlagweite von Wedges begrenzt
 
-In dieser Theorie dienen Wedges nicht dazu, maximale Distanz zu erzielen.
+In dieser Theorie besteht die Aufgabe von Wedges nicht darin, maximale Schlagweite zu erzeugen.
 
 Ihre Aufgabe ist Präzision.
 
-Sie werden eingesetzt, um vorhersehbare Flughöhen und Landepunkte zu erzeugen und dabei unnötige körperliche Belastung zu minimieren.
+Ziel ist es, vorhersehbare Flugbahnen und Landepunkte zu erzeugen und dabei unnötige körperliche Belastung auf ein Minimum zu reduzieren.
 
-Anstatt Distanz durch eine aggressive Technik zu erzwingen, legt diese Theorie den Schwerpunkt auf eine stabile Sohlenführung und reproduzierbaren Ballkontakt.
+Anstatt Schlagweite durch aggressive Technik zu erzeugen, legt diese Theorie Wert auf einen stabilen Bodenkontakt der Sohle und einen wiederholbaren Treffmoment.
 
-Der Schwerpunkt liegt nicht auf Kraft.
+Nicht Kraft steht im Mittelpunkt.
 
-Der Schwerpunkt liegt auf Konstanz.
+Sondern Konstanz.
 
 In der aktuellen Umsetzung gilt:
 
-- Das SW (58°) ist für Carry-Distanzen zwischen 1 und 40 Yards verantwortlich.
-- Das AW (46°) ist für Carry-Distanzen zwischen 1 und 80 Yards verantwortlich.
+- Das SW (58°) deckt Carry-Distanzen von 1 bis 40 Yards ab.
+- Das AW (46°) deckt Carry-Distanzen von 1 bis 80 Yards ab.
 
-Die grundlegende Aufgabe der Wedges ist eindeutig.
+Die Aufgaben der Wedges sind klar definiert.
 
-Den Ball in die Luft bringen.
+Den Ball hoch spielen.
 
 Den Landepunkt kontrollieren.
 
-Den Ball zum Stoppen bringen.
+Den Ball stoppen.
 
-Wenn ein Rollschlag möglich ist oder ein längerer Approach sinnvoller ist, geht diese Aufgabe an das 13W über.
+Wenn ein Rollschlag sinnvoller ist oder ein längerer Annäherungsschlag die bessere Wahl darstellt, übernimmt das 13W diese Aufgabe.
 
-Diese Theorie verlangt von Wedges nicht, jede denkbare Schlagart auszuführen.
+Diese Theorie erwartet nicht, dass Wedges jede Art von Schlag übernehmen.
 
-Jedem Schläger wird eine klar definierte Aufgabe zugewiesen.
+Jeder Schläger erhält eine klar definierte Rolle.
 
-In der aktuellen Umsetzung sind die Aufgaben wie folgt aufgeteilt:
+In der aktuellen Umsetzung sind die Aufgaben wie folgt verteilt:
 
-- Rollende Approaches → 13W / AW
+- Rollschläge → 13W / AW
 - Schläge, die sowohl Höhe als auch Vorwärtsbewegung erfordern → AW
 - Maximale Höhe und maximale Stoppwirkung → SW
 
-Diese Rollenverteilung reduziert Überschneidungen zwischen den Schlägern und stärkt die Rollenspezialisierung innerhalb des gesamten Systems.
+Durch diese Rollenverteilung werden Überschneidungen zwischen den Schlägern reduziert und die Rollenspezialisierung des gesamten Systems gestärkt.
 
 ---
 
-## Why This Theory Does Not Use a Driver
+## Warum diese Theorie keinen Driver verwendet
 
-In der aktuellen Umsetzung verwendet diese Theorie den Driver nicht als primären Schläger für das Scoring.
+In der aktuellen Umsetzung wird der Driver nicht als zentraler Schläger für das Scoring eingesetzt.
 
-Der Grund ist nicht die Distanz.
+Der Grund ist nicht die Schlagweite.
 
-Der Grund sind Reproduzierbarkeit, Nachhaltigkeit und die Vereinfachung des Systems.
+Die Gründe sind Wiederholbarkeit, Nachhaltigkeit und Vereinfachung des Systems.
 
-Ein Driver ist dafür ausgelegt, einen aufgeteeten Ball zu schlagen.
+Ein Driver wurde dafür entwickelt, einen aufgeteeten Ball zu schlagen.
 
-Ein Fairwayholz hingegen ist dafür ausgelegt, den Ball vom Boden zu spielen.
+Ein Fairwayholz hingegen wurde dafür entwickelt, einen Ball direkt vom Boden zu spielen.
 
-Der Einsatz eines Drivers bringt zusätzliche Variablen mit sich, beispielsweise:
+Der Einsatz eines Drivers führt zusätzliche Variablen ein:
 
 - Höhe des Tees
-- Aufwärts gerichteter Eintreffwinkel
-- Driver-spezifisches Schwungmuster
+- Aufwärtsbewegung im Treffmoment
+- Ein driverspezifisches Schwungmuster
 
-Ich kann mit einem Driver eine sehr hohe maximale Schlägerkopfgeschwindigkeit erzeugen.
+Natürlich kann ein Driver mehr Schlagweite erzeugen als das in der aktuellen Umsetzung verwendete 3W.
 
-Diese Theorie stellt jedoch eine stabile Leistung über die maximale Leistung.
+Diese Theorie priorisiert jedoch nachhaltige Leistung gegenüber maximaler Leistung.
 
-Anstatt Probleme erst nach ihrem Auftreten zu lösen, legt diese Theorie den Schwerpunkt darauf, die Variablen zu reduzieren, die diese Probleme überhaupt erst verursachen.
+Anstatt Probleme erst zu lösen, nachdem sie entstanden sind, versucht sie die Variablen zu reduzieren, aus denen diese Probleme überhaupt entstehen.
 
-Aus diesem Grund übernimmt in der aktuellen Umsetzung das 3W und nicht der Driver die Rolle des Schlägers für maximale Distanz.
+Aus diesem Grund übernimmt in der aktuellen Umsetzung das 3W – und nicht der Driver – die Rolle des Schlägers für maximale Distanz.
 
-Die Priorität liegt nicht auf maximaler Distanz.
+Im Mittelpunkt steht nicht die größtmögliche Schlagweite.
 
-Die Priorität liegt auf einer ausreichenden Distanz, die zuverlässig reproduziert werden kann.
+Entscheidend ist eine ausreichende Schlagweite, die sich zuverlässig wiederholen lässt.
 
 ---
 
-## Why This Theory Does Not Use Tees
+## Warum diese Theorie keine Tees verwendet
 
-Diese Theorie behandelt den ersten Schlag eines Lochs nicht als eigene Kategorie.
+Diese Theorie behandelt den ersten Schlag eines Lochs nicht als Ausnahme.
 
-Aus diesem Grund werden in der aktuellen Umsetzung keine Tees verwendet.
+Deshalb werden in der aktuellen Umsetzung keine Tees verwendet.
 
-Der Schläger für maximale Distanz ist das 3W, und alle Schläge werden auf derselben Grundlage – vom Boden aus – gespielt.
+Der Schläger für maximale Distanz ist das 3W, und sämtliche Schläge werden direkt vom Boden gespielt.
 
-Dadurch wird vermieden, dass für den ersten Schlag ein separates Grundprinzip eingeführt wird.
+So wird vermieden, nur für den ersten Schlag eine eigene Ausgangssituation zu schaffen.
 
-Der Verzicht auf Tees beseitigt außerdem zusätzliche Verwaltungsaufgaben:
+Der Verzicht auf Tees reduziert außerdem zusätzlichen Verwaltungsaufwand:
 
 - Tees kaufen
 - Tees mitführen
-- Tees platzieren
-- Tees aufheben
+- Tees in den Boden stecken
+- Tees wieder einsammeln
 - Zerbrochene Tees entsorgen
-- Den Vorrat an Tees auffüllen
+- Neue Tees nachfüllen
 
-Natürlich bedeutet das Spielen vom Boden, den Einfluss der Balllage zu akzeptieren.
+Natürlich bedeutet das Spiel vom Boden, den Einfluss der Balllage zu akzeptieren.
 
-Das ist beabsichtigt.
+Das ist eine bewusste Entscheidung.
 
-Nach dem ersten Schlag muss ohnehin jeder weitere Schlag an die Balllage angepasst werden.
+Nach dem ersten Schlag muss ohnehin jeder weitere Schlag an die jeweilige Lage angepasst werden.
 
-Diese Theorie macht den ersten Schlag nicht zur Ausnahme.
+Diese Theorie macht den ersten Schlag deshalb nicht zu einer Ausnahme.
 
-Der erste Schlag und alle folgenden Schläge werden als Teil desselben bodenbasierten Systems behandelt.
+Der erste Schlag und alle folgenden Schläge gehören zum selben bodenbasierten System.
 
-Dies ist keine Entscheidung gegen Distanz.
+Dabei geht es nicht darum, Schlagweite aufzugeben.
 
-Es ist eine Entscheidung, Variablen zu reduzieren und die Reproduzierbarkeit zu erhöhen.
+Es geht darum, Variablen zu reduzieren und die Wiederholbarkeit zu erhöhen.
 
 ---
 
-## The Role of the Driver
+## Die Rolle des Drivers
 
 Diese Theorie lehnt den Driver selbst nicht ab.
 
-Der Driver ist ein hervorragender Schläger, wenn es darum geht, maximale Distanz zu erzielen.
+Der Driver ist ein hervorragender Schläger, wenn das Ziel maximale Schlagweite ist.
 
-Ich selbst habe ihn ebenfalls verwendet, als ich der maximalen Schlagweite nachjagte.
+Auch ich habe den Driver genutzt, als ich maximale Schlagweite anstrebte.
 
-Mit einem aggressiven Schwung kann er eine höhere maximale Schlägerkopfgeschwindigkeit und größere Distanzen erzeugen als das derzeit verwendete 3W.
+Natürlich kann ein Driver mehr Schlagweite erzeugen als das in der aktuellen Umsetzung verwendete 3W.
 
-Diese Theorie stellt jedoch nachhaltige Leistung über maximale Leistung.
+Diese Theorie priorisiert jedoch nachhaltige Leistung gegenüber maximaler Leistung.
 
-Aus diesem Grund wurde der Driver in der aktuellen Umsetzung aus dem Kernsystem für das Scoring entfernt.
+Aus diesem Grund gehört der Driver in der aktuellen Umsetzung nicht mehr zum Kern des Scoring-Systems.
 
-Der Driver wird nicht als Scoring-Schläger betrachtet, sondern als Schläger zur Erzielung maximaler Distanz.
+Der Driver wird nicht als Schläger zum Erzielen von Ergebnissen betrachtet.
 
-Mit anderen Worten:
+Er wird als Schläger zur Maximierung der Schlagweite betrachtet.
 
-- Driver = Maximale Distanz
-- 3W und darunter = Scoring-Konfiguration
+Das bedeutet:
 
-Der Schläger für maximale Distanz in der aktuellen Umsetzung ist das 3W.
+- Driver = Maximale Schlagweite
+- 3W und kürzere Schläger = Scoring-System
 
-Der Driver wurde nicht ausgemustert.
+In der aktuellen Umsetzung übernimmt das 3W die Rolle des Schlägers für maximale Distanz.
 
-Seine Rolle hat sich verändert.
+Der Driver wurde nicht aufgegeben.
+
+Seine Rolle wurde lediglich neu definiert.
 
 ---
 
-## Why This Theory Does Not Use Gloves
+## Warum diese Theorie keine Handschuhe verwendet
 
-In der aktuellen Umsetzung verwendet diese Theorie keine Golfhandschuhe.
+In der aktuellen Umsetzung werden keine Golfhandschuhe verwendet.
 
-Als ich mit dem Golfspielen begann, trug ich Handschuhe an beiden Händen.
+Als ich mit Golf begann, trug ich an beiden Händen Handschuhe.
 
-Trotzdem bekam ich gelegentlich Blasen oder Hautreizungen.
+Trotzdem entstanden Blasen und Hautreizungen.
 
-Damals glaubte ich, Handschuhe seien notwendig, um meine Hände zu schützen.
+Damals war ich überzeugt, dass Handschuhe notwendig seien, um die Hände zu schützen.
 
-Mit zunehmender Stabilität meines Griffs und meines Schwungs änderte sich diese Sichtweise jedoch.
+Mit zunehmender Stabilität meines Griffs und meines Schwungs änderte sich diese Sichtweise.
 
-Ein reproduzierbarer Schwung erfordert keinen übermäßigen Griffdruck.
+Ein wiederholbarer Schwung erfordert keinen übermäßig festen Griff.
 
-Mit dem Wegfall unnötiger Anspannung wurden Handschuhe nicht länger unverzichtbar.
+Als unnötige Anspannung verschwand, wurden auch Handschuhe überflüssig.
 
-Der Verzicht auf Handschuhe beseitigt außerdem zusätzliche Verwaltungsaufgaben:
+Der Verzicht auf Handschuhe reduziert außerdem zusätzlichen Verwaltungsaufwand:
 
 - Handschuhe kaufen
 - Handschuhe mitführen
@@ -829,95 +846,95 @@ Der Verzicht auf Handschuhe beseitigt außerdem zusätzliche Verwaltungsaufgaben
 - Handschuhe trocknen
 - Handschuhe ersetzen
 
-Außerdem entfallen typische Probleme im Zusammenhang mit Handschuhen, wie zum Beispiel:
+Außerdem werden dadurch Probleme reduziert wie:
 
 - Verhärtung durch Schweiß
 - Verschmutzung
-- Verrutschen innerhalb des Handschuhs
+- Verrutschen der Hand im Handschuh
 - Bräunungslinien durch Handschuhe
 
-Das Spielen ohne Handschuhe ist ein Bestandteil der Optimierung der Managementkomplexität innerhalb dieser Theorie.
+Auch der Verzicht auf Handschuhe ist Teil der Optimierung der Management-Komplexität in dieser Theorie.
 
 ---
 
-## Why This Theory Does Not Use a Chipper
+## Warum diese Theorie keinen Chipper verwendet
 
-In der aktuellen Umsetzung verwendet diese Theorie keinen Chipper.
+In der aktuellen Umsetzung wird kein Chipper verwendet.
 
 Der Grund ist einfach.
 
-Die Aufgabe eines Chippers wird im aktuellen System bereits von anderen Schlägern übernommen.
+Seine Aufgabe wird bereits von anderen Schlägern innerhalb des Systems übernommen.
 
-In der aktuellen Umsetzung sind die Aufgaben wie folgt aufgeteilt:
+In der aktuellen Umsetzung verteilen sich die Aufgaben wie folgt:
 
-- Rollende Approaches → 13W / AW
+- Rollschläge → 13W / AW
 - Schläge, die sowohl Höhe als auch Vorwärtsbewegung erfordern → AW
 - Maximale Höhe und maximale Stoppwirkung → SW
 
-Bevor ein neuer Schläger hinzugefügt wird, stellt diese Theorie zunächst die Frage, ob das bestehende System das Problem bereits lösen kann.
+Bevor ein neuer Schläger hinzugefügt wird, fragt diese Theorie zunächst, ob das bestehende System das Problem bereits lösen kann.
 
-Ein zusätzlicher Schläger schafft mehr Auswahlmöglichkeiten.
+Ein zusätzlicher Schläger erweitert zwar die Auswahlmöglichkeiten.
 
-Gleichzeitig erhöht er jedoch auch die Managementkomplexität.
+Gleichzeitig erhöht er jedoch auch die Management-Komplexität.
 
-Deshalb stellt diese Theorie vor der Einführung eines neuen Werkzeugs folgende Fragen:
+Deshalb stellt diese Theorie vor jeder Erweiterung des Systems zwei Fragen:
 
-- Kann das aktuelle System dieses Problem lösen?
-- Kann die erforderliche Fähigkeit mit einem bereits vorhandenen Schläger entwickelt werden?
+- Kann das bestehende System dieses Problem bereits lösen?
+- Kann die erforderliche Fähigkeit mit den vorhandenen Schlägern erlernt werden?
 
-Erst wenn die Antwort auf diese Fragen „Nein“ lautet, sollte ein neuer Schläger in Betracht gezogen werden.
+Erst wenn beide Fragen mit Nein beantwortet werden, wird ein neuer Schläger überhaupt in Betracht gezogen.
 
-In der aktuellen Umsetzung ist ein Chipper nicht notwendig.
+In der aktuellen Umsetzung ist ein Chipper nicht erforderlich.
 
 Diese Theorie lehnt Chipper nicht ab.
 
-Sie kommt lediglich zu dem Schluss, dass ihre Aufgabe bereits vom bestehenden System übernommen wird.
+Sie kommt lediglich zu dem Schluss, dass ihre Aufgabe innerhalb des bestehenden Systems bereits vollständig erfüllt wird.
 
 ---
 
 ## KPI
 
-### Short-Term Goals
+### Kurzfristige Ziele
 
-- Die 90 von den weißen Abschlägen unterbieten.
-- Von den blauen Abschlägen konstant unter 100 spielen.
-
----
-
-### Mid-Term Goals
-
-- Von den blauen Abschlägen konstant Ergebnisse in den 90ern erzielen.
-- Ohne größere Verletzungen weiterhin Golf spielen.
+- Eine Runde unter 90 Schlägen von den weißen Abschlägen spielen.
+- Regelmäßig unter 100 Schlägen von den blauen Abschlägen bleiben.
 
 ---
 
-### Long-Term Goals
+### Mittelfristige Ziele
+
+- Von den blauen Abschlägen regelmäßig Ergebnisse in den 90ern erzielen.
+- Langfristig Golf spielen, ohne schwere Verletzungen zu erleiden.
+
+---
+
+### Langfristige Ziele
 
 - Golf auf Par-Niveau erreichen.
-- Ein Golfsystem etablieren, das ein Leben lang aufrechterhalten werden kann.
+- Ein Golfsystem vollenden, das ein Leben lang aufrechterhalten werden kann.
 
 ---
 
-## Conclusion
+## Schlusswort
 
 Diese Theorie ist noch nicht abgeschlossen.
 
-Die Weiterentwicklung geht weiter.
+Die Validierung dauert an.
 
 Mit jeder neuen Beobachtung können sich sowohl die Theorie als auch ihre Umsetzung weiterentwickeln.
 
-Diese Theorie ist nicht nur ein Gedankenexperiment.
+Diese Theorie ist kein bloßes Gedankenexperiment.
 
-Ich werde diese Theorie weiterhin praktisch anwenden, die Ergebnisse veröffentlichen und sie über einen langen Zeitraum hinweg testen.
+Ich werde sie weiterhin selbst in die Praxis umsetzen, die Ergebnisse veröffentlichen und ihre langfristige Gültigkeit überprüfen.
 
-Kann diese Theorie tatsächlich funktionieren?
+Funktioniert diese Theorie tatsächlich?
 
-Ist es möglich, Golf auf Par-Niveau zu erreichen und gleichzeitig den Körper langfristig zu schützen?
+Ist es möglich, Golf auf Par-Niveau zu spielen und gleichzeitig den eigenen Körper langfristig zu schützen?
 
-Die Antwort wird aus zukünftigen Runden und langfristigen Tests hervorgehen.
+Die Antwort wird sich durch zukünftige Runden und fortlaufende Validierung nach und nach zeigen.
 
-Ich möchte noch viele Jahre Golf spielen.
+Ich hoffe, noch viele Jahre Golf spielen zu können.
 
 Und ich hoffe, dass diese Theorie auch anderen helfen kann, die dasselbe Ziel verfolgen.
 
-Dieses Projekt ist eine Herausforderung auf dem Weg zu diesem Ziel.
+Dieses Projekt ist mein Versuch, diese Fragen zu beantworten.
