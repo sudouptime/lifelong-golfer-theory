@@ -1,236 +1,238 @@
-# Elinikäisen Golfarin Teoria #001
+# Elinikäisen golfarin teoria
 
-Golfjärjestelmän suunnitteluteoria elinikäistä golfia varten.
-
----
-
-## Languages
-
-- [English](README.md)
-- [日本語](docs/ja/README.md)
-- [한국어](docs/ko/README.md)
-- [简体中文](docs/zh-hans/README.md)
-- [繁體中文](docs/zh-hant/README.md)
-- [Deutsch](docs/de/README.md)
-- [Français](docs/fr/README.md)
-- [Español](docs/es/README.md)
-- [Italiano](docs/it/README.md)
-- [Nederlands](docs/nl/README.md)
-- [Svenska](docs/sv/README.md)
-- [Português](docs/pt/README.md)
-- [Dansk](docs/da/README.md)
-- [Norsk](docs/no/README.md)
-- [Suomi](docs/fi/README.md)
+Golfin järjestelmäsuunnittelun teoria elinikäistä pelaamista varten.
 
 ---
 
-## Overview
+## Kielet
 
-Elinikäisen Golfarin Teoria on viitekehys golfsysteemin rakentamiseen, joka voidaan säilyttää koko elämän ajan.
+- [English](../../README.md)
+- [日本語](../ja/README.md)
+- [한국어](../ko/README.md)
+- [简体中文](../zh-hans/README.md)
+- [繁體中文](../zh-hant/README.md)
+- [Deutsch](../de/README.md)
+- [Français](../fr/README.md)
+- [Español](../es/README.md)
+- [Italiano](../it/README.md)
+- [Nederlands](../nl/README.md)
+- [Svenska](../sv/README.md)
+- [Português](../pt/README.md)
+- [Dansk](../da/README.md)
+- [Norsk](../no/README.md)
+- [Suomi](../fi/README.md)
 
-Se ei ole svingimenetelmä.
+---
 
-Se ei ole yleispätevä mailasuositus.
+## Yleiskatsaus
 
-Se on järjestelmäsuunnittelun viitekehys, jonka tavoitteena on vähentää tarpeetonta monimutkaisuutta, parantaa toistettavuutta ja säilyttää mahdollisuus nauttia golfista pitkällä aikavälillä.
+Elinikäisen golfarin teoria (Lifelong Golfer Theory) on teoria golfin järjestelmän suunnittelusta siten, että sitä voidaan ylläpitää koko elämän ajan.
+
+Se ei ole swing-teoria.
+
+Se ei myöskään ole yleispätevä suositus mailakokoonpanosta.
+
+Se on golfin järjestelmäsuunnittelun teoria, jonka tavoitteena on vähentää tarpeetonta monimutkaisuutta, parantaa toistettavuutta ja mahdollistaa golfin pelaaminen koko elämän ajan.
 
 Tämä teoria perustuu neljään keskeiseen periaatteeseen:
 
-- Hallinnan Monimutkaisuuden Optimointi
-- Roolien Erikoistuminen
+- Hallinnan monimutkaisuuden optimointi
+- Roolien erikoistuminen
 - Toistettavuus
 - Kestävyys
 
-Tämän teorian tarkoituksena ei ole tavoitella maksimaalista suorituskykyä lyhyellä aikavälillä.
+Tämän teorian tavoitteena ei ole maksimoida lyhyen aikavälin suorituskykyä.
 
-Sen tavoitteena on vähentää tarpeetonta fyysistä kuormitusta, yksinkertaistaa päätöksentekoa ja rakentaa golfsysteemi, joka säilyy käytännöllisenä vuosikymmenten ajan.
+Sen tavoitteena on vähentää tarpeetonta fyysistä kuormitusta, yksinkertaistaa päätöksentekoa ja rakentaa golfjärjestelmä, joka säilyy käyttökelpoisena vuosikymmenten ajan.
 
-Nykyinen toteutus perustuu väyläpuihin ja wedgeihin.
+Nykyinen toteutus perustuu pääasiassa väyläpuihin ja wedge-mailoihin.
 
-Vähentämällä mailojen määrää, liikemalleja ja kierroksen aikana tehtäviä päätöksiä järjestelmä pyrkii parantamaan toistettavuutta samalla kun se säilyttää golfin ilon pitkällä aikavälillä.
+Vähentämällä mailojen määrää, liikeratoja ja kierroksen aikana tehtäviä päätöksiä järjestelmä pyrkii parantamaan toistettavuutta säilyttäen samalla golfin ilon pitkällä aikavälillä.
 
 ---
 
-## Core Terminology
+## Terminologia
 
-Seuraavia termejä käytetään tässä asiakirjassa.
+Tässä asiakirjassa käytetään seuraavia käsitteitä.
 
-### Hallinnan Monimutkaisuuden Optimointi
+### Hallinnan monimutkaisuuden optimointi
 
-Harjoittelun ja pelaamisen aikana jatkuvaa hallintaa vaativien tekijöiden määrän vähentäminen.
+Harjoittelun ja pelaamisen aikana jatkuvasti hallittavien tekijöiden määrän vähentäminen.
 
-### Roolien Erikoistuminen
+### Roolien erikoistuminen
 
-Jokaiselle mailalle annetaan selkeä ja rajattu vastuualue.
+Selkeän ja rajatun tehtävän antaminen jokaiselle mailalle.
 
 ### Toistettavuus
 
-Vakaa ja toistettava suoritus asetetaan satunnaisten huippusuoritusten edelle.
+Johdonmukaisesti toistettavan suorituksen asettaminen etusijalle satunnaisen huippusuorituksen sijaan.
 
 ### Kestävyys
 
-Golfsysteemin rakentaminen siten, että sitä voidaan ylläpitää fyysisesti, henkisesti ja käytännössä koko elämän ajan.
+Golfjärjestelmän rakentaminen siten, että sitä voidaan ylläpitää koko elämän ajan fyysisestä, henkisestä ja käytännöllisestä näkökulmasta.
 
 ---
 
-## Target Audience
+## Kohderyhmä
 
-Tämä teoria on tarkoitettu kaiken tasoisille golfaajille, jotka haluavat rakentaa pitkällä aikavälillä kestävän golfsysteemin.
+Tämä teoria on tarkoitettu kaiken tasoisille golfareille, jotka haluavat rakentaa pitkällä aikavälillä kestävän golfjärjestelmän.
 
-Se ei ehdota yhtä yleispätevää mailakokoonpanoa kaikille.
+Se ei suosittele samaa mailakokoonpanoa kaikille.
 
-Tässä asiakirjassa esitetty kokoonpano on vain yksi tämän teorian periaatteisiin perustuva toteutus.
+Tässä esitetty kokoonpano on vain yksi tämän teorian periaatteisiin perustuva toteutus.
 
-Paras toteutus vaihtelee lyöntipituuden, fyysisten ominaisuuksien, iän, loukkaantumishistorian, harjoitteluympäristön ja henkilökohtaisten olosuhteiden mukaan.
+Paras toteutus riippuu lyöntipituudesta, fyysisistä ominaisuuksista, iästä, loukkaantumishistoriasta, harjoitteluympäristöstä ja yksilöllisistä olosuhteista.
 
 Toteutus on henkilökohtainen.
 
-Periaatteet ovat yleispäteviä.
+Periaatteet ovat universaaleja.
 
 ---
 
-## Current Results
+## Nykyiset tulokset
 
-Tämä projekti on tällä hetkellä varhaisessa testausvaiheessa.
+Tämä projekti on tällä hetkellä varhaisessa validointivaiheessa.
 
-Seuraavat tulokset perustuvat Elinikäisen Golfarin Teorian nykyiseen toteutukseen.
+Alla olevat tulokset perustuvat Elinikäisen golfarin teorian nykyiseen toteutukseen.
 
 Niitä ei esitetä todisteena teorian oikeellisuudesta.
 
-Ne muodostavat lähtökohdan pitkän aikavälin validoinnille.
+Ne muodostavat pitkän aikavälin validoinnin lähtökohdan.
 
-Kun pelattuja kierroksia kertyy lisää ja uusia havaintoja saadaan, sekä teoria että sen toteutus voivat edelleen kehittyä.
+Kun uusia kierroksia pelataan ja uusia havaintoja kertyy, sekä teoria että sen toteutus voivat edelleen kehittyä.
 
 - Golfkokemus: 1 vuosi
 - Pelatut kierrokset: 17
-- Paras tulos (valkoinen tii): 93
-- Paras tulos (sininen tii): 109
-- Viimeisten 5 kierroksen keskiarvo (valkoinen tii): 106
-- Viimeisten 5 kierroksen keskiarvo (sininen tii): 114
+- Paras tulos (valkoiset tiit): 93
+- Paras tulos (siniset tiit): 109
+- Viimeisten viiden kierroksen keskiarvo (valkoiset tiit): 106
+- Viimeisten viiden kierroksen keskiarvo (siniset tiit): 114
 
-Tapahtumasta ja pelikavereista riippuen pelaan yleensä joko valkoiselta tai siniseltä tiiltä.
+Tapahtumasta ja pelikavereista riippuen pelaan yleensä valkoisilta tai sinisiltä tiiltä.
 
 ---
 
-## Learning Environment
+## Oppimisympäristö
 
-Kun aloitin golfin, kävin yhdellä tunnilla viikossa.
+Kun aloitin golfin, kävin yhdellä oppitunnilla viikossa.
 
-Tavoite oli selkeä.
+Tavoitteet olivat selkeät.
 
-- Opettaa keholleni täysin uusi liike.
+- Opettaa keholle täysin uusi liike.
 - Rakentaa uusia hermoyhteyksiä.
-- Vahvistaa näitä yhteyksiä toiston avulla.
+- Vahvistaa niitä toiston avulla.
 
-Oppimisprosessin nopeuttamiseksi löin noin 500 palloa päivässä, myös tuntipäivinä, käyttäen sekä sisägolfsimulaattoreita että driving rangea.
+Oppimisen nopeuttamiseksi löin noin 500 palloa päivässä – myös opetuspäivinä – sekä sisägolfsimulaattoreissa että harjoitusalueella.
 
-Pidin tätä rutiinia yllä noin kahden kuukauden ajan.
+Jatkoin tätä rutiinia noin kahden kuukauden ajan.
 
-Tänä aikana loukkaannuin kuitenkin useita kertoja.
+Tänä aikana sain kuitenkin useita vammoja.
 
-Perusteiden oppimisen jälkeen lopetin tunnit ja jatkoin kehittymistä itsenäisesti.
+Ensimmäisten kahden kuukauden aikana oppimani pohjalta jatkoin tutkimustani itsenäisesti.
 
 Sen jälkeen olen hyödyntänyt:
 
 - YouTubea
 - Kirjoja
 - Sisägolfsimulaattoreita
-- Driving rangeja
-- Lyhyitä kenttiä
-- Täysimittaisia golfkenttiä
+- Harjoitusalueita
+- Par 3 -kenttiä
+- Täysimittaisia 18 reiän kenttiä
 
-jatkaakseni sellaisen lähestymistavan testaamista ja kehittämistä, joka on toistettava ja vähemmän kuormittava keholleni.
+testatakseni ja kehittääkseni jatkuvasti lähestymistapaa, joka on sekä toistettava että fyysisesti vähemmän kuormittava.
 
-Tuohon aikaan en tiennyt, mikä olisi oikea suunta.
+Tuohon aikaan en tiennyt, mikä oli oikea suunta.
 
-Ratkaisuni oli yksinkertaisesti lyödä enemmän palloja.
+Ratkaisuni oli yksinkertainen.
 
-Lopulta tämä lähestymistapa johti loukkaantumisiin.
+Löin enemmän palloja.
 
-Nykyään näkemykseni on täysin erilainen.
+Lopulta juuri tämä lähestymistapa johti vammoihin.
 
-Sekä harjoittelun määrä että intensiteetti ovat vähentyneet merkittävästi.
+Nykyään ajattelen asiasta täysin eri tavalla.
 
-Tämän teorian tavoitteena ei ole kehittyä pelkästään lisäämällä harjoitusmäärää.
+Verrattuna tuohon aikaan sekä harjoittelun määrä että intensiteetti ovat vakiintuneet huomattavasti kestävämmälle tasolle.
 
-Se asettaa etusijalle toistettavuuden, kestävyyden ja pitkän aikavälin kehityksen.
+Tämän teorian tavoitteena ei ole kehittyä pelkästään harjoittelun määrää lisäämällä.
+
+Se painottaa toistettavuutta, kestävyyttä ja pitkän aikavälin kehittymistä.
 
 ---
 
-## Introduction
+## Johdanto
 
 Aloitin golfin noin vuosi sitten.
 
-Kuten monet aloittelijat, minua kiehtoi voimakkaasti lyöntipituus.
+Kuten monet aloittelijat, olin aluksi lumoutunut lyöntipituudesta.
 
-Uskoin, että vaikeiden mailojen hallitseminen oli jo itsessään merkki kehittymisestä.
+Ajattelin, että vaikeampien mailojen hallitseminen oli itsessään osoitus kehittymisestä.
 
-Kokosin täydellisen muscle-back-rautasarjan 1-raudasta pitching wedgeen ja yritin rakentaa koko pelini jopa 240 jaardin mittaisten etäisyyserojen ympärille.
+Kokosin täydellisen muscle back -rautamailasarjan rauta-1:stä pitching wedgeen asti ja yritin rakentaa koko pelini enintään 240 jaardin etäisyyseroille.
 
-Löin myös noin 320 jaardin draiveja driverilla.
+Löin myös noin 320 jaardin avauksia draiverilla.
 
-Tällä tavoittelulla oli kuitenkin hintansa.
+Tällä pituuden tavoittelulla oli kuitenkin hintansa.
 
-Kylkirustovamma pakotti minut pois golfin parista kahdeksi kuukaudeksi.
+Kylkirustovamma pakotti minut pitämään kahden kuukauden tauon golfista.
 
-Palattuani jatkoin intensiivistä harjoittelua rautamailoilla, minkä seurauksena minulle kehittyi olkapääkipuja ja kroonista rannekipua.
+Palattuani jatkoin intensiivistä harjoittelua rautamailoilla, mikä johti lopulta olkapääkipuihin ja krooniseen rannekipuun.
 
-Nämä kokemukset muuttivat täysin tapani ajatella golfia.
+Nämä kokemukset muuttivat käsitykseni golfista täysin.
 
-Siihen asti olin kysynyt itseltäni:
+Siihen asti olin aina kysynyt itseltäni:
 
-> "Kuinka voin lyödä pallon pidemmälle?"
+> "Kuinka voisin lyödä pallon pidemmälle?"
 
-Sen jälkeen aloin kysyä:
+Myöhemmin kysymys muuttui:
 
-> "Kuinka voin jatkaa golfin pelaamista seuraavat kaksikymmentä vuotta rikkomatta kehoani?"
+> "Kuinka voisin jatkaa golfin pelaamista seuraavat kaksikymmentä vuotta rikkomatta kehoani?"
 
-Painopisteeni siirtyi maksimaalisen pituuden tavoittelusta optimaalisen pituuden tavoitteluun.
+Painopisteeni siirtyi maksimipituudesta optimaaliseen pituuteen.
 
-Sen sijaan, että olisin tavoitellut pitkälle lyövän pelaajan identiteettiä, päätin tulla elinikäiseksi golfariksi.
+Sen sijaan että olisin pyrkinyt pitkälle lyöväksi golfariksi, päätin tulla golfariksi koko elämäksi.
 
-Etsiessäni kestävää ratkaisua siirryin vähitellen rautamailakeskeisestä kokoonpanosta järjestelmään, joka perustuu väyläpuihin ja wedgeihin.
+Etsiessäni kestävämpää lähestymistapaa siirryin vähitellen pois rautamailoihin perustuvasta kokoonpanosta ja rakensin järjestelmän, joka perustuu pääasiassa väyläpuihin ja wedge-mailoihin.
 
-Tämä teoria on tuon prosessin tulos.
+Tästä prosessista tämä teoria syntyi.
 
-Sen pitkän aikavälin tavoitteena on selvittää, voidaanko par-tason golf saavuttaa samalla, kun kehoa suojellaan pitkällä aikavälillä.
+Sen pitkän aikavälin tavoitteena on selvittää, onko mahdollista saavuttaa par-tason golf samalla kun kehoa suojellaan pitkällä aikavälillä.
 
 ---
 
-## Theory vs. Implementation
+## Teoria ja toteutus
 
 Tämän teorian ydin ei ole tietty mailakokoonpano.
 
-Sen perusta koostuu neljästä keskeisestä periaatteesta:
+Sen perustana ovat neljä keskeistä periaatetta:
 
-- Hallinnan Monimutkaisuuden Optimointi
-- Roolien Erikoistuminen
+- Hallinnan monimutkaisuuden optimointi
+- Roolien erikoistuminen
 - Toistettavuus
 - Kestävyys
 
-Tästä syystä teoria ei suosittele yhtä ainoaa mailakokoonpanoa kaikille golfaajille.
+Tästä syystä teoria ei suosittele samaa mailakokoonpanoa kaikille golfareille.
 
-Tässä asiakirjassa esitetty kokoonpano on vain nykyinen toteutus.
+Tässä asiakirjassa esitetty kokoonpano edustaa ainoastaan nykyistä toteutusta.
 
-Paras toteutus vaihtelee lyöntipituuden, fyysisten ominaisuuksien, iän, loukkaantumishistorian, harjoitteluympäristön ja henkilökohtaisten olosuhteiden mukaan.
+Paras toteutus riippuu lyöntipituudesta, fyysisistä ominaisuuksista, iästä, loukkaantumishistoriasta, harjoitteluympäristöstä ja yksilöllisistä olosuhteista.
 
-Mailat itsessään eivät ole olennaisia.
+Ratkaisevaa eivät ole mailat itsessään.
 
-Tärkeintä on vähentää hallinnan monimutkaisuutta, antaa jokaiselle mailalle selkeä vastuualue ja rakentaa golfsysteemi, joka säilyy kestävänä pitkällä aikavälillä.
+Ratkaisevaa on hallinnan monimutkaisuuden vähentäminen, selkeiden roolien antaminen jokaiselle mailalle ja kestävän golfjärjestelmän rakentaminen pitkälle tulevaisuuteen.
 
 ---
 
-## Current Implementation
+## Nykyinen toteutus
 
-Tässä teoriassa etäisyyden hallinta perustuu ensisijaisesti svingin pituuteen ja otteen sijaintiin.
+Tässä teoriassa etäisyyttä hallitaan ensisijaisesti svingin pituuden ja otteen sijainnin avulla.
 
-Sen sijaan, että lisättäisiin mailojen määrää pienempien etäisyyserojen luomiseksi, jokaiselle mailalle annetaan selkeä rooli.
+Sen sijaan, että lisättäisiin enemmän mailoja pienempien etäisyyserojen luomiseksi, jokaiselle mailalle annetaan selkeä tehtävä.
 
-Nykyisessä toteutuksessa 3W on maksimipituuden maila.
+Nykyisessä toteutuksessa 3W vastaa pisimmästä lyöntimatkasta.
 
-Pisintä mailaa ei valita pelkästään suurimman mahdollisen lyöntipituuden perusteella.
+Pisintä mailaa ei valita pelkästään lyöntipituuden perusteella.
 
-Se valitaan kokonaisuutena arvioiden lyöntipituuden, toistettavuuden, fyysisen kuormituksen ja yhteensopivuuden muun järjestelmän kanssa.
+Valinta perustuu lyöntipituuteen, toistettavuuteen, fyysiseen kuormitukseen ja siihen, kuinka hyvin maila sopii koko järjestelmään.
 
 Nykyinen toteutus koostuu seitsemästä mailasta putteria lukuun ottamatta.
 
@@ -239,28 +241,28 @@ Nykyinen toteutus koostuu seitsemästä mailasta putteria lukuun ottamatta.
 | 3W (15°) | Maksimipituus | 200–240 yd |
 | 7W (21°) | Keskimatka | 160–190 yd |
 | 13W (34°) | Päämaila | 1–150 yd |
-| AW (46°) | Recovery-maila | 1–80 yd |
-| SW (58°) | Finish-maila | 1–40 yd |
-| 5W LH (18°) | Erikoistunut Recovery-maila | 140–220 yd |
-| 15W LH (39°) | Erikoistunut Recovery-maila | 1–130 yd |
+| AW (46°) | Palautumismaila | 1–80 yd |
+| SW (58°) | Viimeistelymaila | 1–40 yd |
+| 5W LH (18°) | Erikoistunut palautumismaila | 140–220 yd |
+| 15W LH (39°) | Erikoistunut palautumismaila | 1–130 yd |
 
 ### 3W (15°)
 
-Nykyisen toteutuksen maksimipituuden maila.
+Nykyisen toteutuksen pisin maila.
 
-Se vastaa 200–240 jaardin carry-etäisyyksistä.
+Sen carry-etäisyys on 200–240 jaardia.
 
-3W tarjoaa riittävän lyöntipituuden maksimipituuden rooliin samalla kun se säilyttää koko järjestelmän toistettavuuden.
+3W tarjoaa riittävän lyöntipituuden pisimmän mailan tehtävään säilyttäen samalla koko järjestelmän toistettavuuden.
 
-Tässä teoriassa pisintä mailaa ei valita pelkän lyöntipituuden perusteella.
+Tässä teoriassa pisintä mailaa ei valita pelkästään lyöntipituuden perusteella.
 
-Valinta perustuu lyöntipituuteen, toistettavuuteen, fyysiseen kuormitukseen ja yhteensopivuuteen koko järjestelmän kanssa.
+Valinta perustuu lyöntipituuteen, toistettavuuteen, fyysiseen kuormitukseen sekä siihen, kuinka hyvin maila sopii koko järjestelmään.
 
 ### 7W (21°)
 
 Keskimatkan maila.
 
-Se vastaa 160–190 jaardin carry-etäisyyksistä.
+Sen carry-etäisyys on 160–190 jaardia.
 
 Sen tehtävänä on yhdistää pitkien lyöntien maila ja lähipelin mailat.
 
@@ -268,241 +270,249 @@ Sen tehtävänä on yhdistää pitkien lyöntien maila ja lähipelin mailat.
 
 Nykyisen toteutuksen päämaila.
 
-Se vastaa 1–150 jaardin carry-etäisyyksistä.
+Sen carry-etäisyys on 1–150 jaardia.
 
-Sitä käytetään rullaavissa lyönneissä, tavallisissa lähestymislyönneissä ja etäisyyden hallinnassa.
+Sitä käytetään bump-and-run-lyönteihin, tavallisiin lähestymislyönteihin sekä etäisyyden hallintaan.
 
-Se on järjestelmän käytetyin maila.
+Se on koko järjestelmän käytetyin maila.
 
-Lähestymislyönneissä 13W on oletusvalinta silloin, kun rullaava lyönti on sopiva vaihtoehto.
+Lähestymislyönneissä 13W on ensisijainen valinta aina, kun bump-and-run on tarkoituksenmukainen ratkaisu.
 
-Kun pallolle on riittävästi tilaa rullata, rullaavaa lyöntiä pidetään toistettavampana kuin korkeaa wedge-lyöntiä.
+Kun pallolle on riittävästi tilaa vieriä, bump-and-run katsotaan toistettavammaksi vaihtoehdoksi kuin korkea wedge-lyönti.
 
-Nykyisten testien aikana 13W:llä tehdyt rullaavat lähestymislyönnit ovat olleet vähemmän riippuvaisia pallon makuusta ja tuottaneet vakaampia tuloksia kuin AW:lla tai SW:llä lyödyt korkeat lähestymislyönnit.
+Nykyiset testit osoittavat, että 13W:llä pelatut bump-and-run-lyönnit ovat vähemmän herkkiä pallon makuulle (lie) ja tuottavat tasaisempia tuloksia kuin AW:lla tai SW:llä pelatut korkeat lähestymislyönnit.
 
-Tässä teoriassa 13W ei ole pelkkä väyläpuu.
+Tässä teoriassa 13W on paljon enemmän kuin pelkkä väyläpuu.
 
-Se on koko järjestelmän keskeinen maila.
+Se muodostaa koko järjestelmän keskipisteen.
 
 ### AW (46°)
 
-Recovery-maila.
+Palautumismaila.
 
-Se vastaa 1–80 jaardin carry-etäisyyksistä.
+Sen carry-etäisyys on 1–80 jaardia.
 
-Sitä käytetään silloin, kun tarvitaan korkeutta, este on ylitettävä tai 13W ei sovellu tilanteeseen.
+Sitä käytetään silloin, kun tarvitaan lisää korkeutta, este on ylitettävä tai 13W ei sovellu kyseiseen tilanteeseen.
 
-Lähestymislyönneissä sitä käytetään, kun pallon makuu sitä vaatii tai kun tarvitaan sekä kohtalaista korkeutta että etenemistä.
+Lähestymislyönneissä sitä käytetään, kun pallon makuu sitä vaatii tai kun tarvitaan sekä korkeutta että etenemistä.
 
-Koska se nostaa pallon ilmaan helpommin kuin 13W ja vie palloa eteenpäin helpommin kuin SW, se toimii lyhyiden etäisyyksien välimailana.
+Koska sillä on helpompi nostaa pallo ilmaan kuin 13W:llä ja sillä saavutetaan enemmän pituutta kuin SW:llä, se toimii välimailana lähipelissä.
 
 ### SW (58°)
 
-Finish-maila.
+Viimeistelymaila.
 
-Se vastaa 1–40 jaardin carry-etäisyyksistä.
+Sen carry-etäisyys on 1–40 jaardia.
 
-Sitä käytetään, kun tarvitaan maksimaalista korkeutta, maksimaalista pysähtymiskykyä tai erittäin tarkkaa hallintaa lyhyillä etäisyyksillä.
+Sitä käytetään, kun tarvitaan mahdollisimman korkea lentorata, maksimaalinen pysäytysvoima tai erittäin suuri tarkkuus lyhyillä etäisyyksillä.
 
-Lähestymislyönneissä sitä käytetään, kun pallo täytyy lyödä korkealle ja pysäyttää nopeasti, kun lippu on lähellä tai kun bunkkerista tai syvästä raffista poistuminen ja pysähtymiskyky ovat ensisijaisia.
+Lähestymislyönneissä sitä käytetään, kun pallo on nostettava korkealle ja pysäytettävä nopeasti, kun lippu on lähellä tai kun bunkkerista tai syvästä karheikosta tarvitaan mahdollisimman suuri pysäytysvaikutus.
 
-Tässä teoriassa SW:n tehtävänä ei ole tuottaa tarpeettoman suurta lyöntipituutta.
+Tässä teoriassa SW:n tehtävänä ei ole tuottaa lisää pituutta.
 
-SW ei ole maksimipituuden maila.
+Se ei ole pituusmaila.
 
-Sen tehtävänä on tuottaa suurin mahdollinen korkeus ja pysähtymiskyky.
+Sen tehtävä on tuottaa maksimaalinen korkeus ja pysäytysvoima.
 
-### Left-Handed Clubs
+### Vasenkätiset mailat
 
 Nykyinen toteutus sisältää vasenkätisiä mailoja.
 
 Niiden tarkoituksena ei ole korvata tavallista oikeakätistä mailakokoonpanoa.
 
-Niitä käytetään tilanteissa, joissa tavanomainen oikeakätinen lyönti aiheuttaisi tarpeetonta monimutkaisuutta, liiallista fyysistä kuormitusta tai huomattavasti pienemmän onnistumistodennäköisyyden.
+Ne on tarkoitettu tilanteisiin, joissa oikeakätinen lyönti aiheuttaisi tarpeetonta monimutkaisuutta, suurempaa fyysistä kuormitusta tai huomattavasti pienemmän onnistumistodennäköisyyden.
 
 Tässä teoriassa vasenkätisiä mailoja pidetään erikoistyökaluina.
 
-Tarkemmin sanottuna ne ovat recoveryyn tarkoitettuja erikoistyökaluja.
+Tarkemmin sanottuna ne ovat yksinomaan palautumistilanteisiin tarkoitettuja työkaluja.
 
-Niiden tarkoituksena ei ole lisätä lyöntivaihtoehtojen määrää.
+Niiden tarkoitus ei ole lisätä lyöntivaihtoehtojen määrää.
 
-Niiden tarkoituksena on yksinkertaistaa recovery-tilanteita tarjoamalla omat ratkaisunsa toistuvasti esiintyviin tilanteisiin.
+Niiden tarkoitus on yksinkertaistaa palautumistilanteita tarjoamalla toistuviin ongelmiin oma ratkaisunsa.
 
-Yksi mahdollinen kritiikki tätä lähestymistapaa kohtaan on, että vasenkätisten mailojen lisääminen näyttää kasvattavan hallinnan monimutkaisuutta.
+Yksi tavallisimmista huomautuksista tästä lähestymistavasta kuuluu:
 
-Tämä kritiikki on jossain määrin perusteltu.
+> "Eikö vasenkätisten mailojen lisääminen kasvata hallinnan monimutkaisuutta?"
 
-Vasenkätinen svingi on itsessään yksi ylimääräinen liikemalli, jota on ylläpidettävä.
+Huomautus on osittain perusteltu.
 
-Nykyisessä toteutuksessa tämä lisäkustannus on kuitenkin tietoisesti rajattu.
+Vasenkätinen liikerata on kuitenkin ylläpidettävä.
 
-Mukana on vain kaksi vasenkätistä mailaa, ja molemmat ovat väyläpuita.
+Nykyisessä toteutuksessa tämä lisäkustannus on kuitenkin tietoisesti minimoitu.
 
-Vasenkätistä wedgeä tai putteria ei lisätä.
+Vasenkätisiä mailoja on vain kaksi.
 
-Syynä on se, että nykyinen toteutus ei tarvitse täydellistä vasenkätistä järjestelmää.
+Ja molemmat ovat väyläpuita.
 
-Se tarvitsee vain kaksi recovery-työkalua: yhden pitkille pelastuslyönneille ja yhden lyhyille, hallituille recovery-lyönneille.
+Vasenkätistä wedgeä ei ole.
 
-Koska molemmat mailat ovat väyläpuita, ne jakavat monia liikemallin ominaisuuksia muun väyläpuihin perustuvan järjestelmän kanssa.
+Vasenkätistä putteria ei ole.
 
-Sen sijaan, että otettaisiin käyttöön täysin uusi mailaperhe, tämä teoria laajentaa olemassa olevan väyläpuiden liikemallin vastakkaiselle puolelle.
+Nykyinen toteutus ei vaadi kokonaista vasenkätistä järjestelmää.
 
-Oleellinen kysymys ei ole mailojen määrä.
+Se tarvitsee vain kaksi palautumiseen erikoistunutta mailaa – yhden pitkille ja yhden lyhyille palautumislyönneille.
 
-Oleellinen kysymys on se, kuinka monta ylimääräistä liikemallia on ylläpidettävä.
+Koska molemmat ovat väyläpuita, ne vain laajentavat samaa liikerataa, jota käytetään oikeakätisillä väyläpuilla, vasemmalle puolelle.
+
+Kyse ei ole kokonaan uuden mailaperheen lisäämisestä.
+
+Ratkaisevaa ei ole lisättävien mailojen määrä.
+
+Ratkaisevaa on se, kuinka monta uutta liikerataa on ylläpidettävä.
 
 ### 5W LH (18°)
 
-Pitkien etäisyyksien erikoistunut recovery-maila.
+Pitkien palautumislyöntien erikoismaila.
 
-Se vastaa 140–220 jaardin carry-etäisyyksistä.
+Sen carry-etäisyys on 140–220 jaardia.
 
-Tämä on vasenkätinen maila, jota käytetään pitkissä recovery-tilanteissa, joita ei voida ratkaista tehokkaasti tavallisella oikeakätisellä kokoonpanolla.
+Tätä vasenkätistä mailaa käytetään pitkissä palautumistilanteissa, joissa oikeakätinen lyönti ei ole käytännöllinen.
 
-Sitä käytetään, kun puut, esteet, rinteet, lyöntiasennon rajoitteet tai kentän rakenne tekevät oikeakätisestä lyönnistä epäkäytännöllisen.
+Sitä käytetään, kun puut, esteet, rinteet, lyöntiasennon rajoitteet tai kentän muoto tekevät oikeakätisestä lyönnistä epärealistisen.
 
-Tässä teoriassa 5W LH:ta ei ole otettu mukaan lisäämään lyöntien monipuolisuutta.
+Tässä teoriassa 5W LH:ta ei lisätty lyöntivaihtoehtojen lisäämiseksi.
 
-Se on mukana tarjotakseen toistettavan vasenkätisen vaihtoehdon pitkille pelastuslyönneille.
+Se lisättiin tarjoamaan toistettava vasenkätinen ratkaisu pitkiin palautumislyönteihin.
 
 ### 15W LH (39°)
 
-Lyhyiden etäisyyksien erikoistunut recovery-maila.
+Lyhyiden palautumislyöntien erikoismaila.
 
-Se vastaa 1–130 jaardin carry-etäisyyksistä.
+Sen carry-etäisyys on 1–130 jaardia.
 
-Tämä on vasenkätinen maila, jota käytetään lyhyissä recovery-tilanteissa, joita ei voida ratkaista tehokkaasti tavallisella oikeakätisellä kokoonpanolla.
+Tätä vasenkätistä mailaa käytetään lyhyissä palautumistilanteissa, joita on vaikea ratkaista oikeakätisellä lyönnillä.
 
-Se noudattaa samaa filosofiaa kuin 5W LH, mutta keskittyy lyhyempiin lyönteihin, jotka vaativat suurempaa hallintaa.
+Se perustuu samaan filosofiaan kuin 5W LH, mutta on tarkoitettu lyhyemmille lyönneille, jotka vaativat suurempaa hallintaa.
 
-Tällä hetkellä nämä vasenkätiset mailat tarjoavat erityiset recovery-vaihtoehdot säilyttäen samalla koko järjestelmän rakenteen.
+Tällä hetkellä nämä kaksi vasenkätistä mailaa tarjoavat erikoistuneita ratkaisuja palautumistilanteisiin muuttamatta koko järjestelmän rakennetta.
 
-Lähitulevaisuudessa tämä toteutus säilyy muuttumattomana samalla kun pitkän aikavälin testit jatkuvat.
+Toistaiseksi tämä kokoonpano säilytetään samalla, kun pitkän aikavälin validointia jatketaan.
 
 ---
 
-## Why This Theory Exists
+## Miksi tämä teoria syntyi
 
-Tämän teorian lähtökohtana on yksinkertainen kysymys:
+Tämä teoria sai alkunsa yksinkertaisesta kysymyksestä.
 
-> "Voidaanko sama tulos saavuttaa yksinkertaisemmalla ja kestävämmällä tavalla?"
+> "Voisiko saman lopputuloksen saavuttaa yksinkertaisemmalla ja kestävämmällä tavalla?"
 
-Tämä ajattelutapa siirtyi luonnollisesti myös golfiin.
+Tämän kysymyksen soveltaminen golfiin muodosti teorian lähtökohdan.
 
-Tämä teoria ei lähde siitä oletuksesta, että perinteinen mailakokoonpano olisi muuttumaton.
+Tämä teoria ei lähde siitä oletuksesta, että perinteinen mailakokoonpano olisi itsestään selvä ratkaisu.
 
-Sen sijaan se arvioi uudelleen jokaisen mailan roolin.
+Se alkaa tarkastelemalla jokaisen mailan roolia uudelleen.
 
-Voidaanko koko peli rakentaa rautamailojen ympärille?
+Onko rautamailoihin perustuva pelijärjestelmä todella paras ratkaisu?
 
 Voivatko väyläpuut ottaa hoitaakseen tehtävät, jotka perinteisesti kuuluvat rautamailoille?
 
-Voidaanko driver poistaa keskeisestä tuloksentekojärjestelmästä?
+Voidaanko draiveri poistaa pistettä tuottavan järjestelmän ytimestä?
 
-Voivatko harvemmat mailat tuottaa paremman toistettavuuden?
+Onko olemassa tapa saavuttaa parempi toistettavuus?
 
-Ajan myötä näistä kysymyksistä kehittyi järjestelmällisiä kokeita.
+Ajan myötä nämä kysymykset kehittyivät järjestelmälliseksi validointiprosessiksi.
 
 Tämä teoria on tuon prosessin tulos.
 
 Se ei syntynyt yhdestä ainoasta ideasta.
 
-Se syntyi mailojen perinteisten roolien jatkuvasta uudelleenarvioinnista ja pyrkimyksestä saavuttaa samat – tai jopa paremmat – tulokset pienemmällä määrällä muuttujia ja vähäisemmällä fyysisellä kuormituksella.
+Se syntyi arvioimalla jatkuvasti uudelleen perinteisten mailojen rooleja ja etsimällä tapoja saavuttaa samat – tai jopa paremmat – tulokset pienemmällä määrällä muuttujia ja vähäisemmällä fyysisellä kuormituksella.
 
 ---
 
-## Core Principles
+## Perusperiaatteet
 
-Elinikäisen Golfarin Teoria perustuu neljään keskeiseen periaatteeseen.
+Elinikäisen golfarin teoria perustuu neljään perusperiaatteeseen.
 
-Kaikki tässä asiakirjassa esitetty voidaan lopulta johtaa niihin.
+Kaikki tässä asiakirjassa esitetty voidaan lopulta palauttaa näihin neljään periaatteeseen.
 
-### Hallinnan Monimutkaisuuden Optimointi
+### Hallinnan monimutkaisuuden optimointi
 
-Vähennä jatkuvaa hallintaa vaativien tekijöiden määrää.
+Vähennä jatkuvasti hallittavien tekijöiden määrää.
 
-Mitä vähemmän hallittavaa on, sitä enemmän huomiota voidaan keskittää itse suoritukseen.
+Mitä vähemmän on hallittavaa, sitä enemmän huomiota voidaan kohdistaa itse suoritukseen.
 
-### Roolien Erikoistuminen
+### Roolien erikoistuminen
 
-Anna jokaiselle mailalle selkeästi määritelty vastuualue.
+Anna jokaiselle mailalle selkeästi määritelty vastuu.
 
-Sen sijaan, että yhdeltä mailalta vaadittaisiin rajatonta määrää tehtäviä, tämä teoria määrittelee jokaisen mailan vastuualueen selkeästi ja korostaa sen syvällistä ymmärtämistä.
+Sen sijaan, että yhdeltä mailalta odotettaisiin rajatonta määrää tehtäviä, tässä teoriassa jokaisen mailan rooli määritellään tarkasti ja sitä pyritään ymmärtämään syvällisesti.
 
 ### Toistettavuus
 
-Luotettava ja toistettava suoritus on tärkeämpi kuin satunnaiset huippusuoritukset.
+Aseta johdonmukaisesti toistettavat suoritukset etusijalle satunnaisiin huippusuorituksiin nähden.
 
 Tavoitteena ei ole täydellinen lyönti.
 
-Tavoitteena on lyönti, joka voidaan toistaa johdonmukaisesti.
+Tavoitteena on lyönti, joka voidaan toistaa.
 
 ### Kestävyys
 
-Jokaisen päätöksen tulee tukea mahdollisuutta jatkaa golfin pelaamista pitkällä aikavälillä.
+Jokaisen päätöksen tulee tukea mahdollisuutta pelata golfia pitkällä aikavälillä.
 
-Suoritusta, joka saavutetaan tarpeettoman fyysisen kuormituksen avulla, ei pidetä kestävänä.
+Suoritusta, joka saavutetaan tarpeettoman fyysisen kuormituksen kustannuksella, ei pidetä kestävänä.
 
 ---
 
-## Hallinnan Monimutkaisuuden Optimointi
+## Hallinnan monimutkaisuuden optimointi
 
-Mailojen määrän vähentäminen ei ole tämän teorian tavoite.
+Mailojen määrän vähentäminen ei ole tämän teorian varsinainen tavoite.
 
 Se on vain seuraus.
 
-Todellinen tavoite on vähentää hallittavien asioiden määrää.
+Todellinen tavoite on vähentää hallittavien tekijöiden määrää.
 
 Golf on jatkuva päätösten sarja.
 
-Jokainen lyönti edellyttää esimerkiksi seuraavia päätöksiä:
+Ennen jokaista lyöntiä on päätettävä muun muassa:
 
-- Mailan valinta
-- Svingityyppi
-- Pallon sijainti
-- Kohdelinja
-- Lyöntistrategia
+- mikä maila valitaan;
+- millainen svingi tehdään;
+- pallon paikka;
+- tähtäyslinja;
+- lyöntistrategia.
 
-Jokainen päätös kuluttaa huomiota.
+Jokainen päätös vaatii huomiota.
 
-Mitä enemmän muuttujia on, sitä suurempi on pelaamiseen vaadittava henkinen kuormitus.
+Mitä enemmän muuttujia on hallittava, sitä suuremmaksi henkinen kuormitus kierroksen aikana kasvaa.
 
-Tämä teoria pyrkii vähentämään päätöksiä, jotka eivät suoraan paranna tulosta.
+Tämä teoria pyrkii poistamaan päätökset, jotka eivät suoraan edistä parempaa tulosta.
 
-Vähennä mailojen määrää.
+Vähemmän mailoja.
 
-Vähennä liikemallien määrää.
+Vähemmän liikeratoja.
 
-Poista tiit.
+Ei tiitä.
 
-Poista hanskat.
+Ei hansikkaita.
 
-Anna jokaiselle mailalle selkeä vastuualue.
+Selkeät roolit.
 
-Kaikki nämä valinnat noudattavat samaa filosofiaa.
+Kaikki nämä päätökset perustuvat samaan ajattelutapaan.
 
 Vähennä tarpeetonta hallintaa.
 
-Lisää toistettavuutta.
+Paranna toistettavuutta.
 
-Yksinkertaisuus ei ole tavoite.
+Tavoitteena ei ole yksinkertaisuus.
 
-Optimointi on.
+Tavoitteena on optimointi.
 
 ---
 
-## Why Reduce Movement Patterns?
+## Miksi liikeratoja vähennetään?
 
-Kun aloitin golfin, yksi lause jäi erityisesti mieleeni:
+Kun aloitin golfin,
 
-> "Opittavaa on paljon."
+> "Golf on vaikeaa, koska opittavaa on niin paljon."
 
-Tuolloin hyväksyin tämän ajatuksen sellaisenaan.
+Tuo lause jäi vahvasti mieleeni.
 
-Jokainen maila näytti vaativan erilaisen liikkeen.
+Tuolloin hyväksyin sen sellaisenaan.
 
-Driver.
+Ajattelin, että jokainen maila vaati oman liikeratansa.
+
+Draiveri.
 
 Väyläpuu.
 
@@ -516,166 +526,173 @@ Putteri.
 
 Lisäksi jokainen pallon makuu ja jokainen pelitilanne toi mukanaan uusia muuttujia.
 
-- Pallo tiillä
-- Pallo maassa
-- Raffi
-- Bunkkeri
-- Kaltevat makuut
+- Tiin päällä oleva pallo.
+- Maassa oleva pallo.
+- Karheikko.
+- Bunkkeri.
+- Kaltevat pallon makuut.
 
-Jopa tasaisella harjoitusmatolla vaikutti siltä, että jokaisen mailan hallitseminen vaati valtavan määrän toistoja.
+Jopa täysin tasaisella harjoitusmatolla tuntui siltä, että jokainen maila vaati valtavan määrän toistoja ennen kuin sillä pystyi lyömään johdonmukaisesti.
 
-Ensimmäisten kuukausieni aikana en onnistunut lyömään johdonmukaisesti sen paremmin hybrideillä kuin väyläpuillakaan.
+Ensimmäisten kuukausieni aikana en pystynyt lyömään luotettavasti sen enempää hybrideillä kuin väyläpuillakaan.
 
-Koska suunnittelin pelaavani ensimmäisen täyden kierrokseni kolmen kuukauden kuluessa opetuksen aloittamisesta, rautamailoihin perustuva kokoonpano vaikutti tuolloin kaikkein toistettavimmalta ratkaisulta.
+Koska suunnittelin pelaavani ensimmäisen 18 reiän kierrokseni kolmen kuukauden kuluessa opetuksen aloittamisesta, rautamailoihin perustuva kokoonpano vaikutti tuolloin kaikkein toistettavimmalta ratkaisulta.
 
-Myöhemmin tämä käsitys muuttui.
+Myöhemmin tämä ajattelutapa kuitenkin muuttui.
 
-Kun aloin ajatella golfia lajina, jota halusin pelata koko elämäni ajan, ymmärsin, ettei pelkästään hallitsemieni mailojen määrän lisääminen ollut välttämättä paras ratkaisu.
+Kun aloin nähdä golfin lajina, jota halusin pelata koko elämäni, aloin pohtia, oliko yhä useampien mailojen opetteleminen todella paras ratkaisu.
 
 Lopulta itse kysymys muuttui.
 
-Sen sijaan että olisin kysynyt:
+En enää kysynyt:
 
 > "Minkä mailan opettelen seuraavaksi?"
 
-aloin kysyä:
+Vaan:
 
-> "Kuinka monta liikemallia todella tarvitsen?"
+> "Kuinka monta liikerataa todella tarvitsen?"
 
-Jokainen uusi liikemalli vaatii aikaa oppimiseen.
+Uuden liikeradan oppiminen vie paljon aikaa.
 
-Vielä tärkeämpää on, että se vaatii jatkuvaa harjoittelua säilyäkseen.
+Vielä tärkeämpää on, että sen ylläpitäminen vaatii jatkuvaa harjoittelua.
 
-Mitä enemmän liikemalleja on, sitä suuremmiksi kasvavat niiden ylläpitokustannukset pitkällä aikavälillä.
+Mitä enemmän liikeratoja on, sitä suuremmiksi niiden ylläpitokustannukset kasvavat pitkällä aikavälillä.
 
-Tämä teoria pitää ylläpitokustannuksia yhtä tärkeinä kuin oppimiskustannuksia.
+Tässä teoriassa ylläpitokustannuksia pidetään yhtä tärkeinä kuin oppimiskustannuksia.
 
-Golfissa on lopulta kyse pallon viemisestä eteenpäin ja tuloksen tekemisestä.
+Pohjimmiltaan golfissa on kyse pallon viemisestä eteenpäin ja tuloksen tekemisestä.
 
-Jos näin on, harvempien liikemallien syvällinen ymmärtäminen voi olla pitkällä aikavälillä kestävämpi ratkaisu.
+Jos näin on, pienemmän määrän liikeratojen syvällinen ymmärtäminen voi olla pitkällä aikavälillä paljon kestävämpi ratkaisu.
 
-Tämä teoria ei pyri ratkaisemaan ongelmia lisäämällä enemmän työkaluja.
+Tämä teoria ei pyri ratkaisemaan ongelmia lisäämällä uusia työkaluja.
 
 Se pyrkii ratkaisemaan ongelmat ymmärtämällä pienemmän määrän työkaluja syvemmin.
 
-Nykyinen väyläpuihin perustuva toteutus on tämän ajattelutavan tulos.
+Nykyinen väyläpuihin perustuva toteutus syntyi juuri tästä ajattelutavasta.
 
 ---
 
-## Why Prioritize the Ability to Recover?
+## Miksi palautumistilanteita painotetaan?
 
-Yksi tämän teorian yleisimmistä kysymyksistä on:
+Yksi yleisimmistä tähän teoriaan liittyvistä kysymyksistä kuuluu:
 
-> "Mitä tapahtuu, jos väyläpuusi lakkaavat toimimasta?"
+> "Entä jos väyläpuusi eivät enää toimi?"
 
-Se on täysin perusteltu huoli.
+Se on täysin perusteltu kysymys.
 
-Perinteinen mailakokoonpano tarjoaa yleensä useita vaihtoehtoja.
+Perinteinen mailakokoonpano tarjoaa tavallisesti useita vaihtoehtoja.
 
-Jos driver ei toimi, käytetään väyläpuuta.
+Jos draiveri ei toimi, käytetään väyläpuuta.
 
 Jos väyläpuu ei toimi, käytetään hybridiä.
 
 Jos hybridi ei toimi, käytetään rautamailaa.
 
-Tämä teoria vähentää näitä vaihtoehtoja tarkoituksella.
+Tämä teoria vähentää näitä vaihtoehtoja tietoisesti.
 
-Syy on selvä.
+Syy on yksinkertainen.
 
-Se asettaa taidon etusijalle verrattuna päällekkäisiin vaihtoehtoihin.
+Se asettaa taidon etusijalle redundanssiin nähden.
 
-Sen sijaan, että ongelmat ratkaistaisiin vaihtamalla mailaa, tämä teoria kannustaa ratkaisemaan ne sillä mailalla, jolle kyseinen vastuu on jo annettu.
+Sen sijaan, että mailaa vaihdettaisiin ongelman ilmetessä, tavoitteena on ratkaista ongelma sillä mailalla, jolle kyseinen tehtävä on alun perin annettu.
 
-Useammat vaihtoehdot voivat tuoda turvallisuuden tunnetta.
+Useammat vaihtoehdot tuovat turvallisuuden tunnetta.
 
-Harvemmat vaihtoehdot voivat johtaa syvempään ymmärrykseen.
+Harvemmat vaihtoehdot johtavat paljon syvempään ymmärrykseen jokaisesta yksittäisestä mailasta.
 
-Tämä teoria valitsee tietoisesti jälkimmäisen.
+Tämä teoria valitsee tietoisesti jälkimmäisen lähestymistavan.
 
 ---
 
-## Why This Theory Does Not Use Irons
+## Miksi tämä teoria ei käytä rautamailoja?
 
-Nykyisessä toteutuksessa tämä teoria ei käytä rautamailoja.
+Nykyisessä toteutuksessa ei käytetä rautamailoja.
 
-Syynä ei ole se, että rautamailat olisivat huonoja mailoja.
+Se ei tarkoita, että rautamailat olisivat huonoja mailoja.
 
 Päinvastoin.
 
-Rautamailat ovat erinomaisia työkaluja.
+Rautamailat ovat erinomaisia mailoja.
 
 Todellinen kysymys on toinen.
 
-> Ovatko rautamailat paras pitkän aikavälin ratkaisu juuri tähän järjestelmään?
+> "Ovatko rautamailat todella paras pitkän aikavälin valinta tälle järjestelmälle?"
 
-Aluksi rautamailoihin perustuva kokoonpano vaikutti täysin järkevältä.
+Aluksi pidin rautamailoihin perustuvaa kokoonpanoa kaikkein järkevimpänä ratkaisuna.
 
-Kun kuitenkin otin huomioon pitkän aikavälin kestävyyden, tarvittavan harjoitusmäärän, toistettavuuden ja ylläpitokustannukset, päädyin siihen, etteivät rautamailat sovellu tämän teorian nykyiseen toteutukseen.
+Kun kuitenkin otin huomioon pitkän aikavälin kestävyyden, tarvittavan harjoittelumäärän, toistettavuuden ja ylläpitokustannukset, päädyin siihen, etteivät rautamailat olleet paras valinta tämän teorian nykyiseen toteutukseen.
 
-Tärkeimmät arviointikriteerit olivat:
+Päätös perustuu neljään kriteeriin:
 
 - Pitkän aikavälin kestävyys
-- Tarvittava harjoitusmäärä
+- Tarvittava harjoittelumäärä
 - Toistettavuus
 - Ylläpitokustannukset
 
-Monet kokeneet golfaajat sanovat lopulta:
+Monet kokeneet golfarit sanovat ennemmin tai myöhemmin:
 
-> "En enää lyö rautamailojani niin kuin ennen."
+> "En enää lyö rautamailojani kuten ennen."
 
-Syynä voivat olla ikä, loukkaantumiset, vähentynyt harjoittelu tai muut fyysiset muutokset.
+Syitä voi olla monia.
 
-Tämä havainto kuitenkin toistuu jatkuvasti golfyhteisössä.
+Ikä.
 
-Omien kokemusteni perusteella päätin olla odottamatta siihen asti.
+Vammat.
 
-Sen sijaan tämä teoria siirtää rautamailojen perinteiset vastuualueet väyläpuille ja wedgeille.
+Vähentynyt harjoittelu.
+
+Tai yksinkertaisesti muut fyysiset muutokset.
+
+Syystä riippumatta tällaisia kommentteja kuulee jatkuvasti golfmaailmassa.
+
+Omien kokemusteni perusteella päätin olla odottamatta siihen päivään asti.
+
+Sen sijaan tässä teoriassa väyläpuut ottavat hoitaakseen ne tehtävät, jotka perinteisesti kuuluivat rautamailoille.
 
 Tämä teoria ei hylkää rautamailoja.
 
-Se jakaa niiden vastuut vain eri tavalla.
+Se ainoastaan määrittelee niiden roolin uudelleen.
 
 ---
 
-## Why This Theory Does Not Use Hybrids
+## Miksi tämä teoria ei käytä hybridejä?
 
-Nykyisessä toteutuksessa tämä teoria ei käytä hybridejä.
+Nykyisessä toteutuksessa ei käytetä hybridejä.
 
-Syy ei ole lyöntipituus.
+Syynä ei ole lyöntipituus.
 
-Syy on pitkän aikavälin kestävyys.
+Syynä on pitkän aikavälin kestävyys.
 
-Testien aikana väyläpuut osoittautuivat tätä teoriaa varten sopivammiksi kuin vastaavan loftin hybridit.
+Laajojen testien jälkeen päädyin siihen, että vastaavan loftin väyläpuut sopivat tämän teorian periaatteisiin paremmin kuin hybridit.
 
-Tärkeimmät syyt olivat:
+Tärkeimmät syyt ovat:
 
-- Leveämpi pohja
-- Pehmeämpi vuorovaikutus maan kanssa
-- Helpompi pallon ilmaan saaminen
-- Enemmän korkeutta pienemmällä voimankäytöllä
-- Vähemmän rasitusta ranteille
+- Leveämpi pohja.
+- Pehmeämpi kontakti nurmeen.
+- Pallon helpompi nostaminen ilmaan.
+- Enemmän korkeutta pienemmällä voimalla.
 
-Väyläpuilla oli myös helpompi saavuttaa korkeutta ja pituutta pienemmällä fyysisellä rasituksella.
+Väyläpuilla on myös helpompi tuottaa sekä korkeutta että lyöntipituutta pienemmällä fyysisellä kuormituksella.
 
-Tämä teoria ei väitä, että hybridit olisivat tehottomia.
+Tämä teoria ei väitä, että hybridit olisivat huonoja mailoja.
 
-Monille golfaajille hybridit ovat erinomaisia mailoja.
+Monille golfareille ne ovat erinomaisia välineitä.
 
-Tämän järjestelmän periaatteiden puitteissa väyläpuut kuitenkin täyttivät samat tehtävät pienemmillä kompromisseilla.
+Tämän järjestelmän periaatteiden puitteissa väyläpuut osoittautuivat kuitenkin tähän teoriaan paremmin sopiviksi.
 
-Tästä syystä hybridejä ei sisälly nykyiseen toteutukseen.
+Tästä syystä nykyisessä toteutuksessa ei käytetä hybridejä.
 
 ---
 
-## Why This Theory Limits Wedge Distances
+## Miksi tämä teoria rajoittaa wedgejen lyöntipituutta?
 
-Tässä teoriassa wedgejen tarkoituksena ei ole maksimoida lyöntipituutta.
+Tässä teoriassa wedgejen tehtävänä ei ole maksimoida lyöntipituutta.
 
 Niiden tehtävä on tarkkuus.
 
-Niitä käytetään ennustettavan lentoradan ja laskeutumispaikan tuottamiseen samalla, kun tarpeeton fyysinen kuormitus pidetään mahdollisimman pienenä.
+Tavoitteena on tuottaa ennustettavia lentoratoja ja laskeutumispisteitä samalla, kun tarpeeton fyysinen kuormitus pidetään mahdollisimman vähäisenä.
 
-Sen sijaan, että lyöntipituutta haettaisiin aggressiivisella tekniikalla, tämä teoria korostaa vakaata pohjakosketusta ja toistettavaa pallokontaktia.
+Sen sijaan, että lisäpituutta haettaisiin aggressiivisella tekniikalla, tässä teoriassa painotetaan vakaata pohjakosketusta maahan ja erittäin toistettavaa osumaa.
 
 Painopiste ei ole voimassa.
 
@@ -683,243 +700,245 @@ Painopiste on johdonmukaisuudessa.
 
 Nykyisessä toteutuksessa:
 
-- SW (58°) vastaa 1–40 jaardin carry-etäisyyksistä.
-- AW (46°) vastaa 1–80 jaardin carry-etäisyyksistä.
+- SW (58°) kattaa 1–40 jaardin carry-etäisyydet.
+- AW (46°) kattaa 1–80 jaardin carry-etäisyydet.
 
-Wedgejen perusrooli on selkeä.
+Wedgejen tehtävät on määritelty selkeästi.
 
-Nosta pallo ilmaan.
+Nostaa pallo ilmaan.
 
-Hallitse laskeutumispaikkaa.
+Hallita laskeutumispistettä.
 
-Pysäytä pallo.
+Pysäyttää pallo.
 
-Kun rullaava lähestymislyönti on mahdollinen tai pidempi lähestymislyönti on tarkoituksenmukaisempi, tämä vastuu siirtyy 13W:lle.
+Kun bump-and-run on tarkoituksenmukaisempi vaihtoehto tai pidempi lähestymislyönti on parempi ratkaisu, tämä vastuu siirtyy 13W:lle.
 
-Tämä teoria ei odota wedgejen suorittavan kaikkia mahdollisia lyöntejä.
+Tämä teoria ei odota wedgejen suorittavan kaikkia mahdollisia lyöntityyppejä.
 
 Jokaiselle mailalle annetaan selkeästi määritelty rooli.
 
 Nykyisessä toteutuksessa vastuut jakautuvat seuraavasti:
 
-- Rullaavat lähestymislyönnit → 13W / AW
+- Bump-and-run → 13W / AW
 - Lyönnit, jotka vaativat sekä korkeutta että etenemistä → AW
-- Suurin mahdollinen korkeus ja pysäytysvoima → SW
+- Maksimaalinen korkeus ja pysäytysvoima → SW
 
 Tämä roolijako vähentää mailojen välistä päällekkäisyyttä ja vahvistaa koko järjestelmän roolien erikoistumista.
 
 ---
 
-## Why This Theory Does Not Use a Driver
+## Miksi tämä teoria ei käytä draiveria?
 
-Nykyisessä toteutuksessa tämä teoria ei käytä driveria ensisijaisena tuloksen tekemiseen tarkoitettuna mailana.
+Nykyisessä toteutuksessa draiveria ei käytetä pistettä tuottavan järjestelmän keskeisenä mailana.
 
-Syy ei ole lyöntipituus.
+Syynä ei ole lyöntipituus.
 
-Syy on toistettavuus, kestävyys ja järjestelmän yksinkertaistaminen.
+Syinä ovat toistettavuus, kestävyys ja järjestelmän yksinkertaistaminen.
 
-Driver on suunniteltu lyömään palloa tiiltä.
+Draiveri on suunniteltu lyömään tiin päällä olevaa palloa.
 
-Väyläpuu puolestaan on suunniteltu lyömään palloa suoraan maasta.
+Väyläpuu on puolestaan suunniteltu lyömään palloa suoraan maasta.
 
-Driverin käyttö tuo mukanaan uusia muuttujia, kuten:
+Draiverin käyttö tuo mukanaan uusia muuttujia:
 
-- Tiin korkeus
-- Nouseva osumakulma
-- Driverille ominainen svingimalli
+- Tiin korkeus.
+- Nouseva osumakulma.
+- Draiverille ominainen svingirata.
 
-Pystyn tuottamaan driverilla erittäin suuren mailanpään nopeuden.
+Luonnollisesti draiveri pystyy tuottamaan enemmän pituutta kuin nykyisessä toteutuksessa käytettävä 3W.
 
-Tämä teoria kuitenkin asettaa vakaan suorituskyvyn suurimman mahdollisen suorituskyvyn edelle.
+Tämä teoria kuitenkin asettaa kestävän suorituskyvyn etusijalle maksimaaliseen suorituskykyyn nähden.
 
-Sen sijaan, että ongelmat ratkaistaisiin niiden ilmettyä, tämä teoria pyrkii vähentämään ongelmien aiheuttavia muuttujia jo ennalta.
+Sen sijaan, että ongelmia ratkaistaisiin niiden synnyttyä, teoria pyrkii vähentämään muuttujia, jotka aiheuttavat ongelmat alun perin.
 
-Tästä syystä nykyisessä toteutuksessa 3W – eikä driver – toimii maksimipituuden mailana.
+Tästä syystä nykyisessä toteutuksessa juuri 3W – eikä draiveri – toimii pisimmän lyöntimatkan mailana.
 
-Tärkeintä ei ole suurin mahdollinen lyöntipituus.
+Tavoitteena ei ole maksimaalinen pituus.
 
-Tärkeintä on riittävä lyöntipituus, joka voidaan toistaa luotettavasti.
+Tavoitteena on riittävä pituus, joka voidaan toistaa johdonmukaisesti.
 
 ---
 
-## Why This Theory Does Not Use Tees
+## Miksi tämä teoria ei käytä tiitä?
 
-Tämä teoria ei käsittele väylän ensimmäistä lyöntiä omana erillisenä kategorianaan.
+Tämä teoria ei käsittele väylän ensimmäistä lyöntiä poikkeuksena.
 
-Tästä syystä nykyisessä toteutuksessa tiitä ei käytetä.
+Siksi nykyisessä toteutuksessa ei käytetä tiitä.
 
-Maksimipituuden maila on 3W, ja kaikki lyönnit pelataan samasta lähtökohdasta: maasta.
+Pisimmän lyöntimatkan maila on 3W, ja kaikki lyönnit pelataan suoraan maasta.
 
-Näin järjestelmään ei tarvitse lisätä erillistä oletusta vain ensimmäistä lyöntiä varten.
+Näin vältetään erityisten olosuhteiden luominen pelkästään ensimmäistä lyöntiä varten.
 
-Tiien poistaminen poistaa myös useita hallintaan liittyviä tehtäviä:
+Tiiden käyttämättä jättäminen poistaa myös useita hallintatehtäviä:
 
-- Tiien ostaminen
-- Tiien mukana kuljettaminen
-- Tiien asettaminen
-- Tiien kerääminen
-- Rikkinäisten tiien hävittäminen
-- Tiivaraston täydentäminen
+- Tiiden ostaminen.
+- Tiiden mukana kuljettaminen.
+- Tiiden asettaminen maahan.
+- Tiiden kerääminen.
+- Katkenneiden tiiden hävittäminen.
+- Uusien tiiden lisääminen.
 
-Luonnollisesti maasta pelaaminen tarkoittaa pallon makuun vaikutuksen hyväksymistä.
+Luonnollisesti suoraan maasta pelaaminen tarkoittaa pallon makuun (lie) liittyvän vaikutuksen hyväksymistä.
 
 Se on tietoinen valinta.
 
-Ensimmäisen lyönnin jälkeen jokainen seuraava lyönti vaatii joka tapauksessa sopeutumista pallon makuuseen.
+Ensimmäisen lyönnin jälkeen jokainen seuraava lyönti on joka tapauksessa sovitettava pallon makuun.
 
-Tämä teoria ei tee ensimmäisestä lyönnistä poikkeusta.
+Tämä teoria yksinkertaisesti kieltäytyy tekemästä ensimmäisestä lyönnistä poikkeusta.
 
-Ensimmäinen lyönti ja kaikki sitä seuraavat lyönnit kuuluvat samaan maasta pelaamiseen perustuvaan järjestelmään.
+Ensimmäinen lyönti ja kaikki sitä seuraavat kuuluvat samaan järjestelmään, jossa pallo pelataan maasta.
 
-Tämä ei ole päätös luopua lyöntipituudesta.
+Kyse ei ole lyöntipituudesta luopumisesta.
 
-Se on päätös vähentää muuttujia ja lisätä toistettavuutta.
+Kyse on muuttujien vähentämisestä ja toistettavuuden parantamisesta.
 
 ---
 
-## The Role of the Driver
+## Draiverin rooli
 
-Tämä teoria ei hylkää driveria itsessään.
+Tämä teoria ei hylkää draiveria itsessään.
 
-Driver on erinomainen maila maksimaalisen lyöntipituuden saavuttamiseen.
+Draiveri on erinomainen maila silloin, kun tavoitteena on maksimaalinen lyöntipituus.
 
-Käytin sitä itsekin tavoitellessani mahdollisimman pitkää lyöntiä.
+Myös minä käytin draiveria silloin, kun tavoittelin mahdollisimman pitkää lyöntiä.
 
-Aggressiivisella svingillä sillä voidaan saavuttaa suurempi mailanpään maksiminopeus ja pidempi lyönti kuin nykyisessä toteutuksessa käytettävällä 3W:llä.
+Luonnollisesti draiveri pystyy tuottamaan enemmän pituutta kuin nykyisessä toteutuksessa käytettävä 3W.
 
-Tämä teoria kuitenkin asettaa kestävän suorituskyvyn maksimaalisen suorituskyvyn edelle.
+Tämä teoria kuitenkin asettaa kestävän suorituskyvyn etusijalle maksimaaliseen suorituskykyyn nähden.
 
-Tästä syystä driver on poistettu nykyisen toteutuksen keskeisestä tuloksen tekemiseen tarkoitetusta järjestelmästä.
+Tästä syystä draiveri ei enää kuulu nykyisen toteutuksen pistettä tuottavan järjestelmän ytimeen.
 
-Driveria ei pidetä tuloksen tekemiseen tarkoitettuna mailana, vaan mailana, jonka tehtävänä on saavuttaa mahdollisimman suuri lyöntipituus.
+Draiveria ei pidetä mailana, jolla rakennetaan tulosta.
+
+Sitä pidetään mailana, jolla tavoitellaan maksimaalista lyöntipituutta.
 
 Toisin sanoen:
 
-- Driver = maksimaalisen lyöntipituuden tavoittelu
-- 3W ja sitä lyhyemmät = tuloksen tekemiseen tarkoitettu kokoonpano
+- Draiveri = Maksimaalisen lyöntipituuden tavoittelu
+- 3W ja sitä lyhyemmät mailat = Pistettä tuottava järjestelmä
 
-Nykyisessä toteutuksessa maksimipituuden maila on 3W.
+Nykyisessä toteutuksessa 3W vastaa pisimmästä lyöntimatkasta.
 
-Driveria ei ole hylätty.
+Draiveria ei ole hylätty.
 
-Sen rooli on muuttunut.
-
----
-
-## Why This Theory Does Not Use Gloves
-
-Nykyisessä toteutuksessa tämä teoria ei käytä golfhanskoja.
-
-Kun aloitin golfin, käytin hanskoja molemmissa käsissä.
-
-Siitä huolimatta sain toisinaan rakkoja tai ihoärsytystä.
-
-Tuolloin uskoin, että hanskat olivat välttämättömät käsieni suojaamiseksi.
-
-Kun ote ja svingi kuitenkin vakiintuivat, näkemykseni muuttui.
-
-Toistettava svingi ei vaadi liiallista puristusvoimaa.
-
-Tarpeettoman jännityksen vähentyessä hanskat eivät enää olleet välttämättömät.
-
-Hanskojen poistaminen poistaa myös useita hallintaan liittyviä tehtäviä:
-
-- Hanskojen ostaminen
-- Hanskojen mukana kuljettaminen
-- Hanskojen pukeminen ja riisuminen
-- Hanskojen peseminen
-- Hanskojen kuivaaminen
-- Hanskojen vaihtaminen
-
-Se vähentää myös hanskoihin liittyviä ongelmia, kuten:
-
-- Hien aiheuttama kovettuminen
-- Likaantuminen
-- Käden liukuminen hanskan sisällä
-- Hanskojen aiheuttamat rusketusrajat
-
-Pelaaminen ilman hanskoja on osa Hallinnan Monimutkaisuuden Optimointia tässä teoriassa.
+Sen rooli on vain määritelty uudelleen.
 
 ---
 
-## Why This Theory Does Not Use a Chipper
+## Miksi tämä teoria ei käytä hansikkaita?
 
-Nykyisessä toteutuksessa tämä teoria ei käytä chipperiä.
+Nykyisessä toteutuksessa ei käytetä golfhansikkaita.
+
+Kun aloitin golfin, käytin hansikkaita molemmissa käsissä.
+
+Siitä huolimatta sain rakkoja ja ihoärsytystä.
+
+Tuohon aikaan uskoin, että hansikkaat olivat välttämättömät käsien suojaamiseksi.
+
+Kun ote ja svingi muuttuivat vakaammiksi, käsitykseni muuttui.
+
+Toistettava svingi ei edellytä mailasta puristamista tarpeettoman voimakkaasti.
+
+Kun ylimääräinen jännitys katosi, myös hansikkaat kävivät tarpeettomiksi.
+
+Hansikkaiden käyttämättä jättäminen poistaa lisäksi useita hallintatehtäviä:
+
+- Hansikkaiden ostaminen.
+- Hansikkaiden mukana kuljettaminen.
+- Hansikkaiden pukeminen ja riisuminen.
+- Hansikkaiden peseminen.
+- Hansikkaiden kuivaaminen.
+- Hansikkaiden vaihtaminen.
+
+Se vähentää myös esimerkiksi seuraavia ongelmia:
+
+- Hien aiheuttama kovettuminen.
+- Lika.
+- Käden liukuminen hansikkaan sisällä.
+- Hansikkaiden jättämät rusketusrajat.
+
+Hansikkaiden käyttämättä jättäminen on myös osa tämän teorian hallinnan monimutkaisuuden optimointia.
+
+---
+
+## Miksi tämä teoria ei käytä chipperiä?
+
+Nykyisessä toteutuksessa ei käytetä chipperiä.
 
 Syy on yksinkertainen.
 
-Chipperin tehtävä on jo muiden nykyisen järjestelmän mailojen hoidettavana.
+Sen tehtävä hoidetaan jo nykyisen järjestelmän muilla mailoilla.
 
 Nykyisessä toteutuksessa vastuut jakautuvat seuraavasti:
 
-- Rullaavat lähestymislyönnit → 13W / AW
+- Bump-and-run → 13W / AW
 - Lyönnit, jotka vaativat sekä korkeutta että etenemistä → AW
-- Suurin mahdollinen korkeus ja pysäytysvoima → SW
+- Maksimaalinen korkeus ja pysäytysvoima → SW
 
 Ennen uuden mailan lisäämistä tämä teoria kysyy ensin, pystyykö nykyinen järjestelmä jo ratkaisemaan ongelman.
 
-Uuden mailan lisääminen tuo lisää vaihtoehtoja.
+Uuden mailan lisääminen kasvattaa käytettävissä olevien vaihtoehtojen määrää.
 
-Samalla se lisää myös hallinnan monimutkaisuutta.
+Samalla se kuitenkin lisää myös hallinnan monimutkaisuutta.
 
-Siksi tämä teoria esittää ennen uuden työkalun lisäämistä seuraavat kysymykset:
+Siksi teoria esittää ennen uuden työkalun käyttöönottoa kaksi kysymystä:
 
-- Pystyykö nykyinen järjestelmä ratkaisemaan tämän ongelman?
-- Voidaanko tarvittava taito kehittää jo olemassa olevalla mailalla?
+- Pystyykö nykyinen järjestelmä jo ratkaisemaan tämän ongelman?
+- Voidaanko tarvittava taito oppia nykyisillä mailoilla?
 
-Vasta silloin, kun vastaus on kielteinen, uuden mailan lisäämistä tulisi harkita.
+Vasta silloin, kun molempiin kysymyksiin vastataan kieltävästi, uuden mailan lisäämistä harkitaan.
 
 Nykyisessä toteutuksessa chipperiä ei tarvita.
 
 Tämä teoria ei hylkää chipperiä.
 
-Se toteaa yksinkertaisesti, että sen tehtävä sisältyy jo nykyiseen järjestelmään.
+Se toteaa yksinkertaisesti, että sen tehtävä hoidetaan jo täysin nykyisessä järjestelmässä.
 
 ---
 
 ## KPI
 
-### Short-Term Goals
+### Lyhyen aikavälin tavoitteet
 
-- Alittaa 90 lyöntiä valkoiselta tiiltä.
-- Pelata johdonmukaisesti alle 100 lyöntiä siniseltä tiiltä.
+- Pelata alle 90 lyöntiä valkoisilta tiipaikoilta.
+- Pelata säännöllisesti alle 100 lyöntiä sinisiltä tiipaikoilta.
 
 ---
 
-### Mid-Term Goals
+### Keskipitkän aikavälin tavoitteet
 
-- Pelata johdonmukaisesti 90:n lyönnin tuloksia siniseltä tiiltä.
+- Pelata säännöllisesti 90 lyönnin tuloksia sinisiltä tiipaikoilta.
 - Jatkaa golfin pelaamista ilman vakavia loukkaantumisia.
 
 ---
 
-### Long-Term Goals
+### Pitkän aikavälin tavoitteet
 
 - Saavuttaa par-tason golf.
-- Rakentaa golfsysteemi, joka voidaan säilyttää koko elämän ajan.
+- Saattaa valmiiksi golfjärjestelmä, jota voidaan ylläpitää koko elämän ajan.
 
 ---
 
-## Conclusion
+## Loppusanat
 
 Tämä teoria ei ole vielä valmis.
 
-Tutkimus jatkuu.
+Validointiprosessi jatkuu.
 
-Uusien havaintojen karttuessa sekä teoria että sen toteutus voivat edelleen kehittyä.
+Kun uusia havaintoja kertyy, sekä teoria että sen toteutus voivat edelleen kehittyä.
 
 Tämä teoria ei ole pelkkä ajatuskoe.
 
-Jatkan tämän teorian soveltamista käytännössä, julkaisen tulokset ja testaan sitä pitkällä aikavälillä.
+Aion jatkaa sen soveltamista käytännössä, julkaista tulokset ja validoida sitä pitkällä aikavälillä.
 
-Voiko tämä teoria todella toimia?
+Toimiiko tämä teoria todella?
 
-Onko mahdollista saavuttaa par-tason golf samalla, kun kehoa suojellaan pitkällä aikavälillä?
+Onko mahdollista pelata par-tason golfia samalla, kun kehoa suojellaan pitkällä aikavälillä?
 
-Vastaus löytyy tulevista kierroksista ja pitkäaikaisista testeistä.
+Vastaus selviää vähitellen tulevien kierrosten ja jatkuvan validoinnin myötä.
 
-Haluan jatkaa golfin pelaamista vielä monien vuosien ajan.
+Toivon voivani jatkaa golfin pelaamista vielä monien vuosien ajan.
 
-Ja toivon, että tämä teoria voi auttaa myös muita, joilla on sama tavoite.
+Ja toivon myös, että tämä teoria voi auttaa muita, joilla on sama tavoite.
 
-Tämä projekti on haaste kohti tuota tavoitetta.
+Tämä projekti on oma yritykseni löytää vastaus.
