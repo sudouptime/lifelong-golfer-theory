@@ -1,4 +1,4 @@
-# Lifelong Golfer Theory #001
+# Lifelong Golfer Theory
 
 A golf system design theory for lifelong play.
 
