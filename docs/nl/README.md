@@ -1,87 +1,87 @@
-# Theorie van de Levenslange Golfer #001
+# Theorie van de levenslange golfer
 
 Een systeemontwerptheorie voor een leven lang golf.
 
 ---
 
-## Languages
+## Talen
 
-- [English](README.md)
-- [日本語](docs/ja/README.md)
-- [한국어](docs/ko/README.md)
-- [简体中文](docs/zh-hans/README.md)
-- [繁體中文](docs/zh-hant/README.md)
-- [Deutsch](docs/de/README.md)
-- [Français](docs/fr/README.md)
-- [Español](docs/es/README.md)
-- [Italiano](docs/it/README.md)
-- [Nederlands](docs/nl/README.md)
-- [Svenska](docs/sv/README.md)
-- [Português](docs/pt/README.md)
-- [Dansk](docs/da/README.md)
-- [Norsk](docs/no/README.md)
-- [Suomi](docs/fi/README.md)
+- [English](../../README.md)
+- [日本語](../ja/README.md)
+- [한국어](../ko/README.md)
+- [简体中文](../zh-hans/README.md)
+- [繁體中文](../zh-hant/README.md)
+- [Deutsch](../de/README.md)
+- [Français](../fr/README.md)
+- [Español](../es/README.md)
+- [Italiano](../it/README.md)
+- [Nederlands](../nl/README.md)
+- [Svenska](../sv/README.md)
+- [Português](../pt/README.md)
+- [Dansk](../da/README.md)
+- [Norsk](../no/README.md)
+- [Suomi](../fi/README.md)
 
 ---
 
-## Overview
+## Overzicht
 
-De Theorie van de Levenslange Golfer is een framework voor het opbouwen van een golfsysteem dat een leven lang kan worden volgehouden.
+De Theorie van de levenslange golfer (Lifelong Golfer Theory) is een theorie voor het ontwerpen van een golfsysteem dat een leven lang kan worden volgehouden.
 
-Het is geen swingmethode.
+Het is geen swingtheorie.
 
-Het is geen universele aanbeveling voor een set golfclubs.
+Het is ook geen universele aanbeveling voor een bepaalde clubsamenstelling.
 
-Het is een framework voor systeemontwerp dat bedoeld is om onnodige complexiteit te verminderen, de reproduceerbaarheid te verbeteren en het vermogen om op lange termijn van golf te genieten te behouden.
+Het is een systeemontwerptheorie voor golf, met als doel onnodige complexiteit te verminderen, de herhaalbaarheid te verbeteren en golf langdurig met plezier te kunnen blijven spelen.
 
 Deze theorie is gebaseerd op vier kernprincipes:
 
-- Optimalisatie van de Beheercomplexiteit
+- Optimalisatie van managementcomplexiteit
 - Rolspecialisatie
-- Reproduceerbaarheid
+- Herhaalbaarheid
 - Duurzaamheid
 
-Het doel van deze theorie is niet om op korte termijn maximale prestaties na te streven.
+Het doel van deze theorie is niet om de maximale prestatie op korte termijn na te streven.
 
-Het doel is om onnodige fysieke belasting te verminderen, besluitvorming te vereenvoudigen en een golfsysteem op te bouwen dat tientallen jaren praktisch bruikbaar blijft.
+Het doel is om onnodige lichamelijke belasting te verminderen, besluitvorming te vereenvoudigen en een golfsysteem op te bouwen dat tientallen jaren bruikbaar blijft.
 
-De huidige implementatie is gebaseerd op fairwaywoods en wedges.
+De huidige implementatie is voornamelijk gebaseerd op fairwaywoods en wedges.
 
-Door het aantal clubs, bewegingspatronen en beslissingen tijdens een ronde te verminderen, wil het systeem de reproduceerbaarheid verbeteren en tegelijkertijd het plezier in golf op de lange termijn behouden.
+Door het aantal clubs, bewegingspatronen en beslissingen tijdens een ronde te verminderen, probeert het systeem de herhaalbaarheid te vergroten zonder het plezier van golf op de lange termijn te verliezen.
 
 ---
 
-## Core Terminology
+## Terminologie
 
-De volgende termen worden in dit document gebruikt.
+In dit document worden de volgende begrippen gebruikt.
 
-### Optimalisatie van de Beheercomplexiteit
+### Optimalisatie van managementcomplexiteit
 
 Het verminderen van het aantal elementen dat tijdens training en spel voortdurend beheerd moet worden.
 
 ### Rolspecialisatie
 
-Elke club een duidelijke en beperkte verantwoordelijkheid geven.
+Elke club een duidelijke en afgebakende taak geven.
 
-### Reproduceerbaarheid
+### Herhaalbaarheid
 
-Voorrang geven aan stabiele en herhaalbare prestaties boven incidentele topprestaties.
+Voorrang geven aan prestaties die consequent herhaald kunnen worden boven incidentele topprestaties.
 
 ### Duurzaamheid
 
-Een golfsysteem opbouwen dat fysiek, mentaal en praktisch een leven lang kan worden volgehouden.
+Een golfsysteem ontwikkelen dat lichamelijk, mentaal en praktisch een leven lang vol te houden is.
 
 ---
 
-## Target Audience
+## Doelgroep
 
 Deze theorie is bedoeld voor golfers van elk niveau die een duurzaam golfsysteem voor de lange termijn willen opbouwen.
 
-Ze stelt geen universele clubconfiguratie voor die voor iedereen geschikt is.
+Ze stelt geen universele clubsamenstelling voor die voor iedereen geschikt is.
 
-De configuratie die in dit document wordt gepresenteerd, is slechts één implementatie op basis van de principes van deze theorie.
+De configuratie die hier wordt gepresenteerd is slechts één implementatie op basis van de principes van deze theorie.
 
-De optimale implementatie verschilt afhankelijk van afstand, fysieke mogelijkheden, leeftijd, blessuregeschiedenis, trainingsomgeving en persoonlijke omstandigheden.
+De optimale implementatie hangt af van slagafstand, fysieke mogelijkheden, leeftijd, blessuregeschiedenis, trainingsomgeving en persoonlijke omstandigheden.
 
 De implementatie is persoonlijk.
 
@@ -89,418 +89,428 @@ De principes zijn universeel.
 
 ---
 
-## Current Results
+## Huidige resultaten
 
-Dit project bevindt zich momenteel in een vroege testfase.
+Dit project bevindt zich momenteel in de eerste fase van validatie.
 
-De volgende resultaten zijn gebaseerd op de huidige implementatie van de Theorie van de Levenslange Golfer.
+De onderstaande resultaten zijn gebaseerd op de huidige implementatie van de Theorie van de levenslange golfer.
 
 Ze worden niet gepresenteerd als bewijs van de theorie.
 
-Ze vormen het uitgangspunt voor een langetermijnvalidatie.
+Ze vormen het uitgangspunt van een langetermijnvalidatie.
 
-Naarmate er meer rondes worden gespeeld en nieuwe observaties worden verzameld, kunnen zowel de theorie als de implementatie zich verder ontwikkelen.
+Naarmate meer rondes worden gespeeld en nieuwe observaties worden verzameld, kunnen zowel de theorie als de implementatie zich verder ontwikkelen.
 
 - Golfervaring: 1 jaar
 - Gespeelde rondes: 17
-- Beste score (Witte tee): 93
-- Beste score (Blauwe tee): 109
-- Gemiddelde van de laatste 5 rondes (Witte tee): 106
-- Gemiddelde van de laatste 5 rondes (Blauwe tee): 114
+- Beste score (witte tees): 93
+- Beste score (blauwe tees): 109
+- Gemiddelde van de laatste 5 rondes (witte tees): 106
+- Gemiddelde van de laatste 5 rondes (blauwe tees): 114
 
-Afhankelijk van het evenement en mijn medespelers speel ik meestal vanaf de witte of de blauwe tees.
+Afhankelijk van het evenement en mijn medespelers speel ik meestal vanaf de witte of blauwe tees.
 
 ---
 
-## Learning Environment
+## Leeromgeving
 
 Toen ik begon met golfen, volgde ik één les per week.
 
-Het doel was duidelijk.
+De doelstellingen waren duidelijk.
 
 - Mijn lichaam een volledig nieuwe beweging aanleren.
 - Nieuwe neurale verbindingen opbouwen.
 - Die verbindingen versterken door herhaling.
 
-Om het leerproces te versnellen sloeg ik, ook op lesdagen, ongeveer 500 ballen per dag, zowel in indoorsimulatoren als op de driving range.
+Om het leerproces te versnellen sloeg ik, ook op lesdagen, ongeveer 500 ballen per dag, zowel op indoorsimulatoren als op de driving range.
 
-Ik hield deze routine ongeveer twee maanden vol.
+Deze routine hield ik ongeveer twee maanden vol.
 
-In die periode liep ik echter meerdere blessures op.
+Tijdens die periode liep ik echter meerdere blessures op.
 
-Nadat ik de basis had geleerd, stopte ik met de lessen en ging ik zelfstandig verder.
+Op basis van wat ik in die eerste twee maanden had geleerd, ben ik daarna zelfstandig verder gegaan met mijn onderzoek.
 
-Sindsdien vertrouw ik op:
+Sindsdien maak ik gebruik van:
 
 - YouTube
 - Boeken
-- Indoor golfsimulatoren
+- Indoorgolfsimulatoren
 - Driving ranges
 - Par-3-banen
-- Volwaardige golfbanen
+- Volwaardige 18-holesbanen
 
-om een aanpak te blijven testen en verfijnen die reproduceerbaar is en mijn lichaam minder belast.
+om voortdurend een aanpak te testen en te verbeteren die zowel herhaalbaar als lichamelijk minder belastend is.
 
 Destijds wist ik niet wat de juiste weg was.
 
-Mijn oplossing was simpelweg meer ballen slaan.
+Mijn oplossing was eenvoudig.
 
-Uiteindelijk leidde die aanpak tot blessures.
+Meer ballen slaan.
 
-Tegenwoordig is mijn kijk op golf fundamenteel anders.
+Uiteindelijk leidde juist die aanpak tot blessures.
 
-Zowel de frequentie als de intensiteit van mijn training zijn aanzienlijk verminderd.
+Tegenwoordig kijk ik daar heel anders tegenaan.
 
-Deze theorie heeft niet als doel om uitsluitend door meer trainingsvolume beter te worden.
+Vergeleken met die periode zijn zowel de trainingsfrequentie als de trainingsintensiteit op een veel duurzamer niveau gekomen.
 
-Ze geeft prioriteit aan reproduceerbaarheid, duurzaamheid en ontwikkeling op de lange termijn.
+Deze theorie heeft niet als doel beter te worden door uitsluitend meer te trainen.
+
+De nadruk ligt op herhaalbaarheid, duurzaamheid en ontwikkeling op de lange termijn.
 
 ---
 
-## Introduction
+## Inleiding
 
-Ik ben ongeveer een jaar geleden begonnen met golfen.
+Ik ben ongeveer een jaar geleden begonnen met golf.
 
-Zoals veel beginners was ik sterk gefascineerd door afstand.
+Zoals veel beginners was ik in het begin gefascineerd door afstand.
 
-Ik geloofde dat het kunnen spelen met moeilijke clubs op zichzelf al een teken van vooruitgang was.
+Ik dacht dat het beheersen van moeilijkere clubs op zichzelf al een bewijs van vooruitgang was.
 
-Ik stelde een volledige muscle-back ijzerset samen, van ijzer 1 tot pitching wedge, en probeerde mijn hele spel op te bouwen rond afstandsverschillen tot 240 yard.
+Ik stelde een volledige set muscle-back-ijzers samen, van een 1-ijzer tot en met een pitching wedge, en probeerde mijn hele spel op te bouwen rond afstandsverschillen tot 240 yard.
 
-Ik sloeg met een driver ook drives van ongeveer 320 yard.
+Daarnaast sloeg ik drives van ongeveer 320 yard.
 
-Maar die zoektocht had een prijs.
+Die zoektocht naar maximale afstand had echter een prijs.
 
-Een ribkraakbeenblessure dwong mij om twee maanden te stoppen met golf.
+Door een blessure aan het ribkraakbeen moest ik twee maanden stoppen met golf.
 
-Na mijn terugkeer bleef ik intensief met ijzers oefenen, waarna ik uiteindelijk schouderklachten en chronische polspijn ontwikkelde.
+Na mijn terugkeer bleef ik intensief trainen met ijzers, wat uiteindelijk leidde tot schouderklachten en chronische polspijn.
 
 Die ervaringen veranderden mijn kijk op golf volledig.
 
-Tot dat moment vroeg ik mezelf af:
+Tot dat moment stelde ik mezelf steeds dezelfde vraag:
 
 > "Hoe kan ik de bal verder slaan?"
 
-Daarna begon ik mezelf af te vragen:
+Later veranderde die vraag in:
 
-> "Hoe kan ik de komende twintig jaar golf blijven spelen zonder mijn lichaam te beschadigen?"
+> "Hoe kan ik over twintig jaar nog steeds golf spelen zonder mijn lichaam te beschadigen?"
 
 Mijn focus verschoof van maximale afstand naar optimale afstand.
 
-In plaats van de identiteit van een long hitter na te streven, koos ik ervoor een levenslange golfer te worden.
+In plaats van een longhitter te willen worden, besloot ik een golfer voor het leven te worden.
 
-Tijdens mijn zoektocht naar een duurzame oplossing nam ik geleidelijk afstand van een configuratie die op ijzers was gebaseerd en ontwikkelde ik een systeem rond fairwaywoods en wedges.
+Tijdens mijn zoektocht naar een duurzamere aanpak nam ik geleidelijk afstand van een configuratie die draaide om ijzers en ontwikkelde ik een systeem dat voornamelijk gebaseerd is op fairwaywoods en wedges.
 
-Deze theorie is het resultaat van dat proces.
+Uit dat proces is deze theorie ontstaan.
 
-Het langetermijndoel is vast te stellen of golf op par-niveau mogelijk is, terwijl het lichaam op de lange termijn wordt beschermd.
+Het langetermijndoel is om vast te stellen of golf op parniveau mogelijk is zonder het lichaam op de lange termijn te overbelasten.
 
 ---
 
-## Theory vs. Implementation
+## Theorie en implementatie
 
-De essentie van deze theorie is geen specifieke clubconfiguratie.
+De kern van deze theorie is geen specifieke clubsamenstelling.
 
-De basis bestaat uit vier kernprincipes:
+Ze is gebaseerd op vier fundamentele principes:
 
-- Optimalisatie van de Beheercomplexiteit
+- Optimalisatie van managementcomplexiteit
 - Rolspecialisatie
-- Reproduceerbaarheid
+- Herhaalbaarheid
 - Duurzaamheid
 
-Daarom beveelt deze theorie niet één enkele clubconfiguratie aan voor alle golfers.
+Daarom beveelt deze theorie niet één identieke clubsamenstelling aan voor alle golfers.
 
 De configuratie in dit document is slechts de huidige implementatie.
 
-De optimale implementatie verschilt afhankelijk van afstand, fysieke mogelijkheden, leeftijd, blessuregeschiedenis, trainingsomgeving en persoonlijke omstandigheden.
+De optimale implementatie hangt af van slagafstand, fysieke mogelijkheden, leeftijd, blessuregeschiedenis, trainingsomgeving en persoonlijke omstandigheden.
 
-De clubs zelf zijn niet het belangrijkste.
+Niet de clubs zelf zijn het belangrijkst.
 
-Waar het om gaat, is het verminderen van de beheercomplexiteit, het toewijzen van duidelijke verantwoordelijkheden en het opbouwen van een golfsysteem dat op lange termijn duurzaam blijft.
+Het belangrijkste is het verminderen van managementcomplexiteit, het toewijzen van duidelijke rollen aan iedere club en het ontwikkelen van een duurzaam golfsysteem voor de lange termijn.
 
 ---
 
-## Current Implementation
+## Huidige implementatie
 
-Binnen deze theorie wordt afstandscontrole voornamelijk bereikt door de lengte van de swing en de positie van de handen op de grip.
+Binnen deze theorie wordt afstand voornamelijk gecontroleerd door de lengte van de swing en de positie van de handen op de grip.
 
-In plaats van meer clubs toe te voegen om kleinere afstandsverschillen te creëren, krijgt elke club een duidelijk omschreven rol.
+In plaats van meer clubs toe te voegen om kleinere afstandsverschillen te creëren, krijgt iedere club een duidelijk afgebakende taak.
 
-In de huidige implementatie is de 3W de club voor de maximale afstand.
+In de huidige implementatie is de 3W verantwoordelijk voor de maximale afstand.
 
-De langste club wordt niet uitsluitend gekozen op basis van de maximale potentiële afstand.
+De langste club wordt niet uitsluitend gekozen op basis van afstand.
 
-Hij wordt gekozen op basis van de balans tussen afstand, reproduceerbaarheid, fysieke belasting en de compatibiliteit met de rest van het systeem.
+De keuze wordt bepaald door de combinatie van afstand, herhaalbaarheid, lichamelijke belasting en de samenhang met het totale systeem.
 
 De huidige implementatie bestaat uit zeven clubs, exclusief de putter.
 
 | Club | Rol | Carry-afstand |
-|------|------|--------------:|
+|------|-----|--------------:|
 | 3W (15°) | Maximale afstand | 200–240 yd |
 | 7W (21°) | Middellange afstand | 160–190 yd |
 | 13W (34°) | Hoofdclub | 1–150 yd |
-| AW (46°) | Recovery-club | 1–80 yd |
-| SW (58°) | Finish-club | 1–40 yd |
-| 5W LH (18°) | Gespecialiseerde Recovery-club | 140–220 yd |
-| 15W LH (39°) | Gespecialiseerde Recovery-club | 1–130 yd |
+| AW (46°) | Recoveryclub | 1–80 yd |
+| SW (58°) | Finishclub | 1–40 yd |
+| 5W LH (18°) | Speciale recoveryclub | 140–220 yd |
+| 15W LH (39°) | Speciale recoveryclub | 1–130 yd |
 
 ### 3W (15°)
 
-De club voor de maximale afstand in de huidige implementatie.
+De club voor maximale afstand binnen de huidige implementatie.
 
-Hij is verantwoordelijk voor carry-afstanden tussen 200 en 240 yard.
+Hij bestrijkt carry-afstanden van 200 tot 240 yard.
 
-De 3W biedt voldoende afstand voor de rol van maximale-afstandsclub, terwijl de reproduceerbaarheid van het gehele systeem behouden blijft.
+De 3W levert voldoende afstand om zijn rol als langste club te vervullen, terwijl de herhaalbaarheid van het volledige systeem behouden blijft.
 
-Binnen deze theorie wordt de langste club niet uitsluitend op basis van afstand gekozen.
+Binnen deze theorie wordt de langste club niet uitsluitend gekozen op basis van afstand.
 
-Hij wordt geselecteerd op basis van afstand, reproduceerbaarheid, fysieke belasting en compatibiliteit met het volledige systeem.
+De keuze wordt bepaald door afstand, herhaalbaarheid, lichamelijke belasting en de samenhang met het totale systeem.
 
 ### 7W (21°)
 
 De club voor middellange afstanden.
 
-Hij is verantwoordelijk voor carry-afstanden tussen 160 en 190 yard.
+Hij bestrijkt carry-afstanden van 160 tot 190 yard.
 
-Zijn rol is de overgang te vormen tussen de lange-afstandsclub en de clubs voor het korte spel.
+Zijn rol is het verbinden van de langste club met de clubs voor het korte spel.
 
 ### 13W (34°)
 
 De hoofdclub van de huidige implementatie.
 
-Hij is verantwoordelijk voor carry-afstanden tussen 1 en 150 yard.
+Hij bestrijkt carry-afstanden van 1 tot 150 yard.
 
-Hij wordt gebruikt voor rollende slagen, standaardapproaches en afstandscontrole.
+Hij wordt gebruikt voor bump-and-run-slagen, standaardapproaches en afstandscontrole.
 
 Het is de meest gebruikte club binnen het systeem.
 
-Bij approaches is de 13W de standaardkeuze wanneer een rollende slag geschikt is.
+Bij approaches is de 13W de standaardkeuze zodra een bump-and-run de juiste optie is.
 
-Wanneer er voldoende ruimte is voor uitrol, wordt een rollende slag als beter reproduceerbaar beschouwd dan een hoge wedgeslag.
+Wanneer er voldoende ruimte is om de bal te laten rollen, wordt een bump-and-run als beter herhaalbaar beschouwd dan een hoge wedge-slag.
 
-Tijdens de huidige testfase zijn rollende slagen met de 13W, vergeleken met hoge approaches met de AW of SW, minder beïnvloed door de ligging van de bal en leveren zij stabielere resultaten op.
+De huidige tests laten zien dat bump-and-runs met de 13W minder gevoelig zijn voor de ligging van de bal (lie) en constantere resultaten opleveren dan hoge approaches met de AW of SW.
 
-Binnen deze theorie is de 13W niet zomaar een fairwaywood.
+Binnen deze theorie is de 13W veel meer dan alleen een fairwaywood.
 
-Het is de centrale club van het gehele systeem.
+Hij vormt het middelpunt van het volledige systeem.
 
 ### AW (46°)
 
-De recovery-club.
+De recoveryclub.
 
-Hij is verantwoordelijk voor carry-afstanden tussen 1 en 80 yard.
+Hij bestrijkt carry-afstanden van 1 tot 80 yard.
 
-Hij wordt gebruikt wanneer hoogte nodig is, wanneer een obstakel moet worden overgeslagen of wanneer de 13W niet geschikt is voor de situatie.
+Hij wordt gebruikt wanneer extra hoogte nodig is, wanneer een obstakel moet worden overgeslagen of wanneer de 13W niet geschikt is voor de situatie.
 
-Bij approaches wordt hij gebruikt wanneer de ligging van de bal daarom vraagt of wanneer zowel een gematigde balvlucht als voorwaartse voortgang nodig zijn.
+Bij approaches wordt hij gebruikt wanneer de ligging van de bal dit vereist of wanneer zowel hoogte als voorwaartse afstand nodig zijn.
 
-Omdat hij de bal gemakkelijker de lucht in brengt dan de 13W en gemakkelijker vooruit laat gaan dan de SW, vervult hij de rol van tussengelegen club voor korte afstanden.
+Omdat de bal gemakkelijker omhoog komt dan met de 13W en verder vliegt dan met de SW, vervult hij een tussenrol binnen het korte spel.
 
 ### SW (58°)
 
-De finish-club.
+De finishclub.
 
-Hij is verantwoordelijk voor carry-afstanden tussen 1 en 40 yard.
+Hij bestrijkt carry-afstanden van 1 tot 40 yard.
 
-Hij wordt gebruikt wanneer maximale hoogte, maximale stopkracht of zeer nauwkeurige controle op korte afstand vereist zijn.
+Hij wordt gebruikt wanneer maximale hoogte, maximale stopkracht of uiterste precisie op korte afstand nodig is.
 
-Bij approaches wordt hij gebruikt wanneer de bal hoog moet worden gelanceerd en snel moet stoppen, wanneer de vlag dichtbij staat of wanneer ontsnappen en stopkracht prioriteit hebben, zoals vanuit een bunker of diep rough.
+Bij approaches wordt hij gebruikt wanneer de bal hoog moet worden gelanceerd en snel moet stoppen, wanneer de vlag dicht bij de landingszone staat of wanneer maximale stopkracht nodig is vanuit een bunker of diep rough.
 
-Binnen deze theorie wordt van de SW niet verwacht dat hij onnodig veel afstand produceert.
+Binnen deze theorie hoeft de SW geen extra afstand te leveren.
 
-De SW is geen club voor maximale afstand.
+Het is geen afstandsclub.
 
-Hij is verantwoordelijk voor maximale hoogte en maximale stopkracht.
+Zijn taak is maximale hoogte en maximale stopkracht.
 
-### Left-Handed Clubs
+### Linkshandige clubs
 
-De huidige implementatie omvat linkshandige clubs.
+De huidige implementatie bevat linkshandige clubs.
 
-Deze clubs zijn niet bedoeld als vervanging van de standaard rechtshandige configuratie.
+Ze zijn niet bedoeld als vervanging van de normale rechtshandige configuratie.
 
-Ze zijn bedoeld voor situaties waarin een conventionele rechtshandige slag onnodige complexiteit, overmatige fysieke belasting of een aanzienlijk lagere kans op succes met zich mee zou brengen.
+Ze bestaan uitsluitend voor situaties waarin een rechtshandige slag onnodige complexiteit, extra lichamelijke belasting of een aanzienlijk lagere kans op succes zou opleveren.
 
 Binnen deze theorie worden linkshandige clubs beschouwd als gespecialiseerde hulpmiddelen.
 
-Meer specifiek zijn het speciale recovery-hulpmiddelen.
+Nauwkeuriger gezegd zijn het hulpmiddelen die uitsluitend bedoeld zijn voor recovery.
 
-Hun doel is niet om de variatie aan slagen te vergroten.
+Hun doel is niet om het aantal verschillende slagen te vergroten.
 
-Hun doel is om recovery te vereenvoudigen door vaste oplossingen toe te wijzen aan situaties die regelmatig terugkeren.
+Hun doel is om recoverysituaties eenvoudiger te maken door terugkerende problemen van een specifieke oplossing te voorzien.
 
-Een mogelijke kritiek op deze aanpak is dat het toevoegen van linkshandige clubs de beheercomplexiteit juist vergroot.
+Een veelgehoorde opmerking over deze aanpak is:
 
-Die kritiek is tot op zekere hoogte terecht.
+> "Vergroot het toevoegen van linkshandige clubs de managementcomplexiteit niet?"
 
-Een linkshandige swing vormt immers een extra bewegingspatroon dat onderhouden moet worden.
+Die vraag is deels terecht.
 
-In de huidige implementatie wordt die extra kost echter bewust beperkt.
+Er moet immers een extra linkshandig bewegingspatroon worden onderhouden.
 
-Er worden slechts twee linkshandige clubs gebruikt, en beide zijn woods.
+Binnen de huidige implementatie is die extra belasting echter bewust tot een minimum beperkt.
 
-Er wordt geen linkshandige wedge of putter toegevoegd.
+Er worden slechts twee linkshandige clubs gebruikt.
 
-De reden hiervoor is dat de huidige implementatie geen volledig linkshandig systeem vereist.
+En beide zijn fairwaywoods.
 
-Er zijn slechts twee recovery-hulpmiddelen nodig: één voor lange ontsnappingsslagen en één voor gecontroleerde recovery op korte afstand.
+Er is geen linkshandige wedge.
 
-Omdat beide clubs woods zijn, delen zij veel bewegingskenmerken met de rest van het op woods gebaseerde systeem.
+Er is geen linkshandige putter.
 
-In plaats van een volledig nieuwe familie clubs te introduceren, breidt deze theorie het bestaande bewegingspatroon van de woods uit naar de tegenovergestelde zijde.
+De huidige implementatie vereist geen volledig linkshandig systeem.
 
-De belangrijke vraag is niet hoeveel clubs er aanwezig zijn.
+Ze vereist slechts twee gespecialiseerde recoveryclubs: één voor lange afstanden en één voor korte afstanden.
 
-De belangrijke vraag is hoeveel extra bewegingspatronen onderhouden moeten worden.
+Omdat beide fairwaywoods zijn, breiden ze uitsluitend hetzelfde bewegingspatroon van de fairwaywoods uit naar de linkerkant.
+
+Er wordt geen volledig nieuwe clubfamilie toegevoegd.
+
+Waar het om gaat, is niet hoeveel clubs worden toegevoegd.
+
+Waar het om gaat, is hoeveel extra bewegingspatronen blijvend onderhouden moeten worden.
 
 ### 5W LH (18°)
 
-De gespecialiseerde recovery-club voor lange afstanden.
+De gespecialiseerde recoveryclub voor lange afstanden.
 
-Hij is verantwoordelijk voor carry-afstanden tussen 140 en 220 yard.
+Hij bestrijkt carry-afstanden van 140 tot 220 yard.
 
-Dit is een linkshandige club voor lange recovery-situaties die niet effectief kunnen worden opgelost met de standaard rechtshandige configuratie.
+Deze linkshandige club wordt gebruikt in recoverysituaties over lange afstand waarin een rechtshandige slag praktisch onmogelijk is.
 
-Hij wordt gebruikt wanneer bomen, obstakels, hellingen, beperkingen in de stand of de lay-out van de baan een rechtshandige slag onpraktisch maken.
+Hij wordt gebruikt wanneer bomen, obstakels, hellingen, beperkingen in de stand of de baanlayout een rechtshandige slag onrealistisch maken.
 
-Binnen deze theorie is de 5W LH niet opgenomen om de variatie aan slagen te vergroten.
+Binnen deze theorie is de 5W LH niet toegevoegd om meer soorten slagen mogelijk te maken.
 
-Hij is opgenomen om een reproduceerbare linkshandige optie te bieden voor lange ontsnappingsslagen.
+Hij is toegevoegd om een herhaalbare linkshandige oplossing te bieden voor recovery over lange afstand.
 
 ### 15W LH (39°)
 
-De gespecialiseerde recovery-club voor korte afstanden.
+De gespecialiseerde recoveryclub voor korte afstanden.
 
-Hij is verantwoordelijk voor carry-afstanden tussen 1 en 130 yard.
+Hij bestrijkt carry-afstanden van 1 tot 130 yard.
 
-Dit is een linkshandige club voor korte recovery-situaties die niet effectief kunnen worden opgelost met de standaard rechtshandige configuratie.
+Deze linkshandige club wordt gebruikt voor recoverysituaties op korte afstand die moeilijk uitvoerbaar zijn met een rechtshandige slag.
 
-Hij volgt dezelfde filosofie als de 5W LH, maar richt zich op kortere slagen die meer controle vereisen.
+Hij volgt dezelfde filosofie als de 5W LH, maar is bedoeld voor kortere afstanden waarbij meer controle nodig is.
 
-Op dit moment bieden deze linkshandige clubs speciale recovery-opties terwijl de algemene structuur van het systeem behouden blijft.
+Op dit moment bieden deze twee linkshandige clubs gespecialiseerde recoveryoplossingen zonder de structuur van het totale systeem te veranderen.
 
-Voor de voorzienbare toekomst blijft deze implementatie ongewijzigd terwijl de langetermijntests worden voortgezet.
+Voorlopig blijft deze configuratie behouden terwijl de langetermijnvalidatie wordt voortgezet.
 
 ---
 
-## Why This Theory Exists
+## Waarom deze theorie is ontstaan
 
-Het uitgangspunt van deze theorie is een eenvoudige vraag:
+Deze theorie begon met een eenvoudige vraag.
 
-> "Kan hetzelfde resultaat op een eenvoudigere en duurzamere manier worden bereikt?"
+> "Is het mogelijk om hetzelfde resultaat op een eenvoudigere en duurzamere manier te bereiken?"
 
-Die manier van denken werd vanzelf ook op golf toegepast.
+Het toepassen van die vraag op golf vormde het uitgangspunt van deze theorie.
 
-Deze theorie gaat niet uit van een traditionele clubconfiguratie als vaststaand gegeven.
+Deze theorie vertrekt niet vanuit de aanname dat de traditionele clubsamenstelling vanzelfsprekend de juiste is.
 
-In plaats daarvan onderzoekt zij de rol van elke club opnieuw.
+Ze begint met het opnieuw bekijken van de rol van iedere afzonderlijke club.
 
-Kan een volledig spel worden opgebouwd rond ijzers?
+Is een spel dat draait om ijzers werkelijk de optimale oplossing?
 
-Kunnen fairwaywoods de rollen overnemen die traditioneel aan ijzers zijn toegewezen?
+Kunnen fairwaywoods de rollen overnemen die traditioneel door ijzers worden vervuld?
 
-Kan de driver uit het kernsysteem voor het maken van scores worden verwijderd?
+Kan de driver uit de kern van het scoresysteem worden verwijderd?
 
-Kunnen minder clubs leiden tot een hogere reproduceerbaarheid?
+Bestaat er een manier om een hogere herhaalbaarheid te bereiken?
 
-Na verloop van tijd groeiden deze vragen uit tot systematische experimenten.
+Gaandeweg groeiden deze vragen uit tot een systematisch validatieproces.
 
 Deze theorie is het resultaat van dat proces.
 
-Zij is niet ontstaan uit één enkel idee.
+Ze is niet ontstaan uit één enkel idee.
 
-Zij is ontstaan uit het voortdurend heroverwegen van de traditionele rollen van clubs en het zoeken naar manieren om dezelfde — of zelfs betere — resultaten te behalen met minder variabelen en minder fysieke belasting.
+Ze is ontstaan uit het voortdurend heroverwegen van de traditionele rol van clubs en het zoeken naar manieren om met minder variabelen en minder lichamelijke belasting dezelfde, of zelfs betere, resultaten te behalen.
 
 ---
 
-## Core Principles
+## Kernprincipes
 
-De Theorie van de Levenslange Golfer is gebaseerd op vier principes.
+De Theorie van de levenslange golfer is gebaseerd op vier kernprincipes.
 
-Alles wat in dit document wordt gepresenteerd, is uiteindelijk op deze vier principes terug te voeren.
+Alles wat in dit document wordt beschreven, is uiteindelijk op deze vier principes terug te voeren.
 
-### Optimalisatie van de Beheercomplexiteit
+### Optimalisatie van managementcomplexiteit
 
 Verminder het aantal elementen dat voortdurend beheerd moet worden.
 
-Minder beheer betekent dat meer aandacht kan worden besteed aan de uitvoering.
+Hoe minder er beheerd hoeft te worden, hoe meer aandacht kan worden besteed aan de uitvoering zelf.
 
 ### Rolspecialisatie
 
-Ken aan elke club een duidelijk afgebakend verantwoordelijkheidsgebied toe.
+Geef iedere club een duidelijk afgebakende verantwoordelijkheid.
 
-In plaats van één club een onbeperkt aantal taken te laten uitvoeren, definieert deze theorie duidelijk waarvoor elke club verantwoordelijk is en legt zij de nadruk op een diepgaand begrip van die verantwoordelijkheid.
+In plaats van één club een onbeperkt aantal taken te laten uitvoeren, definieert deze theorie voor iedere club een duidelijke rol en stimuleert zij een diepgaand begrip van die rol.
 
-### Reproduceerbaarheid
+### Herhaalbaarheid
 
-Betrouwbare en herhaalbare prestaties zijn belangrijker dan incidentele topprestaties.
+Geef de voorkeur aan prestaties die consequent herhaald kunnen worden boven incidentele topprestaties.
 
 Het doel is niet de perfecte slag.
 
-Het doel is een slag die consequent kan worden herhaald.
+Het doel is een slag die steeds opnieuw uitgevoerd kan worden.
 
 ### Duurzaamheid
 
-Elke beslissing moet bijdragen aan het vermogen om op lange termijn golf te blijven spelen.
+Iedere beslissing moet bijdragen aan de mogelijkheid om ook op de lange termijn golf te blijven spelen.
 
-Prestaties die worden bereikt door onnodige fysieke belasting worden niet als duurzaam beschouwd.
+Prestaties die alleen bereikt kunnen worden door onnodige lichamelijke belasting worden binnen deze theorie niet als duurzaam beschouwd.
 
 ---
 
-## Optimalisatie van de Beheercomplexiteit
+## Optimalisatie van managementcomplexiteit
 
-Het verminderen van het aantal clubs is niet het doel van deze theorie.
+Het verminderen van het aantal clubs is niet het eigenlijke doel van deze theorie.
 
 Het is slechts een gevolg.
 
-Het werkelijke doel is het verminderen van het aantal zaken dat beheerd moet worden.
+Het werkelijke doel is het verminderen van het aantal elementen dat beheerd moet worden.
 
-Golf is een voortdurende opeenvolging van beslissingen.
+Golf is een voortdurende reeks beslissingen.
 
-Bij iedere slag moeten onder andere de volgende keuzes worden gemaakt:
+Voor iedere slag moet onder andere worden beslist:
 
-- Clubkeuze
-- Type swing
-- Balpositie
-- Doellijn
-- Slagstrategie
+- welke club wordt gebruikt;
+- welk type swing wordt gemaakt;
+- waar de bal wordt geplaatst;
+- welke lijn wordt gekozen;
+- welke strategie wordt gevolgd.
 
-Elke beslissing vraagt aandacht.
+Iedere beslissing vraagt aandacht.
 
-Hoe meer variabelen er zijn, hoe groter de mentale inspanning die nodig is om te spelen.
+Hoe meer variabelen beheerd moeten worden, hoe groter de mentale belasting tijdens een ronde wordt.
 
-Deze theorie probeert beslissingen te verminderen die niet rechtstreeks bijdragen aan betere scores.
+Deze theorie probeert beslissingen weg te nemen die niet rechtstreeks bijdragen aan een betere score.
 
-Verminder het aantal clubs.
+Minder clubs.
 
-Verminder het aantal bewegingspatronen.
+Minder bewegingspatronen.
 
-Schaf tees af.
+Geen tees.
 
-Schaf handschoenen af.
+Geen handschoenen.
 
-Geef elke club een duidelijke verantwoordelijkheid.
+Duidelijke rollen.
 
-Al deze keuzes volgen dezelfde filosofie.
+Al deze keuzes komen voort uit dezelfde filosofie.
 
 Verminder onnodig beheer.
 
-Verhoog de reproduceerbaarheid.
+Vergroot de herhaalbaarheid.
 
 Eenvoud is niet het doel.
 
-Optimalisatie wel.
+Optimalisatie is het doel.
 
 ---
 
-## Why Reduce Movement Patterns?
+## Waarom bewegingspatronen verminderen?
 
-Toen ik begon met golfen, bleef één uitspraak mij altijd bij:
+Toen ik begon met golfen,
 
-> "Er is ontzettend veel te leren."
+> "Golf is moeilijk omdat er zoveel te leren valt."
 
-Destijds accepteerde ik die uitspraak zonder meer.
+Die uitspraak is me altijd bijgebleven.
 
-Elke club leek een andere beweging te vereisen.
+Destijds nam ik die zonder twijfel aan.
+
+Ik had het gevoel dat iedere club een ander bewegingspatroon vereiste.
 
 Driver.
 
@@ -514,69 +524,69 @@ Wedge.
 
 Putter.
 
-Daarnaast bracht iedere ligging en iedere situatie weer nieuwe variabelen met zich mee.
+Daarnaast kwamen er voortdurend nieuwe variabelen bij, afhankelijk van de ligging van de bal en de situatie.
 
-- Een bal op een tee
-- Een bal op de grond
-- Rough
-- Bunker
-- Schuine lies
+- Een bal op een tee.
+- Een bal op de grond.
+- Rough.
+- Bunker.
+- Liggingen op een helling.
 
-Zelfs op een vlakke oefenmat leek het enorm veel herhaling te vergen om iedere club consequent goed te raken.
+Zelfs op een volledig vlakke oefenmat had ik het gevoel dat er ontelbaar veel herhalingen nodig waren voordat ik iedere club consequent kon slaan.
 
-Tijdens mijn eerste maanden kon ik noch hybrides noch fairwaywoods consistent slaan.
+Tijdens mijn eerste maanden kon ik noch hybrides noch fairwaywoods betrouwbaar slaan.
 
-Omdat ik van plan was mijn eerste volledige ronde binnen drie maanden na het begin van mijn lessen te spelen, leek een configuratie gebaseerd op ijzers destijds de meest reproduceerbare oplossing.
+Omdat ik mijn eerste ronde van 18 holes al binnen drie maanden na mijn eerste lessen wilde spelen, leek een configuratie die draaide om ijzers destijds de meest herhaalbare oplossing.
 
-Later veranderde die aanname.
+Later veranderde die overtuiging.
 
-Toen ik golf begon te zien als iets wat ik mijn hele leven wilde blijven doen, besefte ik dat simpelweg meer clubs leren bespelen niet noodzakelijk de beste oplossing was.
+Toen ik golf begon te zien als een sport die ik mijn hele leven wilde blijven spelen, vroeg ik me af of steeds meer clubs leren gebruiken werkelijk de beste oplossing was.
 
-Uiteindelijk veranderde zelfs de vraag zelf.
+Uiteindelijk veranderde de vraag zelf.
 
-In plaats van mezelf af te vragen:
+Ik vroeg me niet langer af:
 
-> "Welke club moet ik hierna leren bespelen?"
+> "Welke club moet ik hierna leren gebruiken?"
 
-begon ik mezelf af te vragen:
+Maar:
 
 > "Hoeveel bewegingspatronen heb ik werkelijk nodig?"
 
-Elk extra bewegingspatroon kost tijd om te leren.
+Het kost veel tijd om een nieuw bewegingspatroon aan te leren.
 
-Belangrijker nog: het vereist voortdurende training om het te behouden.
+Nog belangrijker is dat het voortdurend onderhouden moet worden om behouden te blijven.
 
-Hoe meer bewegingspatronen er zijn, hoe hoger de onderhoudskosten op de lange termijn.
+Hoe meer bewegingspatronen er zijn, hoe hoger de onderhoudskosten op lange termijn worden.
 
-Deze theorie beschouwt onderhoudskosten als even belangrijk als de kosten van het leerproces.
+Binnen deze theorie worden onderhoudskosten als even belangrijk beschouwd als leerkosten.
 
-Golf draait uiteindelijk om het vooruit krijgen van de bal en het maken van een score.
+In de kern draait golf om het vooruit krijgen van de bal en het maken van een score.
 
-Als dat zo is, kan een diepgaand begrip van een kleiner aantal bewegingspatronen op de lange termijn duurzamer zijn.
+Als dat zo is, dan kan een diepgaand begrip van minder bewegingspatronen op de lange termijn een veel duurzamere oplossing zijn.
 
 Deze theorie probeert problemen niet op te lossen door meer hulpmiddelen toe te voegen.
 
-Ze probeert problemen op te lossen door minder hulpmiddelen grondiger te begrijpen.
+Ze probeert problemen op te lossen door een kleiner aantal hulpmiddelen beter te begrijpen.
 
-De huidige implementatie, gebaseerd op woods, is het resultaat van die filosofie.
+De huidige implementatie, waarin fairwaywoods centraal staan, is rechtstreeks uit die manier van denken ontstaan.
 
 ---
 
-## Why Prioritize the Ability to Recover?
+## Waarom recovery prioriteit geven?
 
-Een veelgestelde vraag over deze theorie is:
+Een van de meest gestelde vragen over deze theorie is:
 
 > "Wat gebeurt er als je fairwaywoods niet meer werken?"
 
-Dat is een terechte zorg.
+Dat is een volkomen terechte vraag.
 
-Een traditionele configuratie biedt meestal meerdere alternatieven.
+Een traditionele clubsamenstelling biedt meestal meerdere alternatieven.
 
-Als de driver niet werkt, gebruik je een fairwaywood.
+Werkt de driver niet, dan neem je een fairwaywood.
 
-Als de fairwaywood niet werkt, gebruik je een hybride.
+Werkt de fairwaywood niet, dan neem je een hybride.
 
-Als de hybride niet werkt, gebruik je een ijzer.
+Werkt de hybride niet, dan neem je een ijzer.
 
 Deze theorie vermindert die alternatieven bewust.
 
@@ -584,342 +594,351 @@ De reden is eenvoudig.
 
 Ze geeft de voorkeur aan beheersing boven redundantie.
 
-In plaats van problemen op te lossen door van club te wisselen, moedigt ze aan om problemen op te lossen met de club die al voor die verantwoordelijkheid is aangewezen.
+In plaats van van club te wisselen wanneer zich een probleem voordoet, probeert ze dat probleem op te lossen met de club waaraan die taak oorspronkelijk is toegewezen.
 
-Meer keuzemogelijkheden kunnen een gevoel van zekerheid geven.
+Meer keuzemogelijkheden geven een gevoel van zekerheid.
 
-Minder keuzemogelijkheden kunnen leiden tot een dieper begrip.
+Minder keuzemogelijkheden leiden tot een veel dieper begrip van iedere afzonderlijke club.
 
-Deze theorie kiest bewust voor het laatste.
+Deze theorie kiest bewust voor die laatste benadering.
 
 ---
 
-## Why This Theory Does Not Use Irons
+## Waarom deze theorie geen ijzers gebruikt
 
-In de huidige implementatie maakt deze theorie geen gebruik van ijzers.
+In de huidige implementatie worden geen ijzers gebruikt.
 
-Dat komt niet doordat ijzers slechte clubs zouden zijn.
+Dat betekent niet dat ijzers slechte clubs zijn.
 
 Integendeel.
 
-IJzers zijn uitstekende hulpmiddelen.
+IJzers zijn uitstekende clubs.
 
-De werkelijke vraag is een andere.
+De echte vraag is een andere.
 
-> Zijn ijzers de beste langetermijnoplossing voor dit specifieke systeem?
+> "Zijn ijzers op de lange termijn werkelijk de beste keuze voor dit systeem?"
 
-Aanvankelijk leek een configuratie rond ijzers heel logisch.
+Aanvankelijk leek een configuratie die draaide om ijzers mij de meest logische oplossing.
 
-Na het afwegen van duurzaamheid op lange termijn, de benodigde trainingsomvang, reproduceerbaarheid en onderhoudskosten kwam ik echter tot de conclusie dat ijzers niet geschikt waren voor de huidige implementatie van deze theorie.
+Na het afwegen van duurzaamheid op de lange termijn, de benodigde trainingsomvang, herhaalbaarheid en onderhoudskosten kwam ik echter tot de conclusie dat ijzers niet de beste keuze zijn voor de huidige implementatie van deze theorie.
 
-De belangrijkste criteria waren:
+Die beslissing is gebaseerd op vier criteria:
 
-- Duurzaamheid op lange termijn
+- Duurzaamheid op de lange termijn
 - Benodigde trainingsomvang
-- Reproduceerbaarheid
+- Herhaalbaarheid
 - Onderhoudskosten
 
 Veel ervaren golfers zeggen uiteindelijk:
 
-> "Ik kan mijn ijzers niet meer slaan zoals vroeger."
+> "Ik sla mijn ijzers niet meer zoals vroeger."
 
-De redenen kunnen leeftijd, blessures, minder training of andere lichamelijke veranderingen zijn.
+De redenen kunnen uiteenlopen.
 
-Toch komt deze observatie steeds opnieuw terug binnen de golfwereld.
+Leeftijd.
 
-Op basis van mijn eigen ervaring besloot ik niet te wachten tot dat moment.
+Blessures.
 
-In plaats daarvan wijst deze theorie de traditionele verantwoordelijkheden van ijzers toe aan fairwaywoods en wedges.
+Minder training.
 
-Deze theorie verwerpt ijzers niet.
+Of simpelweg andere lichamelijke veranderingen.
 
-Ze verdeelt hun verantwoordelijkheden simpelweg op een andere manier.
+Welke oorzaak het ook is, dit soort uitspraken hoor je voortdurend binnen de golfsport.
+
+Op basis van mijn eigen ervaringen besloot ik niet te wachten tot dat moment zou aanbreken.
+
+Daarom worden binnen deze theorie de rollen die traditioneel door ijzers werden vervuld, overgenomen door fairwaywoods.
+
+Deze theorie wijst ijzers niet af.
+
+Ze definieert hun rol eenvoudig opnieuw.
 
 ---
 
-## Why This Theory Does Not Use Hybrids
+## Waarom deze theorie geen hybrides gebruikt
 
-In de huidige implementatie maakt deze theorie geen gebruik van hybrides.
+In de huidige implementatie worden geen hybrides gebruikt.
 
 De reden is niet de afstand.
 
-De reden is duurzaamheid op lange termijn.
+De reden is duurzaamheid op de lange termijn.
 
-Tijdens het testen bleken fairwaywoods bij vergelijkbare lofts beter aan te sluiten bij deze theorie dan hybrides.
+Na veel testen kwam ik tot de conclusie dat fairwaywoods met een vergelijkbare loft beter aansluiten bij de principes van deze theorie dan hybrides.
 
-De belangrijkste redenen waren:
+De belangrijkste redenen zijn:
 
-- Een bredere zool
-- Soepeler contact met de grond
-- Gemakkelijker de bal de lucht in krijgen
-- Meer hoogte met minder inspanning
-- Minder belasting van de polsen
+- Een bredere zool.
+- Soepeler contact met de grasmat.
+- De bal gemakkelijker de lucht in krijgen.
+- Meer hoogte met minder inspanning.
 
-Fairwaywoods maakten het bovendien gemakkelijker om met minder fysieke inspanning voldoende hoogte en afstand te creëren.
+Fairwaywoods maken het bovendien mogelijk om hoogte en afstand te genereren met minder lichamelijke belasting.
 
-Deze theorie beweert niet dat hybrides ongeschikt zijn.
+Deze theorie beweert niet dat hybrides slechte clubs zijn.
 
-Voor veel golfers zijn hybrides uitstekende clubs.
+Voor veel golfers zijn het uitstekende clubs.
 
-Binnen de principes van dit systeem vervulden fairwaywoods echter dezelfde verantwoordelijkheden met minder compromissen.
+Binnen de principes van dit systeem bleken fairwaywoods echter beter aan te sluiten bij deze theorie.
 
-Daarom maken hybrides geen deel uit van de huidige implementatie.
+Daarom worden in de huidige implementatie geen hybrides gebruikt.
 
 ---
 
-## Why This Theory Limits Wedge Distances
+## Waarom deze theorie de afstand van wedges beperkt
 
-Binnen deze theorie worden wedges niet gebruikt om maximale afstand te bereiken.
+Binnen deze theorie is het doel van wedges niet om maximale afstand te genereren.
 
 Hun rol is precisie.
 
-Ze worden gebruikt om een voorspelbare balvlucht en landingsplek te creëren, terwijl onnodige fysieke belasting tot een minimum wordt beperkt.
+Het doel is om voorspelbare balvluchten en landingspunten te creëren en tegelijkertijd onnodige lichamelijke belasting tot een minimum te beperken.
 
-In plaats van afstand af te dwingen met een agressieve techniek, legt deze theorie de nadruk op een stabiel contact tussen de zool van de club en de grond, en op reproduceerbaar balcontact.
+In plaats van meer afstand te creëren met een agressieve techniek, legt deze theorie de nadruk op stabiel contact tussen de zool en de grond en op een zeer herhaalbaar impactmoment.
 
-De nadruk ligt niet op kracht.
+De prioriteit is niet kracht.
 
-De nadruk ligt op consistentie.
+De prioriteit is consistentie.
 
-Binnen de huidige implementatie:
+Binnen de huidige implementatie geldt:
 
-- De SW (58°) is verantwoordelijk voor carry-afstanden tussen 1 en 40 yard.
-- De AW (46°) is verantwoordelijk voor carry-afstanden tussen 1 en 80 yard.
+- De SW (58°) bestrijkt carry-afstanden van 1 tot 40 yard.
+- De AW (46°) bestrijkt carry-afstanden van 1 tot 80 yard.
 
-De basisrol van de wedges is duidelijk.
+De rol van de wedges is duidelijk.
 
-Breng de bal omhoog.
+De bal omhoog spelen.
 
-Beheers het landingspunt.
+Het landingspunt controleren.
 
-Breng de bal tot stilstand.
+De bal laten stoppen.
 
-Wanneer een rollende approach mogelijk is, of wanneer een langere approach geschikter is, verschuift deze verantwoordelijkheid naar de 13W.
+Wanneer een bump-and-run geschikter is, of wanneer een langere approach de betere keuze vormt, wordt die verantwoordelijkheid overgedragen aan de 13W.
 
-Deze theorie verwacht niet dat wedges elk mogelijk type slag uitvoeren.
+Deze theorie verwacht niet dat wedges alle soorten slagen uitvoeren.
 
-Elke club krijgt een duidelijk omschreven rol.
+Iedere club krijgt een duidelijk afgebakende rol.
 
 Binnen de huidige implementatie zijn de verantwoordelijkheden als volgt verdeeld:
 
-- Rollende approaches → 13W / AW
-- Slagen die zowel hoogte als voorwaartse beweging vereisen → AW
+- Bump-and-run → 13W / AW
+- Slagen waarbij zowel hoogte als voorwaartse afstand nodig zijn → AW
 - Maximale hoogte en maximale stopkracht → SW
 
-Deze rolverdeling vermindert overlap tussen clubs en versterkt de rolspecialisatie binnen het gehele systeem.
+Deze rolverdeling vermindert de overlap tussen clubs en versterkt de rolspecialisatie binnen het volledige systeem.
 
 ---
 
-## Why This Theory Does Not Use a Driver
+## Waarom deze theorie geen driver gebruikt
 
-Binnen de huidige implementatie gebruikt deze theorie de driver niet als primaire club voor het maken van scores.
+Binnen de huidige implementatie wordt de driver niet gebruikt als de centrale club van het scoresysteem.
 
 De reden is niet de afstand.
 
-De reden is reproduceerbaarheid, duurzaamheid en vereenvoudiging van het systeem.
+De redenen zijn herhaalbaarheid, duurzaamheid en vereenvoudiging van het systeem.
 
-Een driver is ontworpen om een bal van een tee te slaan.
+Een driver is ontworpen om een bal vanaf een tee te slaan.
 
-Een fairwaywood daarentegen is ontworpen om een bal vanaf de grond te slaan.
+Een fairwaywood is daarentegen ontworpen om een bal rechtstreeks vanaf de grond te slaan.
 
-Het gebruik van een driver introduceert extra variabelen, zoals:
+Het gebruik van een driver introduceert extra variabelen:
 
-- Teehoogte
-- Een opwaartse invalshoek
-- Een swingschema dat specifiek is voor de driver
+- De hoogte van de tee.
+- Een opwaartse invalshoek.
+- Een specifiek swingpatroon voor de driver.
 
-Ik kan met een driver een zeer hoge maximale clubsnelheid genereren.
+Natuurlijk kan een driver meer afstand genereren dan de 3W die in de huidige implementatie wordt gebruikt.
 
-Deze theorie geeft echter de voorkeur aan stabiele prestaties boven maximale prestaties.
+Deze theorie geeft echter prioriteit aan duurzame prestaties boven maximale prestaties.
 
-In plaats van problemen op te lossen nadat ze zijn ontstaan, probeert deze theorie de variabelen die deze problemen veroorzaken vanaf het begin te verminderen.
+In plaats van problemen op te lossen nadat ze zijn ontstaan, probeert zij de variabelen te verminderen die deze problemen veroorzaken.
 
-Daarom vervult in de huidige implementatie de 3W, en niet de driver, de rol van club voor maximale afstand.
+Daarom vervult binnen de huidige implementatie de 3W — en niet de driver — de rol van club voor maximale afstand.
 
-De prioriteit ligt niet bij de maximale afstand.
+De prioriteit is niet de grootst mogelijke afstand.
 
-De prioriteit ligt bij een voldoende grote afstand die betrouwbaar kan worden herhaald.
+De prioriteit is een voldoende afstand die betrouwbaar en herhaalbaar kan worden geproduceerd.
 
 ---
 
-## Why This Theory Does Not Use Tees
+## Waarom deze theorie geen tees gebruikt
 
-Deze theorie behandelt de eerste slag van een hole niet als een aparte categorie.
+Deze theorie behandelt de eerste slag van een hole niet als een uitzondering.
 
-Daarom worden tees in de huidige implementatie niet gebruikt.
+Daarom worden binnen de huidige implementatie geen tees gebruikt.
 
-De club voor maximale afstand is de 3W, en alle slagen worden gespeeld vanuit dezelfde referentie: de grond.
+De club voor maximale afstand is de 3W en alle slagen worden rechtstreeks vanaf de grond gespeeld.
 
-Hierdoor hoeft het systeem voor de eerste slag geen afzonderlijk uitgangspunt te introduceren.
+Zo wordt voorkomen dat uitsluitend voor de eerste slag een aparte uitgangssituatie ontstaat.
 
-Het weglaten van tees elimineert ook extra beheertaken:
+Het niet gebruiken van tees elimineert bovendien verschillende beheertaken:
 
-- Tees kopen
-- Tees meenemen
-- Tees plaatsen
-- Tees oprapen
-- Gebroken tees weggooien
-- De voorraad tees aanvullen
+- Tees kopen.
+- Tees meenemen.
+- Tees in de grond steken.
+- Tees oprapen.
+- Gebroken tees weggooien.
+- Nieuwe tees aanvullen.
 
 Natuurlijk betekent spelen vanaf de grond dat de invloed van de ligging van de bal wordt geaccepteerd.
 
 Dat is een bewuste keuze.
 
-Na de eerste slag moet immers iedere volgende slag zich al aanpassen aan de ligging van de bal.
+Na de eerste slag moeten alle volgende slagen zich toch al aanpassen aan de ligging van de bal.
 
-Deze theorie maakt van de eerste slag geen uitzondering.
+Deze theorie weigert eenvoudigweg de eerste slag als uitzondering te behandelen.
 
-De eerste slag en alle daaropvolgende slagen maken deel uit van hetzelfde systeem dat gebaseerd is op spelen vanaf de grond.
+De eerste slag en alle daaropvolgende slagen maken deel uit van hetzelfde systeem waarin vanaf de grond wordt gespeeld.
 
-Dit is geen beslissing om afstand op te geven.
+Het gaat er niet om afstand op te geven.
 
-Het is een beslissing om variabelen te verminderen en de reproduceerbaarheid te vergroten.
+Het gaat erom variabelen te verminderen en de herhaalbaarheid te vergroten.
 
 ---
 
-## The Role of the Driver
+## De rol van de driver
 
-Deze theorie verwerpt de driver zelf niet.
+Deze theorie wijst de driver zelf niet af.
 
-De driver is een uitstekende club om maximale afstand te bereiken.
+De driver is een uitstekende club voor wie maximale afstand wil bereiken.
 
-Ik heb hem zelf ook gebruikt tijdens mijn zoektocht naar maximale afstand.
+Ook ik heb de driver gebruikt toen maximale afstand mijn doel was.
 
-Met een agressieve swing kan hij een hogere maximale clubsnelheid en meer afstand produceren dan de 3W in de huidige implementatie.
+Natuurlijk kan een driver meer afstand genereren dan de 3W die in de huidige implementatie wordt gebruikt.
 
-Deze theorie geeft echter de voorkeur aan duurzame prestaties boven maximale prestaties.
+Deze theorie geeft echter prioriteit aan duurzame prestaties boven maximale prestaties.
 
-Daarom is de driver in de huidige implementatie uit het kernsysteem voor het maken van scores verwijderd.
+Daarom maakt de driver binnen de huidige implementatie geen deel meer uit van de kern van het scoresysteem.
 
-De driver wordt niet beschouwd als een club om mee te scoren, maar als een club om maximale afstand na te streven.
+De driver wordt niet beschouwd als een club om scores mee te maken.
+
+Hij wordt beschouwd als een club om maximale afstand na te streven.
 
 Met andere woorden:
 
-- Driver = streven naar maximale afstand
-- 3W en lager = configuratie voor het maken van scores
+- Driver = Maximale afstand nastreven
+- 3W en kortere clubs = Scoresysteem
 
-De club voor maximale afstand in de huidige implementatie is de 3W.
+Binnen de huidige implementatie is de 3W de club die verantwoordelijk is voor de maximale afstand.
 
-De driver is niet afgedankt.
+De driver is niet opgegeven.
 
-Zijn rol is veranderd.
+Alleen zijn rol is veranderd.
 
 ---
 
-## Why This Theory Does Not Use Gloves
+## Waarom deze theorie geen handschoenen gebruikt
 
-In de huidige implementatie maakt deze theorie geen gebruik van golfhandschoenen.
+Binnen de huidige implementatie worden geen golfhandschoenen gebruikt.
 
-Toen ik begon met golfen, droeg ik handschoenen aan beide handen.
+Toen ik begon met golfen, droeg ik aan beide handen handschoenen.
 
-Zelfs toen kreeg ik soms blaren of huidirritaties.
+Toch kreeg ik blaren en huidirritaties.
 
 Destijds dacht ik dat handschoenen noodzakelijk waren om mijn handen te beschermen.
 
-Naarmate mijn grip en swing stabieler werden, veranderde mijn kijk daarop.
+Naarmate mijn grip en swing stabieler werden, veranderde die overtuiging.
 
-Een reproduceerbare swing vereist geen overmatige gripdruk.
+Een herhaalbare swing vereist geen overmatige knijpkracht.
 
-Toen onnodige spanning verdween, waren handschoenen niet langer noodzakelijk.
+Toen die onnodige spanning verdween, werden ook handschoenen overbodig.
 
-Het weglaten van handschoenen elimineert ook extra beheertaken:
+Geen handschoenen gebruiken elimineert bovendien verschillende beheertaken:
 
-- Handschoenen kopen
-- Handschoenen meenemen
-- Handschoenen aan- en uittrekken
-- Handschoenen wassen
-- Handschoenen drogen
-- Handschoenen vervangen
+- Handschoenen kopen.
+- Handschoenen meenemen.
+- Handschoenen aan- en uittrekken.
+- Handschoenen wassen.
+- Handschoenen laten drogen.
+- Handschoenen vervangen.
 
-Daarnaast verdwijnen ook typische problemen die met handschoenen samenhangen, zoals:
+Daarnaast vermindert het ook problemen zoals:
 
-- Verharding door zweet
-- Vuil
-- Glijden binnen de handschoen
-- Bruiningsstrepen door handschoenen
+- Verharding door zweet.
+- Vuil.
+- Het verschuiven van de hand binnen de handschoen.
+- Bruiningsstrepen door handschoenen.
 
-Spelen zonder handschoenen maakt binnen deze theorie deel uit van de Optimalisatie van de Beheercomplexiteit.
+Ook het niet gebruiken van handschoenen maakt deel uit van de optimalisatie van managementcomplexiteit binnen deze theorie.
 
 ---
 
-## Why This Theory Does Not Use a Chipper
+## Waarom deze theorie geen chipper gebruikt
 
-In de huidige implementatie maakt deze theorie geen gebruik van een chipper.
+Binnen de huidige implementatie wordt geen chipper gebruikt.
 
 De reden is eenvoudig.
 
-De rol van een chipper wordt binnen het huidige systeem al vervuld door andere clubs.
+Zijn rol wordt al volledig vervuld door andere clubs binnen het huidige systeem.
 
 Binnen de huidige implementatie zijn de verantwoordelijkheden als volgt verdeeld:
 
-- Rollende approaches → 13W / AW
-- Slagen die zowel hoogte als voorwaartse beweging vereisen → AW
+- Bump-and-run → 13W / AW
+- Slagen waarbij zowel hoogte als voorwaartse afstand nodig zijn → AW
 - Maximale hoogte en maximale stopkracht → SW
 
-Voordat een nieuwe club wordt toegevoegd, vraagt deze theorie zich eerst af of het huidige systeem het probleem al kan oplossen.
+Voordat een nieuwe club wordt toegevoegd, vraagt deze theorie zich eerst af of het bestaande systeem het probleem al kan oplossen.
 
-Een extra club biedt meer keuzemogelijkheden.
+Het toevoegen van een nieuwe club vergroot het aantal beschikbare opties.
 
-Tegelijkertijd vergroot hij ook de beheercomplexiteit.
+Maar tegelijkertijd neemt ook de managementcomplexiteit toe.
 
-Daarom stelt deze theorie, voordat een nieuw hulpmiddel wordt toegevoegd, eerst de volgende vragen:
+Daarom stelt deze theorie, voordat een nieuw hulpmiddel wordt toegevoegd, eerst twee vragen:
 
-- Kan het huidige systeem dit probleem oplossen?
-- Kan de benodigde vaardigheid worden ontwikkeld met een bestaande club?
+- Kan het huidige systeem dit probleem al oplossen?
+- Kan deze vaardigheid worden ontwikkeld met de bestaande clubs?
 
-Pas wanneer het antwoord nee is, zou een nieuwe club moeten worden overwogen.
+Pas wanneer beide vragen ontkennend worden beantwoord, wordt een nieuwe club overwogen.
 
 Binnen de huidige implementatie is een chipper niet nodig.
 
-Deze theorie verwerpt chippers niet.
+Deze theorie wijst de chipper niet af.
 
-Ze concludeert simpelweg dat hun rol al binnen het huidige systeem aanwezig is.
+Ze concludeert eenvoudig dat zijn rol binnen het huidige systeem al volledig wordt vervuld.
 
 ---
 
 ## KPI
 
-### Short-Term Goals
+### Kortetermijndoelen
 
-- Onder de 90 spelen vanaf de witte tees.
-- Consequent onder de 100 spelen vanaf de blauwe tees.
-
----
-
-### Mid-Term Goals
-
-- Consequent scores in de 90 behalen vanaf de blauwe tees.
-- Golf blijven spelen zonder ernstige blessures.
+- Onder de 90 slagen spelen vanaf de witte tees.
+- Consequent onder de 100 slagen spelen vanaf de blauwe tees.
 
 ---
 
-### Long-Term Goals
+### Middellangetermijndoelen
 
-- Golf op par-niveau bereiken.
-- Een golfsysteem opbouwen dat een leven lang kan worden volgehouden.
+- Regelmatig scores in de 90 behalen vanaf de blauwe tees.
+- Golf blijven spelen zonder ernstige blessures op te lopen.
 
 ---
 
-## Conclusion
+### Langetermijndoelen
+
+- Golf op parniveau bereiken.
+- Een golfsysteem voltooien dat een leven lang kan worden volgehouden.
+
+---
+
+## Slotwoord
 
 Deze theorie is nog niet voltooid.
 
-De zoektocht gaat verder.
+Het validatieproces gaat verder.
 
 Naarmate nieuwe observaties worden verzameld, kunnen zowel de theorie als de implementatie zich verder ontwikkelen.
 
-Deze theorie is niet slechts een gedachte-experiment.
+Deze theorie is geen louter gedachte-experiment.
 
-Ik zal deze theorie blijven toepassen, de resultaten blijven publiceren en haar in de loop van de tijd blijven testen.
+Ik zal haar blijven toepassen, de resultaten blijven publiceren en haar op de lange termijn blijven valideren.
 
-Kan deze theorie werkelijk werken?
+Werkt deze theorie werkelijk?
 
-Is het mogelijk om golf op par-niveau te bereiken terwijl het lichaam op de lange termijn wordt beschermd?
+Is het mogelijk om golf op parniveau te spelen en tegelijkertijd het lichaam op de lange termijn te beschermen?
 
-Het antwoord zal voortkomen uit toekomstige rondes en langdurige tests.
+Het antwoord zal geleidelijk duidelijk worden door toekomstige rondes en voortdurende validatie.
 
-Ik wil nog vele jaren golf blijven spelen.
+Ik hoop nog vele jaren golf te kunnen blijven spelen.
 
-En ik hoop dat deze theorie ook anderen kan helpen die hetzelfde doel nastreven.
+En ik hoop ook dat deze theorie anderen kan helpen die hetzelfde doel nastreven.
 
-Dit project is een uitdaging op weg naar dat doel.
+Dit project is mijn poging om dat antwoord te vinden.
